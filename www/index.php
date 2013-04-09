@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -6,14 +6,14 @@
 
         <style type="text/css">
             body{
-                background-color: #ffcc99;
+                background-color: buttonface;
             }
             td{
                 padding:30px;
             }
             
             .header{
-                background-color: #ffcccc;
+                background-color: lightgreen;
             }
             .main{
                 background-color: #ffffff;
@@ -21,7 +21,7 @@
                 vertical-align: top;
             }
             .footer{
-                background-color: #ffcccc;
+                background-color: lightgreen;
             }
 
         </style>
@@ -41,7 +41,15 @@
 <!-- MAIN -->
             <tr class="main">
                 <td>
+<?php
 
+    include_once("api2gis/api2gis.php");
+    
+    $api2gis = new Api2gis('ruhlhy8961');
+    $result = $api2gis->LoadProjectsList();
+    echo $result;
+
+?>
 				
 				
 				
@@ -52,9 +60,8 @@
 <!-- FOOTER -->
             <tr class="footer">
                 <td>
-                    <a href="http://imarket30.loc">iMarket 30</a>
+                    <a href="http://api.2gis.ru">api.2gis.ru</a>
                     |
-                    <a href="http://ymp.imarket30.loc">Yandex-market Parser</a>
                 </td>
             </tr>
         </table>
