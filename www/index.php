@@ -35,6 +35,12 @@
                 <td>
                     <h1>api2gis - вытаскиваем справочники</h1>
 
+                    <a href="http://api.2gis.ru">api.2gis.ru</a>
+                    |
+                    <a href="/clear_all_tables.php">ОЧИСТИТЬ ВСЕ ТАБЛИЦЫ</a>
+                    |
+                    <a href="http://api.2gis.ru">api.2gis.ru</a>
+
                 </td>
             </tr>
 
