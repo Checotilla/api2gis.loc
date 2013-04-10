@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <api_version>1.3</api_version>
+  <response_code>200</response_code>
+  <result parent_id="" total="27" rubric_count="866" firm_count="12540">
+    <rubric>
+      <id>1126020165932331</id>
+      <name><![CDATA[Аварийные / справочные / экстренные службы]]></name>
+      <alias><![CDATA[avarijjnye_spravochnye_ehkstrennye_sluzhby]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165969815</id>
+      <name><![CDATA[Автосервис / Автотовары]]></name>
+      <alias><![CDATA[avtoservis_avtotovary]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926913</id>
+      <name><![CDATA[Город / Власть]]></name>
+      <alias><![CDATA[gorod_vlast]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926914</id>
+      <name><![CDATA[Досуг / Развлечения / Общественное питание]]></name>
+      <alias><![CDATA[dosug_razvlecheniya_obshhestvennoe_pitanie]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165946444</id>
+      <name><![CDATA[Интернет / Связь / Информационные технологии]]></name>
+      <alias><![CDATA[internet_svyaz_informacionnye_tekhnologii]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926922</id>
+      <name><![CDATA[Коммунальные / бытовые / ритуальные услуги]]></name>
+      <alias><![CDATA[kommunalnye_bytovye_ritualnye_uslugi]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926915</id>
+      <name><![CDATA[Компьютеры / Бытовая техника / Офисная техника]]></name>
+      <alias><![CDATA[kompyutery_bytovaya_tekhnika_ofisnaya_tekhnika]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926916</id>
+      <name><![CDATA[Культура / Искусство / Религия]]></name>
+      <alias><![CDATA[kultura_iskusstvo_religiya]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165927699</id>
+      <name><![CDATA[Мебель / Материалы / Фурнитура]]></name>
+      <alias><![CDATA[mebel_materialy_furnitura]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926917</id>
+      <name><![CDATA[Медицина / Здоровье / Красота]]></name>
+      <alias><![CDATA[medicina_zdorove_krasota]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926925</id>
+      <name><![CDATA[Металлы / Топливо / Химия]]></name>
+      <alias><![CDATA[metally_toplivo_khimiya]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926927</id>
+      <name><![CDATA[Оборудование / Инструмент]]></name>
+      <alias><![CDATA[oborudovanie_instrument]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926918</id>
+      <name><![CDATA[Образование / Работа / Карьера]]></name>
+      <alias><![CDATA[obrazovanie_rabota_karera]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165927947</id>
+      <name><![CDATA[Одежда / Обувь]]></name>
+      <alias><![CDATA[odezhda_obuv]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165928533</id>
+      <name><![CDATA[Охрана / Безопасность]]></name>
+      <alias><![CDATA[okhrana_bezopasnost]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926926</id>
+      <name><![CDATA[Продукты питания / Напитки]]></name>
+      <alias><![CDATA[produkty_pitaniya_napitki]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926919</id>
+      <name><![CDATA[Реклама / Полиграфия / СМИ]]></name>
+      <alias><![CDATA[reklama_poligrafiya_smi]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926920</id>
+      <name><![CDATA[Спорт / Отдых / Туризм]]></name>
+      <alias><![CDATA[sport_otdykh_turizm]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165969779</id>
+      <name><![CDATA[Строительные / отделочные материалы]]></name>
+      <alias><![CDATA[stroitelnye_otdelochnye_materialy]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926921</id>
+      <name><![CDATA[Строительство / Недвижимость / Ремонт]]></name>
+      <alias><![CDATA[stroitelstvo_nedvizhimost_remont]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165969784</id>
+      <name><![CDATA[Текстиль / Предметы интерьера]]></name>
+      <alias><![CDATA[tekstil_predmety_interera]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165927658</id>
+      <name><![CDATA[Товары для животных / Ветеринария]]></name>
+      <alias><![CDATA[tovary_dlya_zhivotnykh_veterinariya]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165933459</id>
+      <name><![CDATA[Торговые комплексы / Спецмагазины]]></name>
+      <alias><![CDATA[torgovye_kompleksy_specmagaziny]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926924</id>
+      <name><![CDATA[Транспорт / Грузоперевозки]]></name>
+      <alias><![CDATA[transport_gruzoperevozki]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165926923</id>
+      <name><![CDATA[Хозтовары / Канцелярия / Упаковка]]></name>
+      <alias><![CDATA[khoztovary_kancelyariya_upakovka]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165969775</id>
+      <name><![CDATA[Электроника / Электротехника]]></name>
+      <alias><![CDATA[ehlektronika_ehlektrotekhnika]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+    <rubric>
+      <id>1126020165927881</id>
+      <name><![CDATA[Юридические / финансовые / бизнес-услуги]]></name>
+      <alias><![CDATA[yuridicheskie_finansovye_biznes_uslugi]]></alias>
+      <parent_id>0</parent_id>
+    </rubric>
+  </result>
+</root>

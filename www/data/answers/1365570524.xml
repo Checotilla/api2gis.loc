@@ -1,0 +1,4418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <api_version>1.3</api_version>
+  <response_code>200</response_code>
+  <result parent_id="" total="27" rubric_count="866" firm_count="12540">
+    <rubric>
+      <id>1126020165932331</id>
+      <name><![CDATA[Аварийные / справочные / экстренные службы]]></name>
+      <alias><![CDATA[avarijjnye_spravochnye_ehkstrennye_sluzhby]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927629</id>
+          <name><![CDATA[Телефоны доверия]]></name>
+          <alias><![CDATA[telefony_doveriya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927619</id>
+          <name><![CDATA[Управление ГО и ЧС]]></name>
+          <alias><![CDATA[upravlenie_go_i_chs]]></alias>
+        </child>
+        <child>
+          <id>1126020165927055</id>
+          <name><![CDATA[Пожарная охрана]]></name>
+          <alias><![CDATA[pozharnaya_okhrana]]></alias>
+        </child>
+        <child>
+          <id>1126020165927139</id>
+          <name><![CDATA[Скорая медицинская помощь]]></name>
+          <alias><![CDATA[skoraya_medicinskaya_pomoshh]]></alias>
+        </child>
+        <child>
+          <id>1126020165936779</id>
+          <name><![CDATA[Эвакуация автомобилей]]></name>
+          <alias><![CDATA[ehvakuaciya_avtomobilejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927034</id>
+          <name><![CDATA[Аварийные службы]]></name>
+          <alias><![CDATA[avarijjnye_sluzhby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927063</id>
+          <name><![CDATA[Справочно-информационные услуги]]></name>
+          <alias><![CDATA[spravochno_informacionnye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927626</id>
+          <name><![CDATA[Службы спасения]]></name>
+          <alias><![CDATA[sluzhby_spaseniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165928556</id>
+          <name><![CDATA[Службы экстренного вызова]]></name>
+          <alias><![CDATA[sluzhby_ehkstrennogo_vyzova]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165969815</id>
+      <name><![CDATA[Автосервис / Автотовары]]></name>
+      <alias><![CDATA[avtoservis_avtotovary]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165934812</id>
+          <name><![CDATA[Аппаратная замена масла]]></name>
+          <alias><![CDATA[apparatnaya_zamena_masla]]></alias>
+        </child>
+        <child>
+          <id>1126020165927324</id>
+          <name><![CDATA[Ремонт АКПП]]></name>
+          <alias><![CDATA[remont_akpp]]></alias>
+        </child>
+        <child>
+          <id>1126020165927345</id>
+          <name><![CDATA[Специализированное автооборудование]]></name>
+          <alias><![CDATA[specializirovannoe_avtooborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927317</id>
+          <name><![CDATA[Автомойки]]></name>
+          <alias><![CDATA[avtomojjki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927322</id>
+          <name><![CDATA[Антикоррозийная обработка автомобилей]]></name>
+          <alias><![CDATA[antikorrozijjnaya_obrabotka_avtomobilejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927320</id>
+          <name><![CDATA[Автосигнализации - продажа / установка]]></name>
+          <alias><![CDATA[avtosignalizacii_prodazha_ustanovka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927557</id>
+          <name><![CDATA[Автоэмали]]></name>
+          <alias><![CDATA[avtoehmali]]></alias>
+        </child>
+        <child>
+          <id>1126020165927337</id>
+          <name><![CDATA[Автоаксессуары]]></name>
+          <alias><![CDATA[avtoaksessuary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927338</id>
+          <name><![CDATA[Автохимия / Масла]]></name>
+          <alias><![CDATA[avtokhimiya_masla]]></alias>
+        </child>
+        <child>
+          <id>1126020165927339</id>
+          <name><![CDATA[Автошины / Диски]]></name>
+          <alias><![CDATA[avtoshiny_diski]]></alias>
+        </child>
+        <child>
+          <id>1126020165951726</id>
+          <name><![CDATA[Аэрография на транспорте]]></name>
+          <alias><![CDATA[aehrografiya_na_transporte]]></alias>
+        </child>
+        <child>
+          <id>1126020165934611</id>
+          <name><![CDATA[Ремонт карбюраторов / инжекторов]]></name>
+          <alias><![CDATA[remont_karbyuratorov_inzhektorov]]></alias>
+        </child>
+        <child>
+          <id>1126020165934669</id>
+          <name><![CDATA[Ремонт спецавтотехники]]></name>
+          <alias><![CDATA[remont_specavtotekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927325</id>
+          <name><![CDATA[Тонирование автостёкол]]></name>
+          <alias><![CDATA[tonirovanie_avtostjokol]]></alias>
+        </child>
+        <child>
+          <id>1126020165934603</id>
+          <name><![CDATA[Ремонт ходовой части автомобиля]]></name>
+          <alias><![CDATA[remont_khodovojj_chasti_avtomobilya]]></alias>
+        </child>
+        <child>
+          <id>1126020165931444</id>
+          <name><![CDATA[Технический осмотр транспорта]]></name>
+          <alias><![CDATA[tekhnicheskijj_osmotr_transporta]]></alias>
+        </child>
+        <child>
+          <id>1126020165937324</id>
+          <name><![CDATA[Ремонт электронных систем управления автомобиля]]></name>
+          <alias><![CDATA[remont_ehlektronnykh_sistem_upravleniya_avtomobilya]]></alias>
+        </child>
+        <child>
+          <id>1126020165935378</id>
+          <name><![CDATA[Запчасти для спецавтотехники]]></name>
+          <alias><![CDATA[zapchasti_dlya_specavtotekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927342</id>
+          <name><![CDATA[Автозапчасти для иномарок]]></name>
+          <alias><![CDATA[avtozapchasti_dlya_inomarok]]></alias>
+        </child>
+        <child>
+          <id>1126020165927326</id>
+          <name><![CDATA[Тюнинг]]></name>
+          <alias><![CDATA[tyuning]]></alias>
+        </child>
+        <child>
+          <id>1126020165927316</id>
+          <name><![CDATA[Автозвук - продажа / установка]]></name>
+          <alias><![CDATA[avtozvuk_prodazha_ustanovka]]></alias>
+        </child>
+        <child>
+          <id>1126020165945459</id>
+          <name><![CDATA[Автозаправочные станции (АЗС)]]></name>
+          <alias><![CDATA[avtozapravochnye_stancii_azs]]></alias>
+        </child>
+        <child>
+          <id>1126020165930149</id>
+          <name><![CDATA[Запчасти к сельхозтехнике]]></name>
+          <alias><![CDATA[zapchasti_k_selkhoztekhnike]]></alias>
+        </child>
+        <child>
+          <id>1126020165927437</id>
+          <name><![CDATA[Контрактные автозапчасти]]></name>
+          <alias><![CDATA[kontraktnye_avtozapchasti]]></alias>
+        </child>
+        <child>
+          <id>1126020165934607</id>
+          <name><![CDATA[Ремонт бензиновых двигателей]]></name>
+          <alias><![CDATA[remont_benzinovykh_dvigatelejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165934602</id>
+          <name><![CDATA[Развал / Схождение]]></name>
+          <alias><![CDATA[razval_skhozhdenie]]></alias>
+        </child>
+        <child>
+          <id>1126020165934604</id>
+          <name><![CDATA[Ремонт автоэлектрики]]></name>
+          <alias><![CDATA[remont_avtoehlektriki]]></alias>
+        </child>
+        <child>
+          <id>1126020165934606</id>
+          <name><![CDATA[Ремонт дизельных двигателей]]></name>
+          <alias><![CDATA[remont_dizelnykh_dvigatelejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165934609</id>
+          <name><![CDATA[Ремонт / заправка автокондиционеров]]></name>
+          <alias><![CDATA[remont_zapravka_avtokondicionerov]]></alias>
+        </child>
+        <child>
+          <id>1126020165928052</id>
+          <name><![CDATA[Автозапчасти для отечественных автомобилей]]></name>
+          <alias><![CDATA[avtozapchasti_dlya_otechestvennykh_avtomobilejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927321</id>
+          <name><![CDATA[Автостоянки]]></name>
+          <alias><![CDATA[avtostoyanki]]></alias>
+        </child>
+        <child>
+          <id>1126020165937704</id>
+          <name><![CDATA[Установка / ремонт автостёкол]]></name>
+          <alias><![CDATA[ustanovka_remont_avtostjokol]]></alias>
+        </child>
+        <child>
+          <id>1126020165935953</id>
+          <name><![CDATA[Авторемонт и техобслуживание (СТО)]]></name>
+          <alias><![CDATA[avtoremont_i_tekhobsluzhivanie_sto]]></alias>
+        </child>
+        <child>
+          <id>1126020165928053</id>
+          <name><![CDATA[Автозапчасти для грузовых автомобилей]]></name>
+          <alias><![CDATA[avtozapchasti_dlya_gruzovykh_avtomobilejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927589</id>
+          <name><![CDATA[Автостекло]]></name>
+          <alias><![CDATA[avtosteklo]]></alias>
+        </child>
+        <child>
+          <id>1126020165927349</id>
+          <name><![CDATA[Газовое оборудование для автотранспорта]]></name>
+          <alias><![CDATA[gazovoe_oborudovanie_dlya_avtotransporta]]></alias>
+        </child>
+        <child>
+          <id>1126020165934601</id>
+          <name><![CDATA[Шиномонтаж]]></name>
+          <alias><![CDATA[shinomontazh]]></alias>
+        </child>
+        <child>
+          <id>1126020165934605</id>
+          <name><![CDATA[Кузовной ремонт]]></name>
+          <alias><![CDATA[kuzovnojj_remont]]></alias>
+        </child>
+        <child>
+          <id>1126020165927436</id>
+          <name><![CDATA[Автомобильные аккумуляторы]]></name>
+          <alias><![CDATA[avtomobilnye_akkumulyatory]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926913</id>
+      <name><![CDATA[Город / Власть]]></name>
+      <alias><![CDATA[gorod_vlast]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927049</id>
+          <name><![CDATA[ГИБДД]]></name>
+          <alias><![CDATA[gibdd]]></alias>
+        </child>
+        <child>
+          <id>1126020165928105</id>
+          <name><![CDATA[Пенсионные фонды]]></name>
+          <alias><![CDATA[pensionnye_fondy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927045</id>
+          <name><![CDATA[Органы государственного надзора]]></name>
+          <alias><![CDATA[organy_gosudarstvennogo_nadzora]]></alias>
+        </child>
+        <child>
+          <id>1126020165927451</id>
+          <name><![CDATA[Военная комендатура]]></name>
+          <alias><![CDATA[voennaya_komendatura]]></alias>
+        </child>
+        <child>
+          <id>1126020165945451</id>
+          <name><![CDATA[Государственные архивы]]></name>
+          <alias><![CDATA[gosudarstvennye_arkhivy]]></alias>
+        </child>
+        <child>
+          <id>1126020165951601</id>
+          <name><![CDATA[Приёмные депутатов]]></name>
+          <alias><![CDATA[prijomnye_deputatov]]></alias>
+        </child>
+        <child>
+          <id>1126020165980962</id>
+          <name><![CDATA[Нотариальные палаты]]></name>
+          <alias><![CDATA[notarialnye_palaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927239</id>
+          <name><![CDATA[Службы занятости населения]]></name>
+          <alias><![CDATA[sluzhby_zanyatosti_naseleniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165977447</id>
+          <name><![CDATA[Администрации поселений]]></name>
+          <alias><![CDATA[administracii_poselenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927066</id>
+          <name><![CDATA[Судебная экспертиза]]></name>
+          <alias><![CDATA[sudebnaya_ehkspertiza]]></alias>
+        </child>
+        <child>
+          <id>1126020165927032</id>
+          <name><![CDATA[Федеральные службы]]></name>
+          <alias><![CDATA[federalnye_sluzhby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927432</id>
+          <name><![CDATA[Социальные службы]]></name>
+          <alias><![CDATA[socialnye_sluzhby]]></alias>
+        </child>
+        <child>
+          <id>1126020165937703</id>
+          <name><![CDATA[Фонд обязательного медицинского страхования]]></name>
+          <alias><![CDATA[fond_obyazatelnogo_medicinskogo_strakhovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927162</id>
+          <name><![CDATA[Общественные организации]]></name>
+          <alias><![CDATA[obshhestvennye_organizacii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927163</id>
+          <name><![CDATA[Гидрометеослужба]]></name>
+          <alias><![CDATA[gidrometeosluzhba]]></alias>
+        </child>
+        <child>
+          <id>1126020165927164</id>
+          <name><![CDATA[Организации природоохраны]]></name>
+          <alias><![CDATA[organizacii_prirodookhrany]]></alias>
+        </child>
+        <child>
+          <id>1126020165927028</id>
+          <name><![CDATA[Администрации районов / округов городской власти]]></name>
+          <alias><![CDATA[administracii_rajjonov_okrugov_gorodskojj_vlasti]]></alias>
+        </child>
+        <child>
+          <id>1126020165978158</id>
+          <name><![CDATA[Отделения полиции]]></name>
+          <alias><![CDATA[otdeleniya_policii]]></alias>
+        </child>
+        <child>
+          <id>1126020165997426</id>
+          <name><![CDATA[Администрация города / городского округа]]></name>
+          <alias><![CDATA[administraciya_goroda_gorodskogo_okruga]]></alias>
+        </child>
+        <child>
+          <id>1126020165998094</id>
+          <name><![CDATA[Администрация области / края]]></name>
+          <alias><![CDATA[administraciya_oblasti_kraya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927052</id>
+          <name><![CDATA[Исправительные учреждения]]></name>
+          <alias><![CDATA[ispravitelnye_uchrezhdeniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927033</id>
+          <name><![CDATA[Законодательная власть]]></name>
+          <alias><![CDATA[zakonodatelnaya_vlast]]></alias>
+        </child>
+        <child>
+          <id>1126020165927148</id>
+          <name><![CDATA[Детские дома / Приюты]]></name>
+          <alias><![CDATA[detskie_doma_priyuty]]></alias>
+        </child>
+        <child>
+          <id>1126020165980156</id>
+          <name><![CDATA[Участковые пункты полиции]]></name>
+          <alias><![CDATA[uchastkovye_punkty_policii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927044</id>
+          <name><![CDATA[Налоговые инспекции]]></name>
+          <alias><![CDATA[nalogovye_inspekcii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927059</id>
+          <name><![CDATA[Таможня]]></name>
+          <alias><![CDATA[tamozhnya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927065</id>
+          <name><![CDATA[Суды]]></name>
+          <alias><![CDATA[sudy]]></alias>
+        </child>
+        <child>
+          <id>1126020165978264</id>
+          <name><![CDATA[Избирательные комиссии]]></name>
+          <alias><![CDATA[izbiratelnye_komissii]]></alias>
+        </child>
+        <child>
+          <id>1126020165978161</id>
+          <name><![CDATA[ОМВД / УМВД / ГУМВД / МВД]]></name>
+          <alias><![CDATA[omvd_umvd_gumvd_mvd]]></alias>
+        </child>
+        <child>
+          <id>1126020165951629</id>
+          <name><![CDATA[Представительства субъектов РФ]]></name>
+          <alias><![CDATA[predstavitelstva_subektov_rf]]></alias>
+        </child>
+        <child>
+          <id>1126020165927644</id>
+          <name><![CDATA[Отделы ветеринарно-санитарного контроля]]></name>
+          <alias><![CDATA[otdely_veterinarno_sanitarnogo_kontrolya]]></alias>
+        </child>
+        <child>
+          <id>1126020165935375</id>
+          <name><![CDATA[Федеральные миграционные службы]]></name>
+          <alias><![CDATA[federalnye_migracionnye_sluzhby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927839</id>
+          <name><![CDATA[Федеральные казначейства]]></name>
+          <alias><![CDATA[federalnye_kaznachejjstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165980417</id>
+          <name><![CDATA[МФЦ]]></name>
+          <alias><![CDATA[mfc]]></alias>
+        </child>
+        <child>
+          <id>1126020165927165</id>
+          <name><![CDATA[Политические организации]]></name>
+          <alias><![CDATA[politicheskie_organizacii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927058</id>
+          <name><![CDATA[Службы судебных приставов]]></name>
+          <alias><![CDATA[sluzhby_sudebnykh_pristavov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927056</id>
+          <name><![CDATA[Прокуратура]]></name>
+          <alias><![CDATA[prokuratura]]></alias>
+        </child>
+        <child>
+          <id>1126020165928106</id>
+          <name><![CDATA[Фонды социального страхования]]></name>
+          <alias><![CDATA[fondy_socialnogo_strakhovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165951264</id>
+          <name><![CDATA[Изоляторы временного содержания]]></name>
+          <alias><![CDATA[izolyatory_vremennogo_soderzhaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927593</id>
+          <name><![CDATA[Дома престарелых]]></name>
+          <alias><![CDATA[doma_prestarelykh]]></alias>
+        </child>
+        <child>
+          <id>1126020165927406</id>
+          <name><![CDATA[Благотворительные фонды]]></name>
+          <alias><![CDATA[blagotvoritelnye_fondy]]></alias>
+        </child>
+        <child>
+          <id>1126020165942235</id>
+          <name><![CDATA[Следственный комитет]]></name>
+          <alias><![CDATA[sledstvennyjj_komitet]]></alias>
+        </child>
+        <child>
+          <id>1126020165927041</id>
+          <name><![CDATA[Посольства / Консульства]]></name>
+          <alias><![CDATA[posolstva_konsulstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165927043</id>
+          <name><![CDATA[Инспекции]]></name>
+          <alias><![CDATA[inspekcii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927150</id>
+          <name><![CDATA[Дома ребёнка]]></name>
+          <alias><![CDATA[doma_rebjonka]]></alias>
+        </child>
+        <child>
+          <id>1126020165986422</id>
+          <name><![CDATA[Приёмные Уполномоченных по правам человека]]></name>
+          <alias><![CDATA[prijomnye_upolnomochennykh_po_pravam_cheloveka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927050</id>
+          <name><![CDATA[ЗАГСы]]></name>
+          <alias><![CDATA[zagsy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927048</id>
+          <name><![CDATA[Военкоматы]]></name>
+          <alias><![CDATA[voenkomaty]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926914</id>
+      <name><![CDATA[Досуг / Развлечения / Общественное питание]]></name>
+      <alias><![CDATA[dosug_razvlecheniya_obshhestvennoe_pitanie]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165942703</id>
+          <name><![CDATA[Суши-бары / рестораны]]></name>
+          <alias><![CDATA[sushi_bary_restorany]]></alias>
+        </child>
+        <child>
+          <id>1126020165927720</id>
+          <name><![CDATA[Спортивно-тактические клубы]]></name>
+          <alias><![CDATA[sportivno_takticheskie_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927597</id>
+          <name><![CDATA[Цирк]]></name>
+          <alias><![CDATA[cirk]]></alias>
+        </child>
+        <child>
+          <id>1126020165927073</id>
+          <name><![CDATA[Кафе]]></name>
+          <alias><![CDATA[kafe]]></alias>
+        </child>
+        <child>
+          <id>1126020165927074</id>
+          <name><![CDATA[Кафе-кондитерские / Кофейни]]></name>
+          <alias><![CDATA[kafe_konditerskie_kofejjni]]></alias>
+        </child>
+        <child>
+          <id>1126020165927076</id>
+          <name><![CDATA[Рестораны]]></name>
+          <alias><![CDATA[restorany]]></alias>
+        </child>
+        <child>
+          <id>1126020165927077</id>
+          <name><![CDATA[Кафе / рестораны быстрого питания]]></name>
+          <alias><![CDATA[kafe_restorany_bystrogo_pitaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927085</id>
+          <name><![CDATA[Ночные клубы]]></name>
+          <alias><![CDATA[nochnye_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927071</id>
+          <name><![CDATA[Бары]]></name>
+          <alias><![CDATA[bary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927542</id>
+          <name><![CDATA[Организация и проведение праздников]]></name>
+          <alias><![CDATA[organizaciya_i_provedenie_prazdnikov]]></alias>
+        </child>
+        <child>
+          <id>1126020165942619</id>
+          <name><![CDATA[Творческие коллективы]]></name>
+          <alias><![CDATA[tvorcheskie_kollektivy]]></alias>
+        </child>
+        <child>
+          <id>1126020165936132</id>
+          <name><![CDATA[Услуги праздничного оформления]]></name>
+          <alias><![CDATA[uslugi_prazdnichnogo_oformleniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165949291</id>
+          <name><![CDATA[Услуги фото / видеосъёмки на выезде]]></name>
+          <alias><![CDATA[uslugi_foto_videosjomki_na_vyezde]]></alias>
+        </child>
+        <child>
+          <id>1126020165940701</id>
+          <name><![CDATA[Детские / подростковые клубы]]></name>
+          <alias><![CDATA[detskie_podrostkovye_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165976775</id>
+          <name><![CDATA[Доставка суши “Японская кухня”]]></name>
+          <alias><![CDATA[dostavka_sushi_yaponskaya_kukhnya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927104</id>
+          <name><![CDATA[Кинотеатры]]></name>
+          <alias><![CDATA[kinoteatry]]></alias>
+        </child>
+        <child>
+          <id>1126020165927078</id>
+          <name><![CDATA[Столовые]]></name>
+          <alias><![CDATA[stolovye]]></alias>
+        </child>
+        <child>
+          <id>1126020165927083</id>
+          <name><![CDATA[Букмекерские конторы / Лотереи]]></name>
+          <alias><![CDATA[bukmekerskie_kontory_loterei]]></alias>
+        </child>
+        <child>
+          <id>1126020165933417</id>
+          <name><![CDATA[Стрелковые клубы]]></name>
+          <alias><![CDATA[strelkovye_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165928115</id>
+          <name><![CDATA[Доставка готовых блюд]]></name>
+          <alias><![CDATA[dostavka_gotovykh_blyud]]></alias>
+        </child>
+        <child>
+          <id>1126020165936698</id>
+          <name><![CDATA[Кейтеринг]]></name>
+          <alias><![CDATA[kejjtering]]></alias>
+        </child>
+        <child>
+          <id>1126020165948299</id>
+          <name><![CDATA[Караоке-залы]]></name>
+          <alias><![CDATA[karaoke_zaly]]></alias>
+        </child>
+        <child>
+          <id>1126020165934244</id>
+          <name><![CDATA[Организация театральных / концертных мероприятий]]></name>
+          <alias><![CDATA[organizaciya_teatralnykh_koncertnykh_meropriyatijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165943655</id>
+          <name><![CDATA[Детские игротеки]]></name>
+          <alias><![CDATA[detskie_igroteki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927858</id>
+          <name><![CDATA[Бани / Сауны]]></name>
+          <alias><![CDATA[bani_sauny]]></alias>
+        </child>
+        <child>
+          <id>1126020165945800</id>
+          <name><![CDATA[Залы детских игровых автоматов]]></name>
+          <alias><![CDATA[zaly_detskikh_igrovykh_avtomatov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927082</id>
+          <name><![CDATA[Боулинг]]></name>
+          <alias><![CDATA[bouling]]></alias>
+        </child>
+        <child>
+          <id>1126020165927086</id>
+          <name><![CDATA[Салюты]]></name>
+          <alias><![CDATA[salyuty]]></alias>
+        </child>
+        <child>
+          <id>1126020165951416</id>
+          <name><![CDATA[Продажа лотерейных билетов]]></name>
+          <alias><![CDATA[prodazha_loterejjnykh_biletov]]></alias>
+        </child>
+        <child>
+          <id>1126020165937715</id>
+          <name><![CDATA[Банкетные залы]]></name>
+          <alias><![CDATA[banketnye_zaly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927081</id>
+          <name><![CDATA[Бильярдные залы]]></name>
+          <alias><![CDATA[bilyardnye_zaly]]></alias>
+        </child>
+        <child>
+          <id>1126020165940699</id>
+          <name><![CDATA[Дома / дворцы культуры]]></name>
+          <alias><![CDATA[doma_dvorcy_kultury]]></alias>
+        </child>
+        <child>
+          <id>1126020165936193</id>
+          <name><![CDATA[Организация экскурсий по городу]]></name>
+          <alias><![CDATA[organizaciya_ehkskursijj_po_gorodu]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165946444</id>
+      <name><![CDATA[Интернет / Связь / Информационные технологии]]></name>
+      <alias><![CDATA[internet_svyaz_informacionnye_tekhnologii]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165935154</id>
+          <name><![CDATA[Бюро ремонта городских АТС]]></name>
+          <alias><![CDATA[byuro_remonta_gorodskikh_ats]]></alias>
+        </child>
+        <child>
+          <id>1126020165977284</id>
+          <name><![CDATA[Продажа электронных цифровых подписей]]></name>
+          <alias><![CDATA[prodazha_ehlektronnykh_cifrovykh_podpisejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927247</id>
+          <name><![CDATA[Почтовые отделения]]></name>
+          <alias><![CDATA[pochtovye_otdeleniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927248</id>
+          <name><![CDATA[Отделения электросвязи]]></name>
+          <alias><![CDATA[otdeleniya_ehlektrosvyazi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927240</id>
+          <name><![CDATA[Автоматизация производственных процессов]]></name>
+          <alias><![CDATA[avtomatizaciya_proizvodstvennykh_processov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927556</id>
+          <name><![CDATA[Аксессуары к мобильным телефонам]]></name>
+          <alias><![CDATA[aksessuary_k_mobilnym_telefonam]]></alias>
+        </child>
+        <child>
+          <id>1126020165927558</id>
+          <name><![CDATA[IP-телефония]]></name>
+          <alias><![CDATA[ip_telefoniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165928010</id>
+          <name><![CDATA[Спутниковая связь]]></name>
+          <alias><![CDATA[sputnikovaya_svyaz]]></alias>
+        </child>
+        <child>
+          <id>1126020165927431</id>
+          <name><![CDATA[Офисные АТС]]></name>
+          <alias><![CDATA[ofisnye_ats]]></alias>
+        </child>
+        <child>
+          <id>1126020165927347</id>
+          <name><![CDATA[Антенное оборудование]]></name>
+          <alias><![CDATA[antennoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927091</id>
+          <name><![CDATA[Услуги телефонной связи]]></name>
+          <alias><![CDATA[uslugi_telefonnojj_svyazi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927098</id>
+          <name><![CDATA[Бухгалтерские программы]]></name>
+          <alias><![CDATA[bukhgalterskie_programmy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927100</id>
+          <name><![CDATA[Продажа программного обеспечения]]></name>
+          <alias><![CDATA[prodazha_programmnogo_obespecheniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927087</id>
+          <name><![CDATA[Разработка / поддержка / продвижение web-сайтов]]></name>
+          <alias><![CDATA[razrabotka_podderzhka_prodvizhenie_web_sajjtov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927088</id>
+          <name><![CDATA[Интернет-провайдеры]]></name>
+          <alias><![CDATA[internet_provajjdery]]></alias>
+        </child>
+        <child>
+          <id>1126020165927090</id>
+          <name><![CDATA[Компьютерные клубы]]></name>
+          <alias><![CDATA[kompyuternye_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165931368</id>
+          <name><![CDATA[Правовые программы]]></name>
+          <alias><![CDATA[pravovye_programmy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927618</id>
+          <name><![CDATA[Строительство / проектирование объектов связи]]></name>
+          <alias><![CDATA[stroitelstvo_proektirovanie_obektov_svyazi]]></alias>
+        </child>
+        <child>
+          <id>1126020165942528</id>
+          <name><![CDATA[Системы мониторинга транспорта]]></name>
+          <alias><![CDATA[sistemy_monitoringa_transporta]]></alias>
+        </child>
+        <child>
+          <id>1126020165937446</id>
+          <name><![CDATA[Операторы кабельного телевидения]]></name>
+          <alias><![CDATA[operatory_kabelnogo_televideniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927439</id>
+          <name><![CDATA[Автоматизация бизнес-процессов]]></name>
+          <alias><![CDATA[avtomatizaciya_biznes_processov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927299</id>
+          <name><![CDATA[Телефоны / Радиотелефоны]]></name>
+          <alias><![CDATA[telefony_radiotelefony]]></alias>
+        </child>
+        <child>
+          <id>1126020165930130</id>
+          <name><![CDATA[Монтаж телефонных сетей]]></name>
+          <alias><![CDATA[montazh_telefonnykh_setejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165928147</id>
+          <name><![CDATA[Автоматизация торговли]]></name>
+          <alias><![CDATA[avtomatizaciya_torgovli]]></alias>
+        </child>
+        <child>
+          <id>1126020165927552</id>
+          <name><![CDATA[Средства радиосвязи]]></name>
+          <alias><![CDATA[sredstva_radiosvyazi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927249</id>
+          <name><![CDATA[Операторы сотовой связи]]></name>
+          <alias><![CDATA[operatory_sotovojj_svyazi]]></alias>
+        </child>
+        <child>
+          <id>1126020165952102</id>
+          <name><![CDATA[Сайты объявлений]]></name>
+          <alias><![CDATA[sajjty_obyavlenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165935107</id>
+          <name><![CDATA[Монтаж / обслуживание антенного оборудования]]></name>
+          <alias><![CDATA[montazh_obsluzhivanie_antennogo_oborudovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165934574</id>
+          <name><![CDATA[Навигационное оборудование]]></name>
+          <alias><![CDATA[navigacionnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165932662</id>
+          <name><![CDATA[Хостинг]]></name>
+          <alias><![CDATA[khosting]]></alias>
+        </child>
+        <child>
+          <id>1126020165931297</id>
+          <name><![CDATA[Коммутационное оборудование]]></name>
+          <alias><![CDATA[kommutacionnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927099</id>
+          <name><![CDATA[Информационная безопасность]]></name>
+          <alias><![CDATA[informacionnaya_bezopasnost]]></alias>
+        </child>
+        <child>
+          <id>1126020165932752</id>
+          <name><![CDATA[Городские информационные сайты]]></name>
+          <alias><![CDATA[gorodskie_informacionnye_sajjty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927555</id>
+          <name><![CDATA[Мобильные телефоны]]></name>
+          <alias><![CDATA[mobilnye_telefony]]></alias>
+        </child>
+        <child>
+          <id>1126020165927579</id>
+          <name><![CDATA[Ремонт мобильных устройств связи]]></name>
+          <alias><![CDATA[remont_mobilnykh_ustrojjstv_svyazi]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926922</id>
+      <name><![CDATA[Коммунальные / бытовые / ритуальные услуги]]></name>
+      <alias><![CDATA[kommunalnye_bytovye_ritualnye_uslugi]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927183</id>
+          <name><![CDATA[Общежития]]></name>
+          <alias><![CDATA[obshhezhitiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927235</id>
+          <name><![CDATA[Кладбища]]></name>
+          <alias><![CDATA[kladbishha]]></alias>
+        </child>
+        <child>
+          <id>1126020165927225</id>
+          <name><![CDATA[Химчистки одежды / текстиля]]></name>
+          <alias><![CDATA[khimchistki_odezhdy_tekstilya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927237</id>
+          <name><![CDATA[Памятники / Ритуальные принадлежности]]></name>
+          <alias><![CDATA[pamyatniki_ritualnye_prinadlezhnosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165927212</id>
+          <name><![CDATA[Ателье меховые / кожаные]]></name>
+          <alias><![CDATA[atele_mekhovye_kozhanye]]></alias>
+        </child>
+        <child>
+          <id>1126020165927213</id>
+          <name><![CDATA[Ателье трикотажные]]></name>
+          <alias><![CDATA[atele_trikotazhnye]]></alias>
+        </child>
+        <child>
+          <id>1126020165927214</id>
+          <name><![CDATA[Ателье швейные]]></name>
+          <alias><![CDATA[atele_shvejjnye]]></alias>
+        </child>
+        <child>
+          <id>1126020165927223</id>
+          <name><![CDATA[Домашний персонал]]></name>
+          <alias><![CDATA[domashnijj_personal]]></alias>
+        </child>
+        <child>
+          <id>1126020165927035</id>
+          <name><![CDATA[Благоустройство улиц]]></name>
+          <alias><![CDATA[blagoustrojjstvo_ulic]]></alias>
+        </child>
+        <child>
+          <id>1126020165927585</id>
+          <name><![CDATA[Теплоэнергоснабжение / ТЭЦ]]></name>
+          <alias><![CDATA[teploehnergosnabzhenie_tehc]]></alias>
+        </child>
+        <child>
+          <id>1126020165927621</id>
+          <name><![CDATA[Профессиональная уборка]]></name>
+          <alias><![CDATA[professionalnaya_uborka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927040</id>
+          <name><![CDATA[Продажа / обслуживание подъёмно-пассажирских устройств]]></name>
+          <alias><![CDATA[prodazha_obsluzhivanie_podjomno_passazhirskikh_ustrojjstv]]></alias>
+        </child>
+        <child>
+          <id>1126020165927482</id>
+          <name><![CDATA[Дезинфекция / Дератизация / Дезинсекция]]></name>
+          <alias><![CDATA[dezinfekciya_deratizaciya_dezinsekciya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927039</id>
+          <name><![CDATA[Техобслуживание теплоэнергосетей]]></name>
+          <alias><![CDATA[tekhobsluzhivanie_teploehnergosetejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927944</id>
+          <name><![CDATA[Фотоцентры]]></name>
+          <alias><![CDATA[fotocentry]]></alias>
+        </child>
+        <child>
+          <id>1126020165983073</id>
+          <name><![CDATA[Мастерские / киоски по ремонту одежды]]></name>
+          <alias><![CDATA[masterskie_kioski_po_remontu_odezhdy]]></alias>
+        </child>
+        <child>
+          <id>1126020165946528</id>
+          <name><![CDATA[Пункты приёма платежей / Расчётные центры коммунальных услуг]]></name>
+          <alias><![CDATA[punkty_prijoma_platezhejj_raschjotnye_centry_kommunalnykh_uslug]]></alias>
+        </child>
+        <child>
+          <id>1126020165927236</id>
+          <name><![CDATA[Помощь в организации похорон]]></name>
+          <alias><![CDATA[pomoshh_v_organizacii_pokhoron]]></alias>
+        </child>
+        <child>
+          <id>1126020165943522</id>
+          <name><![CDATA[Изготовление ключей]]></name>
+          <alias><![CDATA[izgotovlenie_klyuchejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927925</id>
+          <name><![CDATA[Прачечные]]></name>
+          <alias><![CDATA[prachechnye]]></alias>
+        </child>
+        <child>
+          <id>1126020165927670</id>
+          <name><![CDATA[Жилищно-коммунальные услуги]]></name>
+          <alias><![CDATA[zhilishhno_kommunalnye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927224</id>
+          <name><![CDATA[Фото на документы]]></name>
+          <alias><![CDATA[foto_na_dokumenty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927069</id>
+          <name><![CDATA[Службы знакомств]]></name>
+          <alias><![CDATA[sluzhby_znakomstv]]></alias>
+        </child>
+        <child>
+          <id>1126020165994280</id>
+          <name><![CDATA[Ремонт очков]]></name>
+          <alias><![CDATA[remont_ochkov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927220</id>
+          <name><![CDATA[Ремонт часов]]></name>
+          <alias><![CDATA[remont_chasov]]></alias>
+        </child>
+        <child>
+          <id>1126020165936473</id>
+          <name><![CDATA[Чистка / реставрация пухо-перьевых изделий]]></name>
+          <alias><![CDATA[chistka_restavraciya_pukho_perevykh_izdelijj]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926915</id>
+      <name><![CDATA[Компьютеры / Бытовая техника / Офисная техника]]></name>
+      <alias><![CDATA[kompyutery_bytovaya_tekhnika_ofisnaya_tekhnika]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927097</id>
+          <name><![CDATA[Оргтехника]]></name>
+          <alias><![CDATA[orgtekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165936541</id>
+          <name><![CDATA[Продажа / аренда / ремонт кофемашин]]></name>
+          <alias><![CDATA[prodazha_arenda_remont_kofemashin]]></alias>
+        </child>
+        <child>
+          <id>1126020165977783</id>
+          <name><![CDATA[Запчасти / аксессуары для бытовой техники]]></name>
+          <alias><![CDATA[zapchasti_aksessuary_dlya_bytovojj_tekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927873</id>
+          <name><![CDATA[Ремонт аудио / видео / цифровой техники]]></name>
+          <alias><![CDATA[remont_audio_video_cifrovojj_tekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927289</id>
+          <name><![CDATA[CD / DVD / BD]]></name>
+          <alias><![CDATA[cd_dvd_bd]]></alias>
+        </child>
+        <child>
+          <id>1126020165927291</id>
+          <name><![CDATA[Бытовая техника]]></name>
+          <alias><![CDATA[bytovaya_tekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165927093</id>
+          <name><![CDATA[Компьютеры / Комплектующие]]></name>
+          <alias><![CDATA[kompyutery_komplektuyushhie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927094</id>
+          <name><![CDATA[Модернизация компьютеров]]></name>
+          <alias><![CDATA[modernizaciya_kompyuterov]]></alias>
+        </child>
+        <child>
+          <id>1126020165931396</id>
+          <name><![CDATA[Музыкальные инструменты / Аксессуары]]></name>
+          <alias><![CDATA[muzykalnye_instrumenty_aksessuary]]></alias>
+        </child>
+        <child>
+          <id>1126020165930110</id>
+          <name><![CDATA[Монтаж компьютерных сетей]]></name>
+          <alias><![CDATA[montazh_kompyuternykh_setejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165931295</id>
+          <name><![CDATA[Сетевое оборудование]]></name>
+          <alias><![CDATA[setevoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165931332</id>
+          <name><![CDATA[Расходные материалы для оргтехники]]></name>
+          <alias><![CDATA[raskhodnye_materialy_dlya_orgtekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927833</id>
+          <name><![CDATA[Услуги системного администрирования]]></name>
+          <alias><![CDATA[uslugi_sistemnogo_administrirovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927423</id>
+          <name><![CDATA[Аудио- / видеотехника]]></name>
+          <alias><![CDATA[audio_videotekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165927300</id>
+          <name><![CDATA[Фототовары]]></name>
+          <alias><![CDATA[fototovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927540</id>
+          <name><![CDATA[Ремонт оргтехники]]></name>
+          <alias><![CDATA[remont_orgtekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927562</id>
+          <name><![CDATA[Ремонт компьютеров]]></name>
+          <alias><![CDATA[remont_kompyuterov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927218</id>
+          <name><![CDATA[Ремонт бытовой техники]]></name>
+          <alias><![CDATA[remont_bytovojj_tekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165931330</id>
+          <name><![CDATA[Заправка картриджей]]></name>
+          <alias><![CDATA[zapravka_kartridzhejj]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926916</id>
+      <name><![CDATA[Культура / Искусство / Религия]]></name>
+      <alias><![CDATA[kultura_iskusstvo_religiya]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165946487</id>
+          <name><![CDATA[Монастыри]]></name>
+          <alias><![CDATA[monastyri]]></alias>
+        </child>
+        <child>
+          <id>1126020165927427</id>
+          <name><![CDATA[Художественные товары / материалы]]></name>
+          <alias><![CDATA[khudozhestvennye_tovary_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165980975</id>
+          <name><![CDATA[Синагога]]></name>
+          <alias><![CDATA[sinagoga]]></alias>
+        </child>
+        <child>
+          <id>1126020165939161</id>
+          <name><![CDATA[Религиозные товары]]></name>
+          <alias><![CDATA[religioznye_tovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927111</id>
+          <name><![CDATA[Театры]]></name>
+          <alias><![CDATA[teatry]]></alias>
+        </child>
+        <child>
+          <id>1126020165927101</id>
+          <name><![CDATA[Библиотеки]]></name>
+          <alias><![CDATA[biblioteki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927102</id>
+          <name><![CDATA[Художественные выставки / Галереи]]></name>
+          <alias><![CDATA[khudozhestvennye_vystavki_galerei]]></alias>
+        </child>
+        <child>
+          <id>1126020165927106</id>
+          <name><![CDATA[Храмы / Соборы / Церкви]]></name>
+          <alias><![CDATA[khramy_sobory_cerkvi]]></alias>
+        </child>
+        <child>
+          <id>1126020165928087</id>
+          <name><![CDATA[Религиозные организации]]></name>
+          <alias><![CDATA[religioznye_organizacii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927428</id>
+          <name><![CDATA[Художественные мастерские]]></name>
+          <alias><![CDATA[khudozhestvennye_masterskie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927105</id>
+          <name><![CDATA[Музеи]]></name>
+          <alias><![CDATA[muzei]]></alias>
+        </child>
+        <child>
+          <id>1126020165946489</id>
+          <name><![CDATA[Часовни]]></name>
+          <alias><![CDATA[chasovni]]></alias>
+        </child>
+        <child>
+          <id>1126020165938559</id>
+          <name><![CDATA[Планетарий]]></name>
+          <alias><![CDATA[planetarijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165946488</id>
+          <name><![CDATA[Приходы]]></name>
+          <alias><![CDATA[prikhody]]></alias>
+        </child>
+        <child>
+          <id>1126020165927598</id>
+          <name><![CDATA[Антиквариат]]></name>
+          <alias><![CDATA[antikvariat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927112</id>
+          <name><![CDATA[Филармония]]></name>
+          <alias><![CDATA[filarmoniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165940286</id>
+          <name><![CDATA[Мечети]]></name>
+          <alias><![CDATA[mecheti]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165927699</id>
+      <name><![CDATA[Мебель / Материалы / Фурнитура]]></name>
+      <alias><![CDATA[mebel_materialy_furnitura]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927435</id>
+          <name><![CDATA[Мебель для медицинских учреждений и лабораторий]]></name>
+          <alias><![CDATA[mebel_dlya_medicinskikh_uchrezhdenijj_i_laboratorijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165928040</id>
+          <name><![CDATA[Мебель из стекла]]></name>
+          <alias><![CDATA[mebel_iz_stekla]]></alias>
+        </child>
+        <child>
+          <id>1126020165943111</id>
+          <name><![CDATA[Металлическая мебель для помещений]]></name>
+          <alias><![CDATA[metallicheskaya_mebel_dlya_pomeshhenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927486</id>
+          <name><![CDATA[Мебель для кухни]]></name>
+          <alias><![CDATA[mebel_dlya_kukhni]]></alias>
+        </child>
+        <child>
+          <id>1126020165927501</id>
+          <name><![CDATA[Изготовление мебели под заказ]]></name>
+          <alias><![CDATA[izgotovlenie_mebeli_pod_zakaz]]></alias>
+        </child>
+        <child>
+          <id>1126020165927263</id>
+          <name><![CDATA[Мебельная фурнитура]]></name>
+          <alias><![CDATA[mebelnaya_furnitura]]></alias>
+        </child>
+        <child>
+          <id>1126020165927264</id>
+          <name><![CDATA[Мебель офисная]]></name>
+          <alias><![CDATA[mebel_ofisnaya]]></alias>
+        </child>
+        <child>
+          <id>1126020165980028</id>
+          <name><![CDATA[Бескаркасная мебель]]></name>
+          <alias><![CDATA[beskarkasnaya_mebel]]></alias>
+        </child>
+        <child>
+          <id>1126020165927689</id>
+          <name><![CDATA[ЛДСП / ДВПО / МДФ]]></name>
+          <alias><![CDATA[ldsp_dvpo_mdf]]></alias>
+        </child>
+        <child>
+          <id>1126020165927697</id>
+          <name><![CDATA[Мебельные ткани]]></name>
+          <alias><![CDATA[mebelnye_tkani]]></alias>
+        </child>
+        <child>
+          <id>1126020165927485</id>
+          <name><![CDATA[Мебель мягкая]]></name>
+          <alias><![CDATA[mebel_myagkaya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927505</id>
+          <name><![CDATA[Мебель для ванных комнат]]></name>
+          <alias><![CDATA[mebel_dlya_vannykh_komnat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927698</id>
+          <name><![CDATA[Плетёная мебель / изделия]]></name>
+          <alias><![CDATA[pletjonaya_mebel_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165943526</id>
+          <name><![CDATA[Матрасы]]></name>
+          <alias><![CDATA[matrasy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927610</id>
+          <name><![CDATA[Мебель для учебных и дошкольных учреждений]]></name>
+          <alias><![CDATA[mebel_dlya_uchebnykh_i_doshkolnykh_uchrezhdenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165937478</id>
+          <name><![CDATA[Детская мебель]]></name>
+          <alias><![CDATA[detskaya_mebel]]></alias>
+        </child>
+        <child>
+          <id>1126020165936014</id>
+          <name><![CDATA[Сейфы]]></name>
+          <alias><![CDATA[sejjfy]]></alias>
+        </child>
+        <child>
+          <id>1126020165931409</id>
+          <name><![CDATA[Садово-парковая мебель / Аксессуары]]></name>
+          <alias><![CDATA[sadovo_parkovaya_mebel_aksessuary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927719</id>
+          <name><![CDATA[Мебель для предприятий общественного питания]]></name>
+          <alias><![CDATA[mebel_dlya_predpriyatijj_obshhestvennogo_pitaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927685</id>
+          <name><![CDATA[Мебельные фасады]]></name>
+          <alias><![CDATA[mebelnye_fasady]]></alias>
+        </child>
+        <child>
+          <id>1126020165927487</id>
+          <name><![CDATA[Мебель корпусная]]></name>
+          <alias><![CDATA[mebel_korpusnaya]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926917</id>
+      <name><![CDATA[Медицина / Здоровье / Красота]]></name>
+      <alias><![CDATA[medicina_zdorove_krasota]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927136</id>
+          <name><![CDATA[Поликлиники взрослые]]></name>
+          <alias><![CDATA[polikliniki_vzroslye]]></alias>
+        </child>
+        <child>
+          <id>1126020165941854</id>
+          <name><![CDATA[Тату-салоны]]></name>
+          <alias><![CDATA[tatu_salony]]></alias>
+        </child>
+        <child>
+          <id>1126020165943778</id>
+          <name><![CDATA[Услуги трихолога]]></name>
+          <alias><![CDATA[uslugi_trikhologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165927573</id>
+          <name><![CDATA[Диагностические центры]]></name>
+          <alias><![CDATA[diagnosticheskie_centry]]></alias>
+        </child>
+        <child>
+          <id>1126020165931429</id>
+          <name><![CDATA[Услуги гинеколога]]></name>
+          <alias><![CDATA[uslugi_ginekologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165936868</id>
+          <name><![CDATA[Центры альтернативной медицины]]></name>
+          <alias><![CDATA[centry_alternativnojj_mediciny]]></alias>
+        </child>
+        <child>
+          <id>1126020165940014</id>
+          <name><![CDATA[Косметика / расходные материалы для салонов красоты]]></name>
+          <alias><![CDATA[kosmetika_raskhodnye_materialy_dlya_salonov_krasoty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927217</id>
+          <name><![CDATA[Парикмахерские]]></name>
+          <alias><![CDATA[parikmakherskie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927570</id>
+          <name><![CDATA[Медицинские расходные материалы]]></name>
+          <alias><![CDATA[medicinskie_raskhodnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927572</id>
+          <name><![CDATA[Медицинские приборы / аппараты]]></name>
+          <alias><![CDATA[medicinskie_pribory_apparaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165946497</id>
+          <name><![CDATA[Центры борьбы со СПИДом]]></name>
+          <alias><![CDATA[centry_borby_so_spidom]]></alias>
+        </child>
+        <child>
+          <id>1126020165943775</id>
+          <name><![CDATA[Услуги детских специалистов]]></name>
+          <alias><![CDATA[uslugi_detskikh_specialistov]]></alias>
+        </child>
+        <child>
+          <id>1126020165943782</id>
+          <name><![CDATA[Ортопедия и травматология]]></name>
+          <alias><![CDATA[ortopediya_i_travmatologiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927563</id>
+          <name><![CDATA[Студии загара]]></name>
+          <alias><![CDATA[studii_zagara]]></alias>
+        </child>
+        <child>
+          <id>1126020165927360</id>
+          <name><![CDATA[Медицинское оборудование / инструмент]]></name>
+          <alias><![CDATA[medicinskoe_oborudovanie_instrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165939123</id>
+          <name><![CDATA[Медицинские лаборатории]]></name>
+          <alias><![CDATA[medicinskie_laboratorii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927127</id>
+          <name><![CDATA[Санитарно-эпидемиологический надзор]]></name>
+          <alias><![CDATA[sanitarno_ehpidemiologicheskijj_nadzor]]></alias>
+        </child>
+        <child>
+          <id>1126020165927128</id>
+          <name><![CDATA[Станции переливания крови]]></name>
+          <alias><![CDATA[stancii_perelivaniya_krovi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927133</id>
+          <name><![CDATA[Услуги психолога]]></name>
+          <alias><![CDATA[uslugi_psikhologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165927134</id>
+          <name><![CDATA[Стоматологические центры]]></name>
+          <alias><![CDATA[stomatologicheskie_centry]]></alias>
+        </child>
+        <child>
+          <id>1126020165927114</id>
+          <name><![CDATA[Госпитали]]></name>
+          <alias><![CDATA[gospitali]]></alias>
+        </child>
+        <child>
+          <id>1126020165927115</id>
+          <name><![CDATA[Родильные дома]]></name>
+          <alias><![CDATA[rodilnye_doma]]></alias>
+        </child>
+        <child>
+          <id>1126020165927118</id>
+          <name><![CDATA[Диспансеры]]></name>
+          <alias><![CDATA[dispansery]]></alias>
+        </child>
+        <child>
+          <id>1126020165927122</id>
+          <name><![CDATA[Оптика]]></name>
+          <alias><![CDATA[optika]]></alias>
+        </child>
+        <child>
+          <id>1126020165931449</id>
+          <name><![CDATA[Лечение ЛОР-заболеваний]]></name>
+          <alias><![CDATA[lechenie_lor_zabolevanijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165932515</id>
+          <name><![CDATA[Ногтевые студии]]></name>
+          <alias><![CDATA[nogtevye_studii]]></alias>
+        </child>
+        <child>
+          <id>1126020165931421</id>
+          <name><![CDATA[Лечение зависимостей]]></name>
+          <alias><![CDATA[lechenie_zavisimostejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165931430</id>
+          <name><![CDATA[Услуги дерматовенеролога]]></name>
+          <alias><![CDATA[uslugi_dermatovenerologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165931433</id>
+          <name><![CDATA[Многопрофильные медицинские центры]]></name>
+          <alias><![CDATA[mnogoprofilnye_medicinskie_centry]]></alias>
+        </child>
+        <child>
+          <id>1126020165931442</id>
+          <name><![CDATA[Мануальная терапия]]></name>
+          <alias><![CDATA[manualnaya_terapiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165940638</id>
+          <name><![CDATA[Услуги массажиста]]></name>
+          <alias><![CDATA[uslugi_massazhista]]></alias>
+        </child>
+        <child>
+          <id>1126020165938853</id>
+          <name><![CDATA[Хоспис]]></name>
+          <alias><![CDATA[khospis]]></alias>
+        </child>
+        <child>
+          <id>1126020165937047</id>
+          <name><![CDATA[Школы для будущих мам]]></name>
+          <alias><![CDATA[shkoly_dlya_budushhikh_mam]]></alias>
+        </child>
+        <child>
+          <id>1126020165936734</id>
+          <name><![CDATA[Протезные / ортопедические товары]]></name>
+          <alias><![CDATA[proteznye_ortopedicheskie_tovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165940509</id>
+          <name><![CDATA[Тонизирующие процедуры]]></name>
+          <alias><![CDATA[toniziruyushhie_procedury]]></alias>
+        </child>
+        <child>
+          <id>1126020165942278</id>
+          <name><![CDATA[Реабилитационные центры]]></name>
+          <alias><![CDATA[reabilitacionnye_centry]]></alias>
+        </child>
+        <child>
+          <id>1126020165947769</id>
+          <name><![CDATA[Медицинские комиссии]]></name>
+          <alias><![CDATA[medicinskie_komissii]]></alias>
+        </child>
+        <child>
+          <id>1126020165983596</id>
+          <name><![CDATA[Психолого-медико-педагогические комиссии]]></name>
+          <alias><![CDATA[psikhologo_mediko_pedagogicheskie_komissii]]></alias>
+        </child>
+        <child>
+          <id>1126020165978374</id>
+          <name><![CDATA[Ремонт медицинского оборудования / инструментов]]></name>
+          <alias><![CDATA[remont_medicinskogo_oborudovaniya_instrumentov]]></alias>
+        </child>
+        <child>
+          <id>1126020165983671</id>
+          <name><![CDATA[SPA-процедуры]]></name>
+          <alias><![CDATA[spa_procedury]]></alias>
+        </child>
+        <child>
+          <id>1126020165998844</id>
+          <name><![CDATA[Услуги организации по обследованию / лечению в институте Склифосовского]]></name>
+          <alias><![CDATA[uslugi_organizacii_po_obsledovaniyu_lecheniyu_v_institute_sklifosovskogo]]></alias>
+        </child>
+        <child>
+          <id>1126020165927129</id>
+          <name><![CDATA[Услуги врача-гомеопата]]></name>
+          <alias><![CDATA[uslugi_vracha_gomeopata]]></alias>
+        </child>
+        <child>
+          <id>1126020165927135</id>
+          <name><![CDATA[Центры планирования семьи]]></name>
+          <alias><![CDATA[centry_planirovaniya_semi]]></alias>
+        </child>
+        <child>
+          <id>1126020165943779</id>
+          <name><![CDATA[Услуги флеболога]]></name>
+          <alias><![CDATA[uslugi_flebologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165982976</id>
+          <name><![CDATA[Услуги онколога]]></name>
+          <alias><![CDATA[uslugi_onkologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165927130</id>
+          <name><![CDATA[Коррекция зрения / Лечение офтальмологических заболеваний]]></name>
+          <alias><![CDATA[korrekciya_zreniya_lechenie_oftalmologicheskikh_zabolevanijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927131</id>
+          <name><![CDATA[Пластическая хирургия]]></name>
+          <alias><![CDATA[plasticheskaya_khirurgiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927124</id>
+          <name><![CDATA[Бюро медико-социальной экспертизы]]></name>
+          <alias><![CDATA[byuro_mediko_socialnojj_ehkspertizy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927125</id>
+          <name><![CDATA[Морги]]></name>
+          <alias><![CDATA[morgi]]></alias>
+        </child>
+        <child>
+          <id>1126020165943776</id>
+          <name><![CDATA[Услуги гастроэнтеролога]]></name>
+          <alias><![CDATA[uslugi_gastroehnterologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165931446</id>
+          <name><![CDATA[Услуги эндокринолога]]></name>
+          <alias><![CDATA[uslugi_ehndokrinologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165927294</id>
+          <name><![CDATA[Косметика / Парфюмерия]]></name>
+          <alias><![CDATA[kosmetika_parfyumeriya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927119</id>
+          <name><![CDATA[Аптеки]]></name>
+          <alias><![CDATA[apteki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927137</id>
+          <name><![CDATA[Поликлиники детские]]></name>
+          <alias><![CDATA[polikliniki_detskie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927121</id>
+          <name><![CDATA[Лекарственные препараты]]></name>
+          <alias><![CDATA[lekarstvennye_preparaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165980372</id>
+          <name><![CDATA[Физиотерапия]]></name>
+          <alias><![CDATA[fizioterapiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927561</id>
+          <name><![CDATA[Женские консультации]]></name>
+          <alias><![CDATA[zhenskie_konsultacii]]></alias>
+        </child>
+        <child>
+          <id>1126020165943788</id>
+          <name><![CDATA[Услуги аллерголога / иммунолога]]></name>
+          <alias><![CDATA[uslugi_allergologa_immunologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165931431</id>
+          <name><![CDATA[Услуги уролога / андролога]]></name>
+          <alias><![CDATA[uslugi_urologa_androloga]]></alias>
+        </child>
+        <child>
+          <id>1126020165927120</id>
+          <name><![CDATA[Биологически активные добавки (БАД)]]></name>
+          <alias><![CDATA[biologicheski_aktivnye_dobavki_bad]]></alias>
+        </child>
+        <child>
+          <id>1126020165927138</id>
+          <name><![CDATA[Стоматологические поликлиники]]></name>
+          <alias><![CDATA[stomatologicheskie_polikliniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927564</id>
+          <name><![CDATA[Косметические услуги]]></name>
+          <alias><![CDATA[kosmeticheskie_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927571</id>
+          <name><![CDATA[Средства гигиены]]></name>
+          <alias><![CDATA[sredstva_gigieny]]></alias>
+        </child>
+        <child>
+          <id>1126020165927554</id>
+          <name><![CDATA[Стоматологическое оборудование / материалы]]></name>
+          <alias><![CDATA[stomatologicheskoe_oborudovanie_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165951987</id>
+          <name><![CDATA[Психиатрические учреждения]]></name>
+          <alias><![CDATA[psikhiatricheskie_uchrezhdeniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165943781</id>
+          <name><![CDATA[Услуги проктолога]]></name>
+          <alias><![CDATA[uslugi_proktologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165931441</id>
+          <name><![CDATA[Услуги невролога]]></name>
+          <alias><![CDATA[uslugi_nevrologa]]></alias>
+        </child>
+        <child>
+          <id>1126020165985770</id>
+          <name><![CDATA[Услуги визажиста]]></name>
+          <alias><![CDATA[uslugi_vizazhista]]></alias>
+        </child>
+        <child>
+          <id>1126020165950677</id>
+          <name><![CDATA[Врачебные амбулатории]]></name>
+          <alias><![CDATA[vrachebnye_ambulatorii]]></alias>
+        </child>
+        <child>
+          <id>1126020165940317</id>
+          <name><![CDATA[Гирудотерапия]]></name>
+          <alias><![CDATA[girudoterapiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927141</id>
+          <name><![CDATA[Травмпункты]]></name>
+          <alias><![CDATA[travmpunkty]]></alias>
+        </child>
+        <child>
+          <id>1126020165937358</id>
+          <name><![CDATA[Услуги логопеда]]></name>
+          <alias><![CDATA[uslugi_logopeda]]></alias>
+        </child>
+        <child>
+          <id>1126020165927113</id>
+          <name><![CDATA[Больницы]]></name>
+          <alias><![CDATA[bolnicy]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926925</id>
+      <name><![CDATA[Металлы / Топливо / Химия]]></name>
+      <alias><![CDATA[metally_toplivo_khimiya]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927323</id>
+          <name><![CDATA[Нефтепродукты / ГСМ / Газ]]></name>
+          <alias><![CDATA[nefteprodukty_gsm_gaz]]></alias>
+        </child>
+        <child>
+          <id>1126020165927514</id>
+          <name><![CDATA[Промышленная химия / Химическое сырьё]]></name>
+          <alias><![CDATA[promyshlennaya_khimiya_khimicheskoe_syrjo]]></alias>
+        </child>
+        <child>
+          <id>1126020165927527</id>
+          <name><![CDATA[Чёрный металлопрокат]]></name>
+          <alias><![CDATA[chjornyjj_metalloprokat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927528</id>
+          <name><![CDATA[Цветной металлопрокат]]></name>
+          <alias><![CDATA[cvetnojj_metalloprokat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927399</id>
+          <name><![CDATA[Металлообработка]]></name>
+          <alias><![CDATA[metalloobrabotka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927416</id>
+          <name><![CDATA[Металлоизделия]]></name>
+          <alias><![CDATA[metalloizdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927388</id>
+          <name><![CDATA[Утилизация отходов / Вторсырьё]]></name>
+          <alias><![CDATA[utilizaciya_otkhodov_vtorsyrjo]]></alias>
+        </child>
+        <child>
+          <id>1126020165947643</id>
+          <name><![CDATA[Приём / переработка металла]]></name>
+          <alias><![CDATA[prijom_pererabotka_metalla]]></alias>
+        </child>
+        <child>
+          <id>1126020165927389</id>
+          <name><![CDATA[Производство изделий из пластмасс]]></name>
+          <alias><![CDATA[proizvodstvo_izdelijj_iz_plastmass]]></alias>
+        </child>
+        <child>
+          <id>1126020165927568</id>
+          <name><![CDATA[Сварочные материалы]]></name>
+          <alias><![CDATA[svarochnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165938831</id>
+          <name><![CDATA[Технические газы / Криогенные жидкости]]></name>
+          <alias><![CDATA[tekhnicheskie_gazy_kriogennye_zhidkosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165927402</id>
+          <name><![CDATA[Уголь]]></name>
+          <alias><![CDATA[ugol]]></alias>
+        </child>
+        <child>
+          <id>1126020165927746</id>
+          <name><![CDATA[Нержавеющий металлопрокат]]></name>
+          <alias><![CDATA[nerzhaveyushhijj_metalloprokat]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926927</id>
+      <name><![CDATA[Оборудование / Инструмент]]></name>
+      <alias><![CDATA[oborudovanie_instrument]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927986</id>
+          <name><![CDATA[Весовое оборудование]]></name>
+          <alias><![CDATA[vesovoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165932710</id>
+          <name><![CDATA[Оборудование для рыбной промышленности]]></name>
+          <alias><![CDATA[oborudovanie_dlya_rybnojj_promyshlennosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165927508</id>
+          <name><![CDATA[Кондиционеры]]></name>
+          <alias><![CDATA[kondicionery]]></alias>
+        </child>
+        <child>
+          <id>1126020165927354</id>
+          <name><![CDATA[Оборудование для пищевого производства]]></name>
+          <alias><![CDATA[oborudovanie_dlya_pishhevogo_proizvodstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165927358</id>
+          <name><![CDATA[Оборудование для энергосбережения]]></name>
+          <alias><![CDATA[oborudovanie_dlya_ehnergosberezheniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165928461</id>
+          <name><![CDATA[Бензиновое / дизельное оборудование]]></name>
+          <alias><![CDATA[benzinovoe_dizelnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927567</id>
+          <name><![CDATA[Металлорежущий инструмент]]></name>
+          <alias><![CDATA[metallorezhushhijj_instrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165927511</id>
+          <name><![CDATA[Электроинструмент]]></name>
+          <alias><![CDATA[ehlektroinstrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165927516</id>
+          <name><![CDATA[Абразивный инструмент]]></name>
+          <alias><![CDATA[abrazivnyjj_instrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165927363</id>
+          <name><![CDATA[Нефтегазовое оборудование]]></name>
+          <alias><![CDATA[neftegazovoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927364</id>
+          <name><![CDATA[Полиграфическое оборудование]]></name>
+          <alias><![CDATA[poligraficheskoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927369</id>
+          <name><![CDATA[Холодильное оборудование]]></name>
+          <alias><![CDATA[kholodilnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927497</id>
+          <name><![CDATA[Каркасно-тентовые конструкции]]></name>
+          <alias><![CDATA[karkasno_tentovye_konstrukcii]]></alias>
+        </child>
+        <child>
+          <id>1126020165984152</id>
+          <name><![CDATA[Ремонт торгового оборудования]]></name>
+          <alias><![CDATA[remont_torgovogo_oborudovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927581</id>
+          <name><![CDATA[Котельное оборудование / Котлы]]></name>
+          <alias><![CDATA[kotelnoe_oborudovanie_kotly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927582</id>
+          <name><![CDATA[ККМ / Расходные материалы]]></name>
+          <alias><![CDATA[kkm_raskhodnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165928153</id>
+          <name><![CDATA[Торгово-выставочное оборудование]]></name>
+          <alias><![CDATA[torgovo_vystavochnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165942149</id>
+          <name><![CDATA[Вентиляционное оборудование]]></name>
+          <alias><![CDATA[ventilyacionnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165943309</id>
+          <name><![CDATA[Звуковое / световое / видеооборудование]]></name>
+          <alias><![CDATA[zvukovoe_svetovoe_videooborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165943312</id>
+          <name><![CDATA[Проекционное оборудование]]></name>
+          <alias><![CDATA[proekcionnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927631</id>
+          <name><![CDATA[Клининговое оборудование / инвентарь]]></name>
+          <alias><![CDATA[kliningovoe_oborudovanie_inventar]]></alias>
+        </child>
+        <child>
+          <id>1126020165927440</id>
+          <name><![CDATA[Сварочное оборудование]]></name>
+          <alias><![CDATA[svarochnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927433</id>
+          <name><![CDATA[Техника для склада]]></name>
+          <alias><![CDATA[tekhnika_dlya_sklada]]></alias>
+        </child>
+        <child>
+          <id>1126020165927359</id>
+          <name><![CDATA[Тепловентиляционное оборудование]]></name>
+          <alias><![CDATA[teploventilyacionnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927362</id>
+          <name><![CDATA[Насосное оборудование]]></name>
+          <alias><![CDATA[nasosnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165934578</id>
+          <name><![CDATA[Гидравлическое оборудование / инструмент]]></name>
+          <alias><![CDATA[gidravlicheskoe_oborudovanie_instrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165932184</id>
+          <name><![CDATA[Малярный инструмент]]></name>
+          <alias><![CDATA[malyarnyjj_instrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165928471</id>
+          <name><![CDATA[Продажа / установка тёплых полов]]></name>
+          <alias><![CDATA[prodazha_ustanovka_tjoplykh_polov]]></alias>
+        </child>
+        <child>
+          <id>1126020165928526</id>
+          <name><![CDATA[Оборудование для нанесения полимерных покрытий]]></name>
+          <alias><![CDATA[oborudovanie_dlya_naneseniya_polimernykh_pokrytijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165928529</id>
+          <name><![CDATA[Очистители воздуха]]></name>
+          <alias><![CDATA[ochistiteli_vozdukha]]></alias>
+        </child>
+        <child>
+          <id>1126020165928130</id>
+          <name><![CDATA[Ремонт электроинструмента]]></name>
+          <alias><![CDATA[remont_ehlektroinstrumenta]]></alias>
+        </child>
+        <child>
+          <id>1126020165928146</id>
+          <name><![CDATA[Оборудование для предприятий общественного питания]]></name>
+          <alias><![CDATA[oborudovanie_dlya_predpriyatijj_obshhestvennogo_pitaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927453</id>
+          <name><![CDATA[Пневматическое / компрессорное оборудование]]></name>
+          <alias><![CDATA[pnevmaticheskoe_kompressornoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927603</id>
+          <name><![CDATA[Пресс-формы / Штампы]]></name>
+          <alias><![CDATA[press_formy_shtampy]]></alias>
+        </child>
+        <child>
+          <id>1126020165937263</id>
+          <name><![CDATA[Продажа платёжных терминалов / информационных киосков]]></name>
+          <alias><![CDATA[prodazha_platjozhnykh_terminalov_informacionnykh_kioskov]]></alias>
+        </child>
+        <child>
+          <id>1126020165935655</id>
+          <name><![CDATA[Оборудование для автоматизации промышленных предприятий]]></name>
+          <alias><![CDATA[oborudovanie_dlya_avtomatizacii_promyshlennykh_predpriyatijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927443</id>
+          <name><![CDATA[Оборудование для лабораторий]]></name>
+          <alias><![CDATA[oborudovanie_dlya_laboratorijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927387</id>
+          <name><![CDATA[Резинотехнические изделия]]></name>
+          <alias><![CDATA[rezinotekhnicheskie_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927348</id>
+          <name><![CDATA[Банковское оборудование]]></name>
+          <alias><![CDATA[bankovskoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927351</id>
+          <name><![CDATA[Оборудование для автосервиса]]></name>
+          <alias><![CDATA[oborudovanie_dlya_avtoservisa]]></alias>
+        </child>
+        <child>
+          <id>1126020165927353</id>
+          <name><![CDATA[Оборудование для салонов красоты]]></name>
+          <alias><![CDATA[oborudovanie_dlya_salonov_krasoty]]></alias>
+        </child>
+        <child>
+          <id>1126020165941356</id>
+          <name><![CDATA[Вендинговое оборудование]]></name>
+          <alias><![CDATA[vendingovoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165977925</id>
+          <name><![CDATA[Прокат оборудования / инструментов]]></name>
+          <alias><![CDATA[prokat_oborudovaniya_instrumentov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927569</id>
+          <name><![CDATA[Газовое оборудование]]></name>
+          <alias><![CDATA[gazovoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927510</id>
+          <name><![CDATA[Слесарно-монтажный инструмент]]></name>
+          <alias><![CDATA[slesarno_montazhnyjj_instrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165927356</id>
+          <name><![CDATA[Оборудование для сельского хозяйства]]></name>
+          <alias><![CDATA[oborudovanie_dlya_selskogo_khozyajjstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165946402</id>
+          <name><![CDATA[Строительное оборудование и техника]]></name>
+          <alias><![CDATA[stroitelnoe_oborudovanie_i_tekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165927350</id>
+          <name><![CDATA[Деревообрабатывающее оборудование]]></name>
+          <alias><![CDATA[derevoobrabatyvayushhee_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927985</id>
+          <name><![CDATA[Стеллажи / Витрины]]></name>
+          <alias><![CDATA[stellazhi_vitriny]]></alias>
+        </child>
+        <child>
+          <id>1126020165927526</id>
+          <name><![CDATA[Металлообрабатывающее оборудование]]></name>
+          <alias><![CDATA[metalloobrabatyvayushhee_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165951724</id>
+          <name><![CDATA[Ремонт климатического оборудования]]></name>
+          <alias><![CDATA[remont_klimaticheskogo_oborudovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165928144</id>
+          <name><![CDATA[Игорное оборудование / Аксессуары]]></name>
+          <alias><![CDATA[igornoe_oborudovanie_aksessuary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927525</id>
+          <name><![CDATA[Подшипники]]></name>
+          <alias><![CDATA[podshipniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927370</id>
+          <name><![CDATA[Швейное оборудование]]></name>
+          <alias><![CDATA[shvejjnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165934900</id>
+          <name><![CDATA[Буровое оборудование]]></name>
+          <alias><![CDATA[burovoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165932567</id>
+          <name><![CDATA[Ремонт промышленного оборудования]]></name>
+          <alias><![CDATA[remont_promyshlennogo_oborudovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165940322</id>
+          <name><![CDATA[Оборудование для автомоек]]></name>
+          <alias><![CDATA[oborudovanie_dlya_avtomoek]]></alias>
+        </child>
+        <child>
+          <id>1126020165927512</id>
+          <name><![CDATA[Продажа инфракрасных кабин]]></name>
+          <alias><![CDATA[prodazha_infrakrasnykh_kabin]]></alias>
+        </child>
+        <child>
+          <id>1126020165928020</id>
+          <name><![CDATA[Бензоинструмент]]></name>
+          <alias><![CDATA[benzoinstrument]]></alias>
+        </child>
+        <child>
+          <id>1126020165927566</id>
+          <name><![CDATA[Измерительный инструмент]]></name>
+          <alias><![CDATA[izmeritelnyjj_instrument]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926918</id>
+      <name><![CDATA[Образование / Работа / Карьера]]></name>
+      <alias><![CDATA[obrazovanie_rabota_karera]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165928093</id>
+          <name><![CDATA[Помощь в обучении]]></name>
+          <alias><![CDATA[pomoshh_v_obuchenii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927153</id>
+          <name><![CDATA[Научно-исследовательские институты]]></name>
+          <alias><![CDATA[nauchno_issledovatelskie_instituty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927606</id>
+          <name><![CDATA[Бухгалтерские курсы]]></name>
+          <alias><![CDATA[bukhgalterskie_kursy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927238</id>
+          <name><![CDATA[Кадровые / рекрутинговые агентства]]></name>
+          <alias><![CDATA[kadrovye_rekrutingovye_agentstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165941343</id>
+          <name><![CDATA[Личностные тренинги / семинары]]></name>
+          <alias><![CDATA[lichnostnye_treningi_seminary]]></alias>
+        </child>
+        <child>
+          <id>1126020165942197</id>
+          <name><![CDATA[Профессиональные лицеи]]></name>
+          <alias><![CDATA[professionalnye_licei]]></alias>
+        </child>
+        <child>
+          <id>1126020165927605</id>
+          <name><![CDATA[Обучение бизнес-профессиям]]></name>
+          <alias><![CDATA[obuchenie_biznes_professiyam]]></alias>
+        </child>
+        <child>
+          <id>1126020165928064</id>
+          <name><![CDATA[Обучение сотрудников охраны]]></name>
+          <alias><![CDATA[obuchenie_sotrudnikov_okhrany]]></alias>
+        </child>
+        <child>
+          <id>1126020165942673</id>
+          <name><![CDATA[Начальные школы-детские сады / Прогимназии]]></name>
+          <alias><![CDATA[nachalnye_shkoly_detskie_sady_progimnazii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927587</id>
+          <name><![CDATA[Школы иностранных языков]]></name>
+          <alias><![CDATA[shkoly_inostrannykh_yazykov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927142</id>
+          <name><![CDATA[Академии]]></name>
+          <alias><![CDATA[akademii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927143</id>
+          <name><![CDATA[Институты]]></name>
+          <alias><![CDATA[instituty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927145</id>
+          <name><![CDATA[Автошколы]]></name>
+          <alias><![CDATA[avtoshkoly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927146</id>
+          <name><![CDATA[Профессиональная переподготовка / Повышение квалификации]]></name>
+          <alias><![CDATA[professionalnaya_perepodgotovka_povyshenie_kvalifikacii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927149</id>
+          <name><![CDATA[Детские сады / Ясли]]></name>
+          <alias><![CDATA[detskie_sady_yasli]]></alias>
+        </child>
+        <child>
+          <id>1126020165927151</id>
+          <name><![CDATA[Конструкторские бюро]]></name>
+          <alias><![CDATA[konstruktorskie_byuro]]></alias>
+        </child>
+        <child>
+          <id>1126020165927155</id>
+          <name><![CDATA[Детские музыкальные школы]]></name>
+          <alias><![CDATA[detskie_muzykalnye_shkoly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927156</id>
+          <name><![CDATA[Художественные школы]]></name>
+          <alias><![CDATA[khudozhestvennye_shkoly]]></alias>
+        </child>
+        <child>
+          <id>1126020165932595</id>
+          <name><![CDATA[Центры раннего развития / дошкольного образования детей]]></name>
+          <alias><![CDATA[centry_rannego_razvitiya_doshkolnogo_obrazovaniya_detejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927607</id>
+          <name><![CDATA[Обучение мастеров для салонов красоты]]></name>
+          <alias><![CDATA[obuchenie_masterov_dlya_salonov_krasoty]]></alias>
+        </child>
+        <child>
+          <id>1126020165936876</id>
+          <name><![CDATA[Крюинговые агентства]]></name>
+          <alias><![CDATA[kryuingovye_agentstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165927462</id>
+          <name><![CDATA[Модельные агентства]]></name>
+          <alias><![CDATA[modelnye_agentstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165927590</id>
+          <name><![CDATA[Компьютерные курсы]]></name>
+          <alias><![CDATA[kompyuternye_kursy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927599</id>
+          <name><![CDATA[Школы-интернаты]]></name>
+          <alias><![CDATA[shkoly_internaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927604</id>
+          <name><![CDATA[Обучение рабочим профессиям]]></name>
+          <alias><![CDATA[obuchenie_rabochim_professiyam]]></alias>
+        </child>
+        <child>
+          <id>1126020165927424</id>
+          <name><![CDATA[Перевод с иностранных языков]]></name>
+          <alias><![CDATA[perevod_s_inostrannykh_yazykov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927160</id>
+          <name><![CDATA[Училища]]></name>
+          <alias><![CDATA[uchilishha]]></alias>
+        </child>
+        <child>
+          <id>1126020165978120</id>
+          <name><![CDATA[Консерватории]]></name>
+          <alias><![CDATA[konservatorii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927159</id>
+          <name><![CDATA[Техникумы]]></name>
+          <alias><![CDATA[tekhnikumy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927588</id>
+          <name><![CDATA[Обучение за рубежом]]></name>
+          <alias><![CDATA[obuchenie_za_rubezhom]]></alias>
+        </child>
+        <child>
+          <id>1126020165927970</id>
+          <name><![CDATA[Межшкольные учебные комбинаты]]></name>
+          <alias><![CDATA[mezhshkolnye_uchebnye_kombinaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927430</id>
+          <name><![CDATA[Школы искусств]]></name>
+          <alias><![CDATA[shkoly_iskusstv]]></alias>
+        </child>
+        <child>
+          <id>1126020165927595</id>
+          <name><![CDATA[Гимназии]]></name>
+          <alias><![CDATA[gimnazii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927157</id>
+          <name><![CDATA[Школы]]></name>
+          <alias><![CDATA[shkoly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927580</id>
+          <name><![CDATA[Бизнес-тренинги / семинары]]></name>
+          <alias><![CDATA[biznes_treningi_seminary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927144</id>
+          <name><![CDATA[Университеты]]></name>
+          <alias><![CDATA[universitety]]></alias>
+        </child>
+        <child>
+          <id>1126020165942199</id>
+          <name><![CDATA[Лицеи]]></name>
+          <alias><![CDATA[licei]]></alias>
+        </child>
+        <child>
+          <id>1126020165927158</id>
+          <name><![CDATA[Колледжи]]></name>
+          <alias><![CDATA[kolledzhi]]></alias>
+        </child>
+        <child>
+          <id>1126020165937027</id>
+          <name><![CDATA[Обучение морским профессиям]]></name>
+          <alias><![CDATA[obuchenie_morskim_professiyam]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165927947</id>
+      <name><![CDATA[Одежда / Обувь]]></name>
+      <alias><![CDATA[odezhda_obuv]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927266</id>
+          <name><![CDATA[Головные уборы]]></name>
+          <alias><![CDATA[golovnye_ubory]]></alias>
+        </child>
+        <child>
+          <id>1126020165927520</id>
+          <name><![CDATA[Секонд-хенд]]></name>
+          <alias><![CDATA[sekond_khend]]></alias>
+        </child>
+        <child>
+          <id>1126020165927521</id>
+          <name><![CDATA[Детская одежда / обувь]]></name>
+          <alias><![CDATA[detskaya_odezhda_obuv]]></alias>
+        </child>
+        <child>
+          <id>1126020165927270</id>
+          <name><![CDATA[Спецодежда / Средства индивидуальной защиты]]></name>
+          <alias><![CDATA[specodezhda_sredstva_individualnojj_zashhity]]></alias>
+        </child>
+        <child>
+          <id>1126020165927219</id>
+          <name><![CDATA[Ремонт обуви / кожгалантереи]]></name>
+          <alias><![CDATA[remont_obuvi_kozhgalanterei]]></alias>
+        </child>
+        <child>
+          <id>1126020165927517</id>
+          <name><![CDATA[Джинсовая одежда]]></name>
+          <alias><![CDATA[dzhinsovaya_odezhda]]></alias>
+        </child>
+        <child>
+          <id>1126020165927518</id>
+          <name><![CDATA[Женская одежда]]></name>
+          <alias><![CDATA[zhenskaya_odezhda]]></alias>
+        </child>
+        <child>
+          <id>1126020165927392</id>
+          <name><![CDATA[Производство обуви]]></name>
+          <alias><![CDATA[proizvodstvo_obuvi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927295</id>
+          <name><![CDATA[Свадебные товары]]></name>
+          <alias><![CDATA[svadebnye_tovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927257</id>
+          <name><![CDATA[Товары для новорождённых]]></name>
+          <alias><![CDATA[tovary_dlya_novorozhdjonnykh]]></alias>
+        </child>
+        <child>
+          <id>1126020165927258</id>
+          <name><![CDATA[Игрушки]]></name>
+          <alias><![CDATA[igrushki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927267</id>
+          <name><![CDATA[Меха / Дублёнки / Кожа]]></name>
+          <alias><![CDATA[mekha_dubljonki_kozha]]></alias>
+        </child>
+        <child>
+          <id>1126020165943403</id>
+          <name><![CDATA[Сценические / карнавальные костюмы / Аксессуары]]></name>
+          <alias><![CDATA[scenicheskie_karnavalnye_kostyumy_aksessuary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927265</id>
+          <name><![CDATA[Нижнее бельё]]></name>
+          <alias><![CDATA[nizhnee_beljo]]></alias>
+        </child>
+        <child>
+          <id>1126020165937289</id>
+          <name><![CDATA[Спецобувь]]></name>
+          <alias><![CDATA[specobuv]]></alias>
+        </child>
+        <child>
+          <id>1126020165927467</id>
+          <name><![CDATA[Трикотажные изделия]]></name>
+          <alias><![CDATA[trikotazhnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927271</id>
+          <name><![CDATA[Чулочно-носочные изделия]]></name>
+          <alias><![CDATA[chulochno_nosochnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165941338</id>
+          <name><![CDATA[Верхняя одежда]]></name>
+          <alias><![CDATA[verkhnyaya_odezhda]]></alias>
+        </child>
+        <child>
+          <id>1126020165932181</id>
+          <name><![CDATA[Одежда для беременных]]></name>
+          <alias><![CDATA[odezhda_dlya_beremennykh]]></alias>
+        </child>
+        <child>
+          <id>1126020165927438</id>
+          <name><![CDATA[Сумки / Кожгалантерея]]></name>
+          <alias><![CDATA[sumki_kozhgalantereya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927524</id>
+          <name><![CDATA[Мужская одежда]]></name>
+          <alias><![CDATA[muzhskaya_odezhda]]></alias>
+        </child>
+        <child>
+          <id>1126020165927711</id>
+          <name><![CDATA[Обувь - опт]]></name>
+          <alias><![CDATA[obuv_opt]]></alias>
+        </child>
+        <child>
+          <id>1126020165928094</id>
+          <name><![CDATA[Бижутерия]]></name>
+          <alias><![CDATA[bizhuteriya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927268</id>
+          <name><![CDATA[Магазины обувные]]></name>
+          <alias><![CDATA[magaziny_obuvnye]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165928533</id>
+      <name><![CDATA[Охрана / Безопасность]]></name>
+      <alias><![CDATA[okhrana_bezopasnost]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927366</id>
+          <name><![CDATA[Спасательное оборудование]]></name>
+          <alias><![CDATA[spasatelnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165935111</id>
+          <name><![CDATA[Продажа / ремонт / установка домофонов]]></name>
+          <alias><![CDATA[prodazha_remont_ustanovka_domofonov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927228</id>
+          <name><![CDATA[Вневедомственная охрана]]></name>
+          <alias><![CDATA[vnevedomstvennaya_okhrana]]></alias>
+        </child>
+        <child>
+          <id>1126020165927229</id>
+          <name><![CDATA[Детективные услуги]]></name>
+          <alias><![CDATA[detektivnye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927230</id>
+          <name><![CDATA[Услуги охраны]]></name>
+          <alias><![CDATA[uslugi_okhrany]]></alias>
+        </child>
+        <child>
+          <id>1126020165927365</id>
+          <name><![CDATA[Противопожарное оборудование / инвентарь]]></name>
+          <alias><![CDATA[protivopozharnoe_oborudovanie_inventar]]></alias>
+        </child>
+        <child>
+          <id>1126020165928014</id>
+          <name><![CDATA[Монтаж охранно-пожарных систем]]></name>
+          <alias><![CDATA[montazh_okhranno_pozharnykh_sistem]]></alias>
+        </child>
+        <child>
+          <id>1126020165949743</id>
+          <name><![CDATA[Пломбировочные устройства]]></name>
+          <alias><![CDATA[plombirovochnye_ustrojjstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165978795</id>
+          <name><![CDATA[Детекторы лжи]]></name>
+          <alias><![CDATA[detektory_lzhi]]></alias>
+        </child>
+        <child>
+          <id>1126020165928581</id>
+          <name><![CDATA[Огнезащитная обработка]]></name>
+          <alias><![CDATA[ognezashhitnaya_obrabotka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927231</id>
+          <name><![CDATA[Системы безопасности и охраны]]></name>
+          <alias><![CDATA[sistemy_bezopasnosti_i_okhrany]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926926</id>
+      <name><![CDATA[Продукты питания / Напитки]]></name>
+      <alias><![CDATA[produkty_pitaniya_napitki]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927471</id>
+          <name><![CDATA[Сахар / Соль]]></name>
+          <alias><![CDATA[sakhar_sol]]></alias>
+        </child>
+        <child>
+          <id>1126020165927284</id>
+          <name><![CDATA[Продажа / доставка питьевой воды]]></name>
+          <alias><![CDATA[prodazha_dostavka_pitevojj_vody]]></alias>
+        </child>
+        <child>
+          <id>1126020165927285</id>
+          <name><![CDATA[Продовольственные магазины]]></name>
+          <alias><![CDATA[prodovolstvennye_magaziny]]></alias>
+        </child>
+        <child>
+          <id>1126020165927381</id>
+          <name><![CDATA[Мороженое]]></name>
+          <alias><![CDATA[morozhenoe]]></alias>
+        </child>
+        <child>
+          <id>1126020165927847</id>
+          <name><![CDATA[Сыры]]></name>
+          <alias><![CDATA[syry]]></alias>
+        </child>
+        <child>
+          <id>1126020165927272</id>
+          <name><![CDATA[Алкогольные напитки]]></name>
+          <alias><![CDATA[alkogolnye_napitki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927624</id>
+          <name><![CDATA[Мясо птицы / Полуфабрикаты]]></name>
+          <alias><![CDATA[myaso_pticy_polufabrikaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165930144</id>
+          <name><![CDATA[Мука / Крупы]]></name>
+          <alias><![CDATA[muka_krupy]]></alias>
+        </child>
+        <child>
+          <id>1126020165928181</id>
+          <name><![CDATA[Зерно / Зерноотходы]]></name>
+          <alias><![CDATA[zerno_zernootkhody]]></alias>
+        </child>
+        <child>
+          <id>1126020165928185</id>
+          <name><![CDATA[Продукты пчеловодства]]></name>
+          <alias><![CDATA[produkty_pchelovodstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165927473</id>
+          <name><![CDATA[Продукты быстрого приготовления]]></name>
+          <alias><![CDATA[produkty_bystrogo_prigotovleniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927474</id>
+          <name><![CDATA[Мясо / Полуфабрикаты]]></name>
+          <alias><![CDATA[myaso_polufabrikaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927475</id>
+          <name><![CDATA[Консервированная продукция]]></name>
+          <alias><![CDATA[konservirovannaya_produkciya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927476</id>
+          <name><![CDATA[Овощи / Фрукты / Ягоды / Грибы]]></name>
+          <alias><![CDATA[ovoshhi_frukty_yagody_griby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927479</id>
+          <name><![CDATA[Детское питание]]></name>
+          <alias><![CDATA[detskoe_pitanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927413</id>
+          <name><![CDATA[Специи / Пряности]]></name>
+          <alias><![CDATA[specii_pryanosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165931392</id>
+          <name><![CDATA[Колбасные изделия]]></name>
+          <alias><![CDATA[kolbasnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927278</id>
+          <name><![CDATA[Рыба / Морепродукты]]></name>
+          <alias><![CDATA[ryba_moreprodukty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927279</id>
+          <name><![CDATA[Табачные изделия / Товары для курения]]></name>
+          <alias><![CDATA[tabachnye_izdeliya_tovary_dlya_kureniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927791</id>
+          <name><![CDATA[Снэковая продукция]]></name>
+          <alias><![CDATA[snehkovaya_produkciya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927469</id>
+          <name><![CDATA[Молочные продукты]]></name>
+          <alias><![CDATA[molochnye_produkty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927273</id>
+          <name><![CDATA[Безалкогольные напитки]]></name>
+          <alias><![CDATA[bezalkogolnye_napitki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927275</id>
+          <name><![CDATA[Кондитерские изделия]]></name>
+          <alias><![CDATA[konditerskie_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927287</id>
+          <name><![CDATA[Диетические / Соевые продукты]]></name>
+          <alias><![CDATA[dieticheskie_soevye_produkty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927383</id>
+          <name><![CDATA[Пиво]]></name>
+          <alias><![CDATA[pivo]]></alias>
+        </child>
+        <child>
+          <id>1126020165927480</id>
+          <name><![CDATA[Жир / Маслопродукты]]></name>
+          <alias><![CDATA[zhir_masloprodukty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927456</id>
+          <name><![CDATA[Хлебобулочные изделия]]></name>
+          <alias><![CDATA[khlebobulochnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165928193</id>
+          <name><![CDATA[Зернопереработка]]></name>
+          <alias><![CDATA[zernopererabotka]]></alias>
+        </child>
+        <child>
+          <id>1126020165948413</id>
+          <name><![CDATA[Киоски / магазины фастфудной продукции]]></name>
+          <alias><![CDATA[kioski_magaziny_fastfudnojj_produkcii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927837</id>
+          <name><![CDATA[Сырьё для пищевой промышленности]]></name>
+          <alias><![CDATA[syrjo_dlya_pishhevojj_promyshlennosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165932178</id>
+          <name><![CDATA[Яйцо]]></name>
+          <alias><![CDATA[yajjco]]></alias>
+        </child>
+        <child>
+          <id>1126020165930143</id>
+          <name><![CDATA[Макаронные изделия]]></name>
+          <alias><![CDATA[makaronnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927470</id>
+          <name><![CDATA[Чай / Кофе]]></name>
+          <alias><![CDATA[chajj_kofe]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926919</id>
+      <name><![CDATA[Реклама / Полиграфия / СМИ]]></name>
+      <alias><![CDATA[reklama_poligrafiya_smi]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165935103</id>
+          <name><![CDATA[Флексопечать]]></name>
+          <alias><![CDATA[fleksopechat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927971</id>
+          <name><![CDATA[Газеты]]></name>
+          <alias><![CDATA[gazety]]></alias>
+        </child>
+        <child>
+          <id>1126020165927166</id>
+          <name><![CDATA[Журналы]]></name>
+          <alias><![CDATA[zhurnaly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927245</id>
+          <name><![CDATA[Маркетинговые / социологические исследования]]></name>
+          <alias><![CDATA[marketingovye_sociologicheskie_issledovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927246</id>
+          <name><![CDATA[Директ-мэйл]]></name>
+          <alias><![CDATA[direkt_mehjjl]]></alias>
+        </child>
+        <child>
+          <id>1126020165927233</id>
+          <name><![CDATA[Дизайн рекламы]]></name>
+          <alias><![CDATA[dizajjn_reklamy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927234</id>
+          <name><![CDATA[Размещение рекламы в СМИ]]></name>
+          <alias><![CDATA[razmeshhenie_reklamy_v_smi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927534</id>
+          <name><![CDATA[Широкоформатная печать / УФ-печать]]></name>
+          <alias><![CDATA[shirokoformatnaya_pechat_uf_pechat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927537</id>
+          <name><![CDATA[Изготовление бизнес-сувениров]]></name>
+          <alias><![CDATA[izgotovlenie_biznes_suvenirov]]></alias>
+        </child>
+        <child>
+          <id>1126020165945766</id>
+          <name><![CDATA[Indoor-реклама (реклама в помещениях)]]></name>
+          <alias><![CDATA[indoor_reklama_reklama_v_pomeshheniyakh]]></alias>
+        </child>
+        <child>
+          <id>1126020165927972</id>
+          <name><![CDATA[Справочники]]></name>
+          <alias><![CDATA[spravochniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165974648</id>
+          <name><![CDATA[Теле- / радиокомпании]]></name>
+          <alias><![CDATA[tele_radiokompanii]]></alias>
+        </child>
+        <child>
+          <id>1126020165935280</id>
+          <name><![CDATA[Послепечатная обработка]]></name>
+          <alias><![CDATA[poslepechatnaya_obrabotka]]></alias>
+        </child>
+        <child>
+          <id>1126020165935314</id>
+          <name><![CDATA[Полиграфические услуги]]></name>
+          <alias><![CDATA[poligraficheskie_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165934490</id>
+          <name><![CDATA[Размещение наружной рекламы]]></name>
+          <alias><![CDATA[razmeshhenie_naruzhnojj_reklamy]]></alias>
+        </child>
+        <child>
+          <id>1126020165928525</id>
+          <name><![CDATA[Размещение рекламы на транспорте]]></name>
+          <alias><![CDATA[razmeshhenie_reklamy_na_transporte]]></alias>
+        </child>
+        <child>
+          <id>1126020165936739</id>
+          <name><![CDATA[Рекламные агентства полного цикла]]></name>
+          <alias><![CDATA[reklamnye_agentstva_polnogo_cikla]]></alias>
+        </child>
+        <child>
+          <id>1126020165935105</id>
+          <name><![CDATA[Шелкография]]></name>
+          <alias><![CDATA[shelkografiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927835</id>
+          <name><![CDATA[Световая реклама]]></name>
+          <alias><![CDATA[svetovaya_reklama]]></alias>
+        </child>
+        <child>
+          <id>1126020165927857</id>
+          <name><![CDATA[Материалы для наружной рекламы]]></name>
+          <alias><![CDATA[materialy_dlya_naruzhnojj_reklamy]]></alias>
+        </child>
+        <child>
+          <id>1126020165945227</id>
+          <name><![CDATA[Размещение рекламы в интернете]]></name>
+          <alias><![CDATA[razmeshhenie_reklamy_v_internete]]></alias>
+        </child>
+        <child>
+          <id>1126020165934231</id>
+          <name><![CDATA[Производство пластиковых карт]]></name>
+          <alias><![CDATA[proizvodstvo_plastikovykh_kart]]></alias>
+        </child>
+        <child>
+          <id>1126020165927290</id>
+          <name><![CDATA[Бумага для полиграфии]]></name>
+          <alias><![CDATA[bumaga_dlya_poligrafii]]></alias>
+        </child>
+        <child>
+          <id>1126020165932514</id>
+          <name><![CDATA[Видеостудии]]></name>
+          <alias><![CDATA[videostudii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927927</id>
+          <name><![CDATA[Фотостудии]]></name>
+          <alias><![CDATA[fotostudii]]></alias>
+        </child>
+        <child>
+          <id>1126020165979871</id>
+          <name><![CDATA[Киоски / магазины по продаже печатной продукции]]></name>
+          <alias><![CDATA[kioski_magaziny_po_prodazhe_pechatnojj_produkcii]]></alias>
+        </child>
+        <child>
+          <id>1126020165935101</id>
+          <name><![CDATA[Тампопечать]]></name>
+          <alias><![CDATA[tampopechat]]></alias>
+        </child>
+        <child>
+          <id>1126020165928116</id>
+          <name><![CDATA[Организация и проведение промоушн-акций]]></name>
+          <alias><![CDATA[organizaciya_i_provedenie_promoushn_akcijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165935102</id>
+          <name><![CDATA[Термопечать]]></name>
+          <alias><![CDATA[termopechat]]></alias>
+        </child>
+        <child>
+          <id>1126020165935100</id>
+          <name><![CDATA[Офсетная печать]]></name>
+          <alias><![CDATA[ofsetnaya_pechat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927376</id>
+          <name><![CDATA[Расходные материалы для полиграфии]]></name>
+          <alias><![CDATA[raskhodnye_materialy_dlya_poligrafii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927167</id>
+          <name><![CDATA[Предпечатная подготовка]]></name>
+          <alias><![CDATA[predpechatnaya_podgotovka]]></alias>
+        </child>
+        <child>
+          <id>1126020165935279</id>
+          <name><![CDATA[Студии звукозаписи]]></name>
+          <alias><![CDATA[studii_zvukozapisi]]></alias>
+        </child>
+        <child>
+          <id>1126020165935104</id>
+          <name><![CDATA[Оперативная полиграфия]]></name>
+          <alias><![CDATA[operativnaya_poligrafiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165934491</id>
+          <name><![CDATA[Изготовление рекламных конструкций]]></name>
+          <alias><![CDATA[izgotovlenie_reklamnykh_konstrukcijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927168</id>
+          <name><![CDATA[Радиостанции]]></name>
+          <alias><![CDATA[radiostancii]]></alias>
+        </child>
+        <child>
+          <id>1126020165936421</id>
+          <name><![CDATA[Агентства по подписке печатных изданий]]></name>
+          <alias><![CDATA[agentstva_po_podpiske_pechatnykh_izdanijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927578</id>
+          <name><![CDATA[PR / Связи с общественностью]]></name>
+          <alias><![CDATA[pr_svyazi_s_obshhestvennostyu]]></alias>
+        </child>
+        <child>
+          <id>1126020165974653</id>
+          <name><![CDATA[Телеканалы]]></name>
+          <alias><![CDATA[telekanaly]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926920</id>
+      <name><![CDATA[Спорт / Отдых / Туризм]]></name>
+      <alias><![CDATA[sport_otdykh_turizm]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927179</id>
+          <name><![CDATA[Тренажёрные залы]]></name>
+          <alias><![CDATA[trenazhjornye_zaly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927173</id>
+          <name><![CDATA[Бассейны]]></name>
+          <alias><![CDATA[bassejjny]]></alias>
+        </child>
+        <child>
+          <id>1126020165927181</id>
+          <name><![CDATA[Гостиницы]]></name>
+          <alias><![CDATA[gostinicy]]></alias>
+        </child>
+        <child>
+          <id>1126020165946399</id>
+          <name><![CDATA[Квартирные бюро]]></name>
+          <alias><![CDATA[kvartirnye_byuro]]></alias>
+        </child>
+        <child>
+          <id>1126020165927184</id>
+          <name><![CDATA[Туристические агентства]]></name>
+          <alias><![CDATA[turisticheskie_agentstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165927721</id>
+          <name><![CDATA[Велосипеды]]></name>
+          <alias><![CDATA[velosipedy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927176</id>
+          <name><![CDATA[Спортивно-технические клубы]]></name>
+          <alias><![CDATA[sportivno_tekhnicheskie_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927182</id>
+          <name><![CDATA[Детские лагеря]]></name>
+          <alias><![CDATA[detskie_lagerya]]></alias>
+        </child>
+        <child>
+          <id>1126020165931427</id>
+          <name><![CDATA[Танцевальные школы]]></name>
+          <alias><![CDATA[tancevalnye_shkoly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927676</id>
+          <name><![CDATA[Спортивный инвентарь]]></name>
+          <alias><![CDATA[sportivnyjj_inventar]]></alias>
+        </child>
+        <child>
+          <id>1126020165927608</id>
+          <name><![CDATA[Спортивное оборудование]]></name>
+          <alias><![CDATA[sportivnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165928145</id>
+          <name><![CDATA[Спортивное питание]]></name>
+          <alias><![CDATA[sportivnoe_pitanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927459</id>
+          <name><![CDATA[Базы отдыха]]></name>
+          <alias><![CDATA[bazy_otdykha]]></alias>
+        </child>
+        <child>
+          <id>1126020165927686</id>
+          <name><![CDATA[Детское игровое оборудование / Аксессуары]]></name>
+          <alias><![CDATA[detskoe_igrovoe_oborudovanie_aksessuary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927417</id>
+          <name><![CDATA[Снаряжение для туризма и отдыха]]></name>
+          <alias><![CDATA[snaryazhenie_dlya_turizma_i_otdykha]]></alias>
+        </child>
+        <child>
+          <id>1126020165927178</id>
+          <name><![CDATA[Профессиональные спортивные клубы]]></name>
+          <alias><![CDATA[professionalnye_sportivnye_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927174</id>
+          <name><![CDATA[Конные клубы / Ипподромы]]></name>
+          <alias><![CDATA[konnye_kluby_ippodromy]]></alias>
+        </child>
+        <child>
+          <id>1126020165987978</id>
+          <name><![CDATA[Спортивно-развлекательное оборудование / Аксессуары]]></name>
+          <alias><![CDATA[sportivno_razvlekatelnoe_oborudovanie_aksessuary]]></alias>
+        </child>
+        <child>
+          <id>1126020165995863</id>
+          <name><![CDATA[Военно-патриотические клубы]]></name>
+          <alias><![CDATA[voenno_patrioticheskie_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165947140</id>
+          <name><![CDATA[Центры йоги]]></name>
+          <alias><![CDATA[centry_jjogi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927171</id>
+          <name><![CDATA[Рыболовные принадлежности]]></name>
+          <alias><![CDATA[rybolovnye_prinadlezhnosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165998144</id>
+          <name><![CDATA[Велнес-залы]]></name>
+          <alias><![CDATA[velnes_zaly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927296</id>
+          <name><![CDATA[Охотничьи принадлежности / Оружие]]></name>
+          <alias><![CDATA[okhotnichi_prinadlezhnosti_oruzhie]]></alias>
+        </child>
+        <child>
+          <id>1126020165947685</id>
+          <name><![CDATA[Федерации спорта]]></name>
+          <alias><![CDATA[federacii_sporta]]></alias>
+        </child>
+        <child>
+          <id>1126020165927546</id>
+          <name><![CDATA[Стадионы]]></name>
+          <alias><![CDATA[stadiony]]></alias>
+        </child>
+        <child>
+          <id>1126020165978282</id>
+          <name><![CDATA[Спортивно-интеллектуальные клубы]]></name>
+          <alias><![CDATA[sportivno_intellektualnye_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927519</id>
+          <name><![CDATA[Спортивная одежда / обувь]]></name>
+          <alias><![CDATA[sportivnaya_odezhda_obuv]]></alias>
+        </child>
+        <child>
+          <id>1126020165936877</id>
+          <name><![CDATA[Яхт-клубы]]></name>
+          <alias><![CDATA[yakht_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165927545</id>
+          <name><![CDATA[Спортивные школы]]></name>
+          <alias><![CDATA[sportivnye_shkoly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927543</id>
+          <name><![CDATA[Лодки / Катера]]></name>
+          <alias><![CDATA[lodki_katera]]></alias>
+        </child>
+        <child>
+          <id>1126020165927180</id>
+          <name><![CDATA[Фитнес-клубы]]></name>
+          <alias><![CDATA[fitnes_kluby]]></alias>
+        </child>
+        <child>
+          <id>1126020165946513</id>
+          <name><![CDATA[Круизы / Морские, речные прогулки]]></name>
+          <alias><![CDATA[kruizy_morskie_rechnye_progulki]]></alias>
+        </child>
+        <child>
+          <id>1126020165978168</id>
+          <name><![CDATA[Спортивные секции]]></name>
+          <alias><![CDATA[sportivnye_sekcii]]></alias>
+        </child>
+        <child>
+          <id>1126020165938886</id>
+          <name><![CDATA[Ледовые дворцы / Катки]]></name>
+          <alias><![CDATA[ledovye_dvorcy_katki]]></alias>
+        </child>
+        <child>
+          <id>1126020165978153</id>
+          <name><![CDATA[Теннисные клубы / корты]]></name>
+          <alias><![CDATA[tennisnye_kluby_korty]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165969779</id>
+      <name><![CDATA[Строительные / отделочные материалы]]></name>
+      <alias><![CDATA[stroitelnye_otdelochnye_materialy]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927450</id>
+          <name><![CDATA[Керамическая плитка / Кафель]]></name>
+          <alias><![CDATA[keramicheskaya_plitka_kafel]]></alias>
+        </child>
+        <child>
+          <id>1126020165927195</id>
+          <name><![CDATA[Железобетонные изделия]]></name>
+          <alias><![CDATA[zhelezobetonnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927678</id>
+          <name><![CDATA[Погонажные изделия]]></name>
+          <alias><![CDATA[pogonazhnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165935652</id>
+          <name><![CDATA[Звукоизоляционные материалы]]></name>
+          <alias><![CDATA[zvukoizolyacionnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165936689</id>
+          <name><![CDATA[Магазины строительных материалов]]></name>
+          <alias><![CDATA[magaziny_stroitelnykh_materialov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927192</id>
+          <name><![CDATA[Гидроизоляционные материалы]]></name>
+          <alias><![CDATA[gidroizolyacionnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927193</id>
+          <name><![CDATA[Пиломатериалы]]></name>
+          <alias><![CDATA[pilomaterialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165976996</id>
+          <name><![CDATA[Облицовочный камень]]></name>
+          <alias><![CDATA[oblicovochnyjj_kamen]]></alias>
+        </child>
+        <child>
+          <id>1126020165936884</id>
+          <name><![CDATA[Входные двери]]></name>
+          <alias><![CDATA[vkhodnye_dveri]]></alias>
+        </child>
+        <child>
+          <id>1126020165934581</id>
+          <name><![CDATA[Сэндвич-панели]]></name>
+          <alias><![CDATA[sehndvich_paneli]]></alias>
+        </child>
+        <child>
+          <id>1126020165928468</id>
+          <name><![CDATA[Комплектующие для окон]]></name>
+          <alias><![CDATA[komplektuyushhie_dlya_okon]]></alias>
+        </child>
+        <child>
+          <id>1126020165937186</id>
+          <name><![CDATA[Песок / Щебень]]></name>
+          <alias><![CDATA[pesok_shheben]]></alias>
+        </child>
+        <child>
+          <id>1126020165927491</id>
+          <name><![CDATA[Кирпич / Бетоноблоки / Шлакоблоки]]></name>
+          <alias><![CDATA[kirpich_betonobloki_shlakobloki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927452</id>
+          <name><![CDATA[Тротуарная плитка]]></name>
+          <alias><![CDATA[trotuarnaya_plitka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927461</id>
+          <name><![CDATA[Материалы для дорожного строительства]]></name>
+          <alias><![CDATA[materialy_dlya_dorozhnogo_stroitelstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165936688</id>
+          <name><![CDATA[Магазины отделочных материалов]]></name>
+          <alias><![CDATA[magaziny_otdelochnykh_materialov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927506</id>
+          <name><![CDATA[Замки / Скобяные изделия]]></name>
+          <alias><![CDATA[zamki_skobyanye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927415</id>
+          <name><![CDATA[Фасадные материалы / конструкции]]></name>
+          <alias><![CDATA[fasadnye_materialy_konstrukcii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927385</id>
+          <name><![CDATA[Металлоконструкции для строительства зданий / сооружений]]></name>
+          <alias><![CDATA[metallokonstrukcii_dlya_stroitelstva_zdanijj_sooruzhenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927196</id>
+          <name><![CDATA[Кровельные материалы]]></name>
+          <alias><![CDATA[krovelnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927197</id>
+          <name><![CDATA[Лакокрасочные материалы]]></name>
+          <alias><![CDATA[lakokrasochnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927199</id>
+          <name><![CDATA[Напольные покрытия / Комплектующие]]></name>
+          <alias><![CDATA[napolnye_pokrytiya_komplektuyushhie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927204</id>
+          <name><![CDATA[Стекло / Зеркала]]></name>
+          <alias><![CDATA[steklo_zerkala]]></alias>
+        </child>
+        <child>
+          <id>1126020165927205</id>
+          <name><![CDATA[Теплоизоляционные материалы]]></name>
+          <alias><![CDATA[teploizolyacionnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165936885</id>
+          <name><![CDATA[Межкомнатные двери]]></name>
+          <alias><![CDATA[mezhkomnatnye_dveri]]></alias>
+        </child>
+        <child>
+          <id>1126020165940560</id>
+          <name><![CDATA[Декоративные элементы / покрытия]]></name>
+          <alias><![CDATA[dekorativnye_ehlementy_pokrytiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927492</id>
+          <name><![CDATA[Гипсокартон / Комплектующие]]></name>
+          <alias><![CDATA[gipsokarton_komplektuyushhie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927494</id>
+          <name><![CDATA[Герметики / Клеи]]></name>
+          <alias><![CDATA[germetiki_klei]]></alias>
+        </child>
+        <child>
+          <id>1126020165927200</id>
+          <name><![CDATA[Окна]]></name>
+          <alias><![CDATA[okna]]></alias>
+        </child>
+        <child>
+          <id>1126020165927905</id>
+          <name><![CDATA[Автоматические ворота / двери]]></name>
+          <alias><![CDATA[avtomaticheskie_vorota_dveri]]></alias>
+        </child>
+        <child>
+          <id>1126020165927849</id>
+          <name><![CDATA[Заборы / Ограждения]]></name>
+          <alias><![CDATA[zabory_ograzhdeniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165928109</id>
+          <name><![CDATA[Керамогранит]]></name>
+          <alias><![CDATA[keramogranit]]></alias>
+        </child>
+        <child>
+          <id>1126020165927600</id>
+          <name><![CDATA[Оргстекло / Поликарбонат]]></name>
+          <alias><![CDATA[orgsteklo_polikarbonat]]></alias>
+        </child>
+        <child>
+          <id>1126020165927490</id>
+          <name><![CDATA[Сухие строительные смеси]]></name>
+          <alias><![CDATA[sukhie_stroitelnye_smesi]]></alias>
+        </child>
+        <child>
+          <id>1126020165928108</id>
+          <name><![CDATA[Бетон / Раствор]]></name>
+          <alias><![CDATA[beton_rastvor]]></alias>
+        </child>
+        <child>
+          <id>1126020165928470</id>
+          <name><![CDATA[Изготовление художественных витражей / мозаики]]></name>
+          <alias><![CDATA[izgotovlenie_khudozhestvennykh_vitrazhejj_mozaiki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927680</id>
+          <name><![CDATA[ДСП / ДВП / Фанера]]></name>
+          <alias><![CDATA[dsp_dvp_fanera]]></alias>
+        </child>
+        <child>
+          <id>1126020165927717</id>
+          <name><![CDATA[Крепёжные изделия]]></name>
+          <alias><![CDATA[krepjozhnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927495</id>
+          <name><![CDATA[Стеновые панели]]></name>
+          <alias><![CDATA[stenovye_paneli]]></alias>
+        </child>
+        <child>
+          <id>1126020165927714</id>
+          <name><![CDATA[Системы перегородок]]></name>
+          <alias><![CDATA[sistemy_peregorodok]]></alias>
+        </child>
+        <child>
+          <id>1126020165937370</id>
+          <name><![CDATA[Комплектующие для дверей]]></name>
+          <alias><![CDATA[komplektuyushhie_dlya_dverejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927496</id>
+          <name><![CDATA[Продажа / монтаж потолков]]></name>
+          <alias><![CDATA[prodazha_montazh_potolkov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927468</id>
+          <name><![CDATA[Обои]]></name>
+          <alias><![CDATA[oboi]]></alias>
+        </child>
+        <child>
+          <id>1126020165942380</id>
+          <name><![CDATA[Пиломатериалы на экспорт]]></name>
+          <alias><![CDATA[pilomaterialy_na_ehksport]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926921</id>
+      <name><![CDATA[Строительство / Недвижимость / Ремонт]]></name>
+      <alias><![CDATA[stroitelstvo_nedvizhimost_remont]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165934980</id>
+          <name><![CDATA[Строительство АЗС / АГЗС]]></name>
+          <alias><![CDATA[stroitelstvo_azs_agzs]]></alias>
+        </child>
+        <child>
+          <id>1126020165927207</id>
+          <name><![CDATA[Жилищное строительство]]></name>
+          <alias><![CDATA[zhilishhnoe_stroitelstvo]]></alias>
+        </child>
+        <child>
+          <id>1126020165927211</id>
+          <name><![CDATA[Строительство бань / саун]]></name>
+          <alias><![CDATA[stroitelstvo_ban_saun]]></alias>
+        </child>
+        <child>
+          <id>1126020165927499</id>
+          <name><![CDATA[Реконструкция и капремонт зданий]]></name>
+          <alias><![CDATA[rekonstrukciya_i_kapremont_zdanijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927583</id>
+          <name><![CDATA[Гидромассажное оборудование]]></name>
+          <alias><![CDATA[gidromassazhnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927622</id>
+          <name><![CDATA[Деревообработка]]></name>
+          <alias><![CDATA[derevoobrabotka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927243</id>
+          <name><![CDATA[Дизайн интерьеров]]></name>
+          <alias><![CDATA[dizajjn_intererov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927208</id>
+          <name><![CDATA[Строительство гаражей]]></name>
+          <alias><![CDATA[stroitelstvo_garazhejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927209</id>
+          <name><![CDATA[Строительство и монтаж бассейнов / фонтанов]]></name>
+          <alias><![CDATA[stroitelstvo_i_montazh_bassejjnov_fontanov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927210</id>
+          <name><![CDATA[Строительство дач / коттеджей]]></name>
+          <alias><![CDATA[stroitelstvo_dach_kottedzhejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927185</id>
+          <name><![CDATA[Архитектурно-строительное проектирование]]></name>
+          <alias><![CDATA[arkhitekturno_stroitelnoe_proektirovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165946416</id>
+          <name><![CDATA[Остекление балконов / лоджий]]></name>
+          <alias><![CDATA[osteklenie_balkonov_lodzhijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927560</id>
+          <name><![CDATA[Фасадные работы]]></name>
+          <alias><![CDATA[fasadnye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165934932</id>
+          <name><![CDATA[Строительство систем газоснабжения]]></name>
+          <alias><![CDATA[stroitelstvo_sistem_gazosnabzheniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165939078</id>
+          <name><![CDATA[Антикоррозийная обработка металлоконструкций]]></name>
+          <alias><![CDATA[antikorrozijjnaya_obrabotka_metallokonstrukcijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927206</id>
+          <name><![CDATA[Строительство / ремонт дорог]]></name>
+          <alias><![CDATA[stroitelstvo_remont_dorog]]></alias>
+        </child>
+        <child>
+          <id>1126020165927395</id>
+          <name><![CDATA[Буровые работы]]></name>
+          <alias><![CDATA[burovye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927398</id>
+          <name><![CDATA[Геофизические работы]]></name>
+          <alias><![CDATA[geofizicheskie_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165934273</id>
+          <name><![CDATA[Алмазное бурение / резка]]></name>
+          <alias><![CDATA[almaznoe_burenie_rezka]]></alias>
+        </child>
+        <child>
+          <id>1126020165933422</id>
+          <name><![CDATA[Автоматизация инженерных систем]]></name>
+          <alias><![CDATA[avtomatizaciya_inzhenernykh_sistem]]></alias>
+        </child>
+        <child>
+          <id>1126020165932571</id>
+          <name><![CDATA[Проектирование инженерных систем]]></name>
+          <alias><![CDATA[proektirovanie_inzhenernykh_sistem]]></alias>
+        </child>
+        <child>
+          <id>1126020165927612</id>
+          <name><![CDATA[Промышленное строительство]]></name>
+          <alias><![CDATA[promyshlennoe_stroitelstvo]]></alias>
+        </child>
+        <child>
+          <id>1126020165927613</id>
+          <name><![CDATA[Строительство административных зданий]]></name>
+          <alias><![CDATA[stroitelstvo_administrativnykh_zdanijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165928521</id>
+          <name><![CDATA[Услуги по устройству промышленных / наливных полов]]></name>
+          <alias><![CDATA[uslugi_po_ustrojjstvu_promyshlennykh_nalivnykh_polov]]></alias>
+        </child>
+        <child>
+          <id>1126020165936140</id>
+          <name><![CDATA[Продажа биотуалетов]]></name>
+          <alias><![CDATA[prodazha_biotualetov]]></alias>
+        </child>
+        <child>
+          <id>1126020165937051</id>
+          <name><![CDATA[Гидрогеологические работы]]></name>
+          <alias><![CDATA[gidrogeologicheskie_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927483</id>
+          <name><![CDATA[Аренда помещений]]></name>
+          <alias><![CDATA[arenda_pomeshhenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927614</id>
+          <name><![CDATA[Техническая экспертиза зданий и сооружений]]></name>
+          <alias><![CDATA[tekhnicheskaya_ehkspertiza_zdanijj_i_sooruzhenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927615</id>
+          <name><![CDATA[Инжиниринговые услуги]]></name>
+          <alias><![CDATA[inzhiniringovye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927401</id>
+          <name><![CDATA[Системы отопления / водоснабжения / канализации]]></name>
+          <alias><![CDATA[sistemy_otopleniya_vodosnabzheniya_kanalizacii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927352</id>
+          <name><![CDATA[Оборудование для очистки воды]]></name>
+          <alias><![CDATA[oborudovanie_dlya_ochistki_vody]]></alias>
+        </child>
+        <child>
+          <id>1126020165927203</id>
+          <name><![CDATA[Сантехника / Санфаянс]]></name>
+          <alias><![CDATA[santekhnika_sanfayans]]></alias>
+        </child>
+        <child>
+          <id>1126020165927186</id>
+          <name><![CDATA[Ландшафтная архитектура]]></name>
+          <alias><![CDATA[landshaftnaya_arkhitektura]]></alias>
+        </child>
+        <child>
+          <id>1126020165927187</id>
+          <name><![CDATA[Агентства недвижимости]]></name>
+          <alias><![CDATA[agentstva_nedvizhimosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165937713</id>
+          <name><![CDATA[Гидротехническое строительство]]></name>
+          <alias><![CDATA[gidrotekhnicheskoe_stroitelstvo]]></alias>
+        </child>
+        <child>
+          <id>1126020165979586</id>
+          <name><![CDATA[Геологические работы]]></name>
+          <alias><![CDATA[geologicheskie_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165979927</id>
+          <name><![CDATA[Земельно-кадастровые работы]]></name>
+          <alias><![CDATA[zemelno_kadastrovye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165980309</id>
+          <name><![CDATA[Земляные работы]]></name>
+          <alias><![CDATA[zemlyanye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165981825</id>
+          <name><![CDATA[Экологические работы]]></name>
+          <alias><![CDATA[ehkologicheskie_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165996343</id>
+          <name><![CDATA[Лесоустройство / Изыскательные работы от ФГУП "Рослесинфорг"]]></name>
+          <alias><![CDATA[lesoustrojjstvo_izyskatelnye_raboty_ot_fgup_roslesinforg]]></alias>
+        </child>
+        <child>
+          <id>1126020165927500</id>
+          <name><![CDATA[Строительство мостов / тоннелей / путепроводов]]></name>
+          <alias><![CDATA[stroitelstvo_mostov_tonnelejj_puteprovodov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927047</id>
+          <name><![CDATA[Бюро технической инвентаризации (БТИ)]]></name>
+          <alias><![CDATA[byuro_tekhnicheskojj_inventarizacii_bti]]></alias>
+        </child>
+        <child>
+          <id>1126020165927191</id>
+          <name><![CDATA[Электромонтажные работы]]></name>
+          <alias><![CDATA[ehlektromontazhnye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927188</id>
+          <name><![CDATA[Ремонт / отделка помещений]]></name>
+          <alias><![CDATA[remont_otdelka_pomeshhenijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927559</id>
+          <name><![CDATA[Кровельные работы]]></name>
+          <alias><![CDATA[krovelnye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927397</id>
+          <name><![CDATA[Геодезические работы]]></name>
+          <alias><![CDATA[geodezicheskie_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165940708</id>
+          <name><![CDATA[Бизнес-центры]]></name>
+          <alias><![CDATA[biznes_centry]]></alias>
+        </child>
+        <child>
+          <id>1126020165938553</id>
+          <name><![CDATA[Свайные работы]]></name>
+          <alias><![CDATA[svajjnye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165936933</id>
+          <name><![CDATA[Строительство / ремонт наружных инженерных сетей]]></name>
+          <alias><![CDATA[stroitelstvo_remont_naruzhnykh_inzhenernykh_setejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165937024</id>
+          <name><![CDATA[Подводно-технические работы]]></name>
+          <alias><![CDATA[podvodno_tekhnicheskie_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927515</id>
+          <name><![CDATA[Новостройки]]></name>
+          <alias><![CDATA[novostrojjki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927620</id>
+          <name><![CDATA[Полимерная порошковая окраска]]></name>
+          <alias><![CDATA[polimernaya_poroshkovaya_okraska]]></alias>
+        </child>
+        <child>
+          <id>1126020165927611</id>
+          <name><![CDATA[Монтаж систем отопления / водоснабжения / канализации]]></name>
+          <alias><![CDATA[montazh_sistem_otopleniya_vodosnabzheniya_kanalizacii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927601</id>
+          <name><![CDATA[Высотные работы]]></name>
+          <alias><![CDATA[vysotnye_raboty]]></alias>
+        </child>
+        <child>
+          <id>1126020165949683</id>
+          <name><![CDATA[Ремонт окон]]></name>
+          <alias><![CDATA[remont_okon]]></alias>
+        </child>
+        <child>
+          <id>1126020165927616</id>
+          <name><![CDATA[Монтаж климатических систем]]></name>
+          <alias><![CDATA[montazh_klimaticheskikh_sistem]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165969784</id>
+      <name><![CDATA[Текстиль / Предметы интерьера]]></name>
+      <alias><![CDATA[tekstil_predmety_interera]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927522</id>
+          <name><![CDATA[Пряжа]]></name>
+          <alias><![CDATA[pryazha]]></alias>
+        </child>
+        <child>
+          <id>1126020165927307</id>
+          <name><![CDATA[Керамические изделия]]></name>
+          <alias><![CDATA[keramicheskie_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927189</id>
+          <name><![CDATA[Интерьерные лестницы / Ограждения]]></name>
+          <alias><![CDATA[interernye_lestnicy_ograzhdeniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927190</id>
+          <name><![CDATA[Кованые изделия]]></name>
+          <alias><![CDATA[kovanye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927460</id>
+          <name><![CDATA[Печи / Камины]]></name>
+          <alias><![CDATA[pechi_kaminy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927420</id>
+          <name><![CDATA[Ткани]]></name>
+          <alias><![CDATA[tkani]]></alias>
+        </child>
+        <child>
+          <id>1126020165927304</id>
+          <name><![CDATA[Постельные принадлежности / Текстиль для дома]]></name>
+          <alias><![CDATA[postelnye_prinadlezhnosti_tekstil_dlya_doma]]></alias>
+        </child>
+        <child>
+          <id>1126020165927306</id>
+          <name><![CDATA[Карнизы]]></name>
+          <alias><![CDATA[karnizy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927908</id>
+          <name><![CDATA[Портьерные ткани / Шторы]]></name>
+          <alias><![CDATA[porternye_tkani_shtory]]></alias>
+        </child>
+        <child>
+          <id>1126020165927421</id>
+          <name><![CDATA[Швейная фурнитура]]></name>
+          <alias><![CDATA[shvejjnaya_furnitura]]></alias>
+        </child>
+        <child>
+          <id>1126020165927194</id>
+          <name><![CDATA[Жалюзи / Рольставни]]></name>
+          <alias><![CDATA[zhalyuzi_rolstavni]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165927658</id>
+      <name><![CDATA[Товары для животных / Ветеринария]]></name>
+      <alias><![CDATA[tovary_dlya_zhivotnykh_veterinariya]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927553</id>
+          <name><![CDATA[Ветеринарные препараты]]></name>
+          <alias><![CDATA[veterinarnye_preparaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927117</id>
+          <name><![CDATA[Ветеринарные клиники]]></name>
+          <alias><![CDATA[veterinarnye_kliniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927292</id>
+          <name><![CDATA[Зоотовары]]></name>
+          <alias><![CDATA[zootovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165986196</id>
+          <name><![CDATA[Животноводство]]></name>
+          <alias><![CDATA[zhivotnovodstvo]]></alias>
+        </child>
+        <child>
+          <id>1126020165927116</id>
+          <name><![CDATA[Ветеринарные аптеки]]></name>
+          <alias><![CDATA[veterinarnye_apteki]]></alias>
+        </child>
+        <child>
+          <id>1126020165928579</id>
+          <name><![CDATA[Комбикорм / Кормовые добавки]]></name>
+          <alias><![CDATA[kombikorm_kormovye_dobavki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927068</id>
+          <name><![CDATA[Клубы домашних животных / Питомники]]></name>
+          <alias><![CDATA[kluby_domashnikh_zhivotnykh_pitomniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927609</id>
+          <name><![CDATA[Аквариумы]]></name>
+          <alias><![CDATA[akvariumy]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165933459</id>
+      <name><![CDATA[Торговые комплексы / Спецмагазины]]></name>
+      <alias><![CDATA[torgovye_kompleksy_specmagaziny]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927301</id>
+          <name><![CDATA[Цветы]]></name>
+          <alias><![CDATA[cvety]]></alias>
+        </child>
+        <child>
+          <id>1126020165927302</id>
+          <name><![CDATA[Часы]]></name>
+          <alias><![CDATA[chasy]]></alias>
+        </child>
+        <child>
+          <id>1126020165946411</id>
+          <name><![CDATA[Торгово-развлекательные центры / Моллы]]></name>
+          <alias><![CDATA[torgovo_razvlekatelnye_centry_molly]]></alias>
+        </child>
+        <child>
+          <id>1126020165927123</id>
+          <name><![CDATA[Эротические товары]]></name>
+          <alias><![CDATA[ehroticheskie_tovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927422</id>
+          <name><![CDATA[Сувениры / Подарки]]></name>
+          <alias><![CDATA[suveniry_podarki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927303</id>
+          <name><![CDATA[Ювелирные изделия]]></name>
+          <alias><![CDATA[yuvelirnye_izdeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165942414</id>
+          <name><![CDATA[Товары для творчества и рукоделия]]></name>
+          <alias><![CDATA[tovary_dlya_tvorchestva_i_rukodeliya]]></alias>
+        </child>
+        <child>
+          <id>1126020165948360</id>
+          <name><![CDATA[Комиссионные магазины]]></name>
+          <alias><![CDATA[komissionnye_magaziny]]></alias>
+        </child>
+        <child>
+          <id>1126020165978015</id>
+          <name><![CDATA[Продажа купонов со скидками / Дисконтные системы]]></name>
+          <alias><![CDATA[prodazha_kuponov_so_skidkami_diskontnye_sistemy]]></alias>
+        </child>
+        <child>
+          <id>1126020165978274</id>
+          <name><![CDATA[Сборные / радиоуправляемые модели]]></name>
+          <alias><![CDATA[sbornye_radioupravlyaemye_modeli]]></alias>
+        </child>
+        <child>
+          <id>1126020165979155</id>
+          <name><![CDATA[Ножи]]></name>
+          <alias><![CDATA[nozhi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927288</id>
+          <name><![CDATA[Рынки]]></name>
+          <alias><![CDATA[rynki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927262</id>
+          <name><![CDATA[Супермаркеты]]></name>
+          <alias><![CDATA[supermarkety]]></alias>
+        </child>
+        <child>
+          <id>1126020165939090</id>
+          <name><![CDATA[Аксессуары для бань и саун]]></name>
+          <alias><![CDATA[aksessuary_dlya_ban_i_saun]]></alias>
+        </child>
+        <child>
+          <id>1126020165932700</id>
+          <name><![CDATA[Ремонт / изготовление ювелирных изделий]]></name>
+          <alias><![CDATA[remont_izgotovlenie_yuvelirnykh_izdelijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165949071</id>
+          <name><![CDATA[Доставка цветов]]></name>
+          <alias><![CDATA[dostavka_cvetov]]></alias>
+        </child>
+        <child>
+          <id>1126020165937817</id>
+          <name><![CDATA[Новогодние товары]]></name>
+          <alias><![CDATA[novogodnie_tovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927523</id>
+          <name><![CDATA[Торговые центры]]></name>
+          <alias><![CDATA[torgovye_centry]]></alias>
+        </child>
+        <child>
+          <id>1126020165939034</id>
+          <name><![CDATA[Универсальные магазины / комплексы]]></name>
+          <alias><![CDATA[universalnye_magaziny_kompleksy]]></alias>
+        </child>
+        <child>
+          <id>1126020165939039</id>
+          <name><![CDATA[Гипермаркеты]]></name>
+          <alias><![CDATA[gipermarkety]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926924</id>
+      <name><![CDATA[Транспорт / Грузоперевозки]]></name>
+      <alias><![CDATA[transport_gruzoperevozki]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927328</id>
+          <name><![CDATA[Автовокзал]]></name>
+          <alias><![CDATA[avtovokzal]]></alias>
+        </child>
+        <child>
+          <id>1126020165936873</id>
+          <name><![CDATA[Морские порты]]></name>
+          <alias><![CDATA[morskie_porty]]></alias>
+        </child>
+        <child>
+          <id>1126020165934872</id>
+          <name><![CDATA[Железнодорожное оборудование / техника]]></name>
+          <alias><![CDATA[zheleznodorozhnoe_oborudovanie_tekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165927334</id>
+          <name><![CDATA[Железнодорожные вокзалы и станции]]></name>
+          <alias><![CDATA[zheleznodorozhnye_vokzaly_i_stancii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927335</id>
+          <name><![CDATA[Железнодорожные грузоперевозки]]></name>
+          <alias><![CDATA[zheleznodorozhnye_gruzoperevozki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927313</id>
+          <name><![CDATA[Авиакомпании]]></name>
+          <alias><![CDATA[aviakompanii]]></alias>
+        </child>
+        <child>
+          <id>1126020165927314</id>
+          <name><![CDATA[Авиагрузоперевозки]]></name>
+          <alias><![CDATA[aviagruzoperevozki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927254</id>
+          <name><![CDATA[Автоэкспертиза]]></name>
+          <alias><![CDATA[avtoehkspertiza]]></alias>
+        </child>
+        <child>
+          <id>1126020165927577</id>
+          <name><![CDATA[Продажа автобусов]]></name>
+          <alias><![CDATA[prodazha_avtobusov]]></alias>
+        </child>
+        <child>
+          <id>1126020165943708</id>
+          <name><![CDATA[Техническое обслуживание судов / судового оборудования]]></name>
+          <alias><![CDATA[tekhnicheskoe_obsluzhivanie_sudov_sudovogo_oborudovaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927429</id>
+          <name><![CDATA[Аэропорты]]></name>
+          <alias><![CDATA[aehroporty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927633</id>
+          <name><![CDATA[Городские автогрузоперевозки]]></name>
+          <alias><![CDATA[gorodskie_avtogruzoperevozki]]></alias>
+        </child>
+        <child>
+          <id>1126020165941288</id>
+          <name><![CDATA[Вывоз мусора / снега]]></name>
+          <alias><![CDATA[vyvoz_musora_snega]]></alias>
+        </child>
+        <child>
+          <id>1126020165937040</id>
+          <name><![CDATA[Сюрвейерские услуги]]></name>
+          <alias><![CDATA[syurvejjerskie_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165934860</id>
+          <name><![CDATA[Строительство / ремонт железных дорог]]></name>
+          <alias><![CDATA[stroitelstvo_remont_zheleznykh_dorog]]></alias>
+        </child>
+        <child>
+          <id>1126020165927445</id>
+          <name><![CDATA[Заказ пассажирского легкового транспорта]]></name>
+          <alias><![CDATA[zakaz_passazhirskogo_legkovogo_transporta]]></alias>
+        </child>
+        <child>
+          <id>1126020165937018</id>
+          <name><![CDATA[Запчасти для судов]]></name>
+          <alias><![CDATA[zapchasti_dlya_sudov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927344</id>
+          <name><![CDATA[Спецавтотехника]]></name>
+          <alias><![CDATA[specavtotekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165927329</id>
+          <name><![CDATA[Междугородные автогрузоперевозки]]></name>
+          <alias><![CDATA[mezhdugorodnye_avtogruzoperevozki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927330</id>
+          <name><![CDATA[Прокат автотранспорта]]></name>
+          <alias><![CDATA[prokat_avtotransporta]]></alias>
+        </child>
+        <child>
+          <id>1126020165927331</id>
+          <name><![CDATA[Морские / речные грузоперевозки]]></name>
+          <alias><![CDATA[morskie_rechnye_gruzoperevozki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927312</id>
+          <name><![CDATA[Авиабилеты]]></name>
+          <alias><![CDATA[aviabilety]]></alias>
+        </child>
+        <child>
+          <id>1126020165983393</id>
+          <name><![CDATA[Перевозки негабаритных грузов от "Атлант"]]></name>
+          <alias><![CDATA[perevozki_negabaritnykh_gruzov_ot_atlant]]></alias>
+        </child>
+        <child>
+          <id>1126020165932712</id>
+          <name><![CDATA[Стивидорные услуги]]></name>
+          <alias><![CDATA[stividornye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165945383</id>
+          <name><![CDATA[Специализированные дорожные средства / устройства]]></name>
+          <alias><![CDATA[specializirovannye_dorozhnye_sredstva_ustrojjstva]]></alias>
+        </child>
+        <child>
+          <id>1126020165936653</id>
+          <name><![CDATA[Международные грузоперевозки]]></name>
+          <alias><![CDATA[mezhdunarodnye_gruzoperevozki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927340</id>
+          <name><![CDATA[Продажа грузовых автомобилей]]></name>
+          <alias><![CDATA[prodazha_gruzovykh_avtomobilejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927343</id>
+          <name><![CDATA[Продажа легковых автомобилей]]></name>
+          <alias><![CDATA[prodazha_legkovykh_avtomobilejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165935445</id>
+          <name><![CDATA[Гаражные кооперативы]]></name>
+          <alias><![CDATA[garazhnye_kooperativy]]></alias>
+        </child>
+        <child>
+          <id>1126020165932714</id>
+          <name><![CDATA[Судостроение / Судоремонт]]></name>
+          <alias><![CDATA[sudostroenie_sudoremont]]></alias>
+        </child>
+        <child>
+          <id>1126020165927333</id>
+          <name><![CDATA[Железнодорожные билеты]]></name>
+          <alias><![CDATA[zheleznodorozhnye_bilety]]></alias>
+        </child>
+        <child>
+          <id>1126020165938990</id>
+          <name><![CDATA[Фрахтование морских судов]]></name>
+          <alias><![CDATA[frakhtovanie_morskikh_sudov]]></alias>
+        </child>
+        <child>
+          <id>1126020165939398</id>
+          <name><![CDATA[Оформление купли-продажи автомобилей]]></name>
+          <alias><![CDATA[oformlenie_kupli_prodazhi_avtomobilejj]]></alias>
+        </child>
+        <child>
+          <id>1126020165945901</id>
+          <name><![CDATA[Прокат катеров / яхт]]></name>
+          <alias><![CDATA[prokat_katerov_yakht]]></alias>
+        </child>
+        <child>
+          <id>1126020165927250</id>
+          <name><![CDATA[Экспресс-почта]]></name>
+          <alias><![CDATA[ehkspress_pochta]]></alias>
+        </child>
+        <child>
+          <id>1126020165938988</id>
+          <name><![CDATA[Шипчандлерские услуги]]></name>
+          <alias><![CDATA[shipchandlerskie_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927640</id>
+          <name><![CDATA[Заказ автобусов]]></name>
+          <alias><![CDATA[zakaz_avtobusov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927341</id>
+          <name><![CDATA[Мототехника]]></name>
+          <alias><![CDATA[mototekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165932191</id>
+          <name><![CDATA[Услуги складского хранения]]></name>
+          <alias><![CDATA[uslugi_skladskogo_khraneniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165935446</id>
+          <name><![CDATA[Экспедирование грузов]]></name>
+          <alias><![CDATA[ehkspedirovanie_gruzov]]></alias>
+        </child>
+        <child>
+          <id>1126020165930148</id>
+          <name><![CDATA[Сельхозтехника]]></name>
+          <alias><![CDATA[selkhoztekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165928068</id>
+          <name><![CDATA[Заказ строительной / спецавтотехники]]></name>
+          <alias><![CDATA[zakaz_stroitelnojj_specavtotekhniki]]></alias>
+        </child>
+        <child>
+          <id>1126020165932711</id>
+          <name><![CDATA[Агентирование морских судов]]></name>
+          <alias><![CDATA[agentirovanie_morskikh_sudov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927448</id>
+          <name><![CDATA[Троллейбусные депо]]></name>
+          <alias><![CDATA[trollejjbusnye_depo]]></alias>
+        </child>
+        <child>
+          <id>1126020165931447</id>
+          <name><![CDATA[Пассажирские автотранспортные предприятия (ПАТП)]]></name>
+          <alias><![CDATA[passazhirskie_avtotransportnye_predpriyatiya_patp]]></alias>
+        </child>
+        <child>
+          <id>1126020165936441</id>
+          <name><![CDATA[Ремонт лодок / катеров]]></name>
+          <alias><![CDATA[remont_lodok_katerov]]></alias>
+        </child>
+        <child>
+          <id>1126020165938987</id>
+          <name><![CDATA[Бункеровка судов]]></name>
+          <alias><![CDATA[bunkerovka_sudov]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165926923</id>
+      <name><![CDATA[Хозтовары / Канцелярия / Упаковка]]></name>
+      <alias><![CDATA[khoztovary_kancelyariya_upakovka]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165937203</id>
+          <name><![CDATA[Гофротара]]></name>
+          <alias><![CDATA[gofrotara]]></alias>
+        </child>
+        <child>
+          <id>1126020165927967</id>
+          <name><![CDATA[Календари / Открытки]]></name>
+          <alias><![CDATA[kalendari_otkrytki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927297</id>
+          <name><![CDATA[Семена / Посадочный материал]]></name>
+          <alias><![CDATA[semena_posadochnyjj_material]]></alias>
+        </child>
+        <child>
+          <id>1126020165927260</id>
+          <name><![CDATA[Учебная литература]]></name>
+          <alias><![CDATA[uchebnaya_literatura]]></alias>
+        </child>
+        <child>
+          <id>1126020165928149</id>
+          <name><![CDATA[Укрывной материал]]></name>
+          <alias><![CDATA[ukryvnojj_material]]></alias>
+        </child>
+        <child>
+          <id>1126020165927309</id>
+          <name><![CDATA[Садово-огородный инвентарь / техника]]></name>
+          <alias><![CDATA[sadovo_ogorodnyjj_inventar_tekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165927544</id>
+          <name><![CDATA[Одноразовая посуда]]></name>
+          <alias><![CDATA[odnorazovaya_posuda]]></alias>
+        </child>
+        <child>
+          <id>1126020165927547</id>
+          <name><![CDATA[Упаковочные материалы]]></name>
+          <alias><![CDATA[upakovochnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927535</id>
+          <name><![CDATA[Фасовочно-упаковочное оборудование]]></name>
+          <alias><![CDATA[fasovochno_upakovochnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165934503</id>
+          <name><![CDATA[Подарочная упаковка]]></name>
+          <alias><![CDATA[podarochnaya_upakovka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927308</id>
+          <name><![CDATA[Посуда]]></name>
+          <alias><![CDATA[posuda]]></alias>
+        </child>
+        <child>
+          <id>1126020165928118</id>
+          <name><![CDATA[Оборудование для промышленной маркировки]]></name>
+          <alias><![CDATA[oborudovanie_dlya_promyshlennojj_markirovki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927310</id>
+          <name><![CDATA[Хозяйственные товары]]></name>
+          <alias><![CDATA[khozyajjstvennye_tovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927293</id>
+          <name><![CDATA[Канцелярские товары]]></name>
+          <alias><![CDATA[kancelyarskie_tovary]]></alias>
+        </child>
+        <child>
+          <id>1126020165927538</id>
+          <name><![CDATA[Пакеты / Плёнки]]></name>
+          <alias><![CDATA[pakety_pljonki]]></alias>
+        </child>
+        <child>
+          <id>1126020165934318</id>
+          <name><![CDATA[Стеклянная тара]]></name>
+          <alias><![CDATA[steklyannaya_tara]]></alias>
+        </child>
+        <child>
+          <id>1126020165927274</id>
+          <name><![CDATA[Бытовая химия]]></name>
+          <alias><![CDATA[bytovaya_khimiya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927259</id>
+          <name><![CDATA[Книги]]></name>
+          <alias><![CDATA[knigi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927154</id>
+          <name><![CDATA[Средства защиты растений / Удобрения]]></name>
+          <alias><![CDATA[sredstva_zashhity_rastenijj_udobreniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927539</id>
+          <name><![CDATA[Бумажная упаковка]]></name>
+          <alias><![CDATA[bumazhnaya_upakovka]]></alias>
+        </child>
+        <child>
+          <id>1126020165927536</id>
+          <name><![CDATA[Пластиковая тара]]></name>
+          <alias><![CDATA[plastikovaya_tara]]></alias>
+        </child>
+        <child>
+          <id>1126020165927852</id>
+          <name><![CDATA[Офисная бумага]]></name>
+          <alias><![CDATA[ofisnaya_bumaga]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165969775</id>
+      <name><![CDATA[Электроника / Электротехника]]></name>
+      <alias><![CDATA[ehlektronika_ehlektrotekhnika]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165927586</id>
+          <name><![CDATA[Электродвигатели / Редукторы]]></name>
+          <alias><![CDATA[ehlektrodvigateli_reduktory]]></alias>
+        </child>
+        <child>
+          <id>1126020165927602</id>
+          <name><![CDATA[Контрольно-измерительные приборы (КИПиА)]]></name>
+          <alias><![CDATA[kontrolno_izmeritelnye_pribory_kipia]]></alias>
+        </child>
+        <child>
+          <id>1126020165927503</id>
+          <name><![CDATA[Светотехника]]></name>
+          <alias><![CDATA[svetotekhnika]]></alias>
+        </child>
+        <child>
+          <id>1126020165927504</id>
+          <name><![CDATA[Элементы питания]]></name>
+          <alias><![CDATA[ehlementy_pitaniya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927375</id>
+          <name><![CDATA[Радиоэлектронные приборы]]></name>
+          <alias><![CDATA[radioehlektronnye_pribory]]></alias>
+        </child>
+        <child>
+          <id>1126020165927371</id>
+          <name><![CDATA[Электронагревательное оборудование]]></name>
+          <alias><![CDATA[ehlektronagrevatelnoe_oborudovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927373</id>
+          <name><![CDATA[Электроустановочная продукция]]></name>
+          <alias><![CDATA[ehlektroustanovochnaya_produkciya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927311</id>
+          <name><![CDATA[Электротехническая продукция]]></name>
+          <alias><![CDATA[ehlektrotekhnicheskaya_produkciya]]></alias>
+        </child>
+        <child>
+          <id>1126020165927414</id>
+          <name><![CDATA[Электроизоляционные материалы]]></name>
+          <alias><![CDATA[ehlektroizolyacionnye_materialy]]></alias>
+        </child>
+        <child>
+          <id>1126020165927507</id>
+          <name><![CDATA[Кабель / Провод]]></name>
+          <alias><![CDATA[kabel_provod]]></alias>
+        </child>
+        <child>
+          <id>1126020165927374</id>
+          <name><![CDATA[Электронные компоненты]]></name>
+          <alias><![CDATA[ehlektronnye_komponenty]]></alias>
+        </child>
+        <child>
+          <id>1126020165927426</id>
+          <name><![CDATA[Ремонт электродвигателей]]></name>
+          <alias><![CDATA[remont_ehlektrodvigatelejj]]></alias>
+        </child>
+      </children>
+    </rubric>
+    <rubric>
+      <id>1126020165927881</id>
+      <name><![CDATA[Юридические / финансовые / бизнес-услуги]]></name>
+      <alias><![CDATA[yuridicheskie_finansovye_biznes_uslugi]]></alias>
+      <parent_id>0</parent_id>
+      <children>
+        <child>
+          <id>1126020165994281</id>
+          <name><![CDATA[Бизнес-инкубаторы]]></name>
+          <alias><![CDATA[biznes_inkubatory]]></alias>
+        </child>
+        <child>
+          <id>1126020165927242</id>
+          <name><![CDATA[Миграционные услуги]]></name>
+          <alias><![CDATA[migracionnye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927255</id>
+          <name><![CDATA[Нотариальные услуги]]></name>
+          <alias><![CDATA[notarialnye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927241</id>
+          <name><![CDATA[Защита авторских прав]]></name>
+          <alias><![CDATA[zashhita_avtorskikh_prav]]></alias>
+        </child>
+        <child>
+          <id>1126020165927251</id>
+          <name><![CDATA[Аудиторские услуги]]></name>
+          <alias><![CDATA[auditorskie_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927253</id>
+          <name><![CDATA[Страхование]]></name>
+          <alias><![CDATA[strakhovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927244</id>
+          <name><![CDATA[Оценка собственности]]></name>
+          <alias><![CDATA[ocenka_sobstvennosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165927565</id>
+          <name><![CDATA[Бухгалтерские услуги]]></name>
+          <alias><![CDATA[bukhgalterskie_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927051</id>
+          <name><![CDATA[Оформление недвижимости / земли]]></name>
+          <alias><![CDATA[oformlenie_nedvizhimosti_zemli]]></alias>
+        </child>
+        <child>
+          <id>1126020165927548</id>
+          <name><![CDATA[Ведение дел в судах]]></name>
+          <alias><![CDATA[vedenie_del_v_sudakh]]></alias>
+        </child>
+        <child>
+          <id>1126020165927550</id>
+          <name><![CDATA[Регистрация / ликвидация предприятий]]></name>
+          <alias><![CDATA[registraciya_likvidaciya_predpriyatijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165948378</id>
+          <name><![CDATA[Саморегулируемые организации (СРО)]]></name>
+          <alias><![CDATA[samoreguliruemye_organizacii_sro]]></alias>
+        </child>
+        <child>
+          <id>1126020165950759</id>
+          <name><![CDATA[Микрофинансирование]]></name>
+          <alias><![CDATA[mikrofinansirovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165951650</id>
+          <name><![CDATA[Помощь в оформлении кредита]]></name>
+          <alias><![CDATA[pomoshh_v_oformlenii_kredita]]></alias>
+        </child>
+        <child>
+          <id>1126020165943205</id>
+          <name><![CDATA[Помощь в оформлении ипотеки]]></name>
+          <alias><![CDATA[pomoshh_v_oformlenii_ipoteki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927743</id>
+          <name><![CDATA[Экспертиза промышленной безопасности]]></name>
+          <alias><![CDATA[ehkspertiza_promyshlennojj_bezopasnosti]]></alias>
+        </child>
+        <child>
+          <id>1126020165927434</id>
+          <name><![CDATA[Банкоматы]]></name>
+          <alias><![CDATA[bankomaty]]></alias>
+        </child>
+        <child>
+          <id>1126020165928150</id>
+          <name><![CDATA[Управленческий консалтинг]]></name>
+          <alias><![CDATA[upravlencheskijj_konsalting]]></alias>
+        </child>
+        <child>
+          <id>1126020165927756</id>
+          <name><![CDATA[Таможенное оформление]]></name>
+          <alias><![CDATA[tamozhennoe_oformlenie]]></alias>
+        </child>
+        <child>
+          <id>1126020165927256</id>
+          <name><![CDATA[Юридическое обслуживание]]></name>
+          <alias><![CDATA[yuridicheskoe_obsluzhivanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165941054</id>
+          <name><![CDATA[Инвестиционные компании]]></name>
+          <alias><![CDATA[investicionnye_kompanii]]></alias>
+        </child>
+        <child>
+          <id>1126020165941597</id>
+          <name><![CDATA[Коллекторские услуги]]></name>
+          <alias><![CDATA[kollektorskie_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165946483</id>
+          <name><![CDATA[Экологическая оценка]]></name>
+          <alias><![CDATA[ehkologicheskaya_ocenka]]></alias>
+        </child>
+        <child>
+          <id>1126020165949027</id>
+          <name><![CDATA[Оформление виз]]></name>
+          <alias><![CDATA[oformlenie_viz]]></alias>
+        </child>
+        <child>
+          <id>1126020165927407</id>
+          <name><![CDATA[Операции на фондовом рынке]]></name>
+          <alias><![CDATA[operacii_na_fondovom_rynke]]></alias>
+        </child>
+        <child>
+          <id>1126020165983238</id>
+          <name><![CDATA[Пожарная безопасность]]></name>
+          <alias><![CDATA[pozharnaya_bezopasnost]]></alias>
+        </child>
+        <child>
+          <id>1126020165927549</id>
+          <name><![CDATA[Лизинговые услуги]]></name>
+          <alias><![CDATA[lizingovye_uslugi]]></alias>
+        </child>
+        <child>
+          <id>1126020165927551</id>
+          <name><![CDATA[Изготовление печатей / штампов]]></name>
+          <alias><![CDATA[izgotovlenie_pechatejj_shtampov]]></alias>
+        </child>
+        <child>
+          <id>1126020165927409</id>
+          <name><![CDATA[Ломбарды]]></name>
+          <alias><![CDATA[lombardy]]></alias>
+        </child>
+        <child>
+          <id>1126020165994249</id>
+          <name><![CDATA[Арбитражный управляющий]]></name>
+          <alias><![CDATA[arbitrazhnyjj_upravlyayushhijj]]></alias>
+        </child>
+        <child>
+          <id>1126020165927046</id>
+          <name><![CDATA[Лицензирование / Сертификация]]></name>
+          <alias><![CDATA[licenzirovanie_sertifikaciya]]></alias>
+        </child>
+        <child>
+          <id>1126020165980744</id>
+          <name><![CDATA[Аттестация рабочих мест]]></name>
+          <alias><![CDATA[attestaciya_rabochikh_mest]]></alias>
+        </child>
+        <child>
+          <id>1126020165927838</id>
+          <name><![CDATA[Дилинговые центры]]></name>
+          <alias><![CDATA[dilingovye_centry]]></alias>
+        </child>
+        <child>
+          <id>1126020165927575</id>
+          <name><![CDATA[Регистрация ценных бумаг]]></name>
+          <alias><![CDATA[registraciya_cennykh_bumag]]></alias>
+        </child>
+        <child>
+          <id>1126020165931339</id>
+          <name><![CDATA[Паевые инвестиционные фонды (ПИФы)]]></name>
+          <alias><![CDATA[paevye_investicionnye_fondy_pify]]></alias>
+        </child>
+        <child>
+          <id>1126020165927404</id>
+          <name><![CDATA[Банки]]></name>
+          <alias><![CDATA[banki]]></alias>
+        </child>
+        <child>
+          <id>1126020165927410</id>
+          <name><![CDATA[Кассы обмена валют]]></name>
+          <alias><![CDATA[kassy_obmena_valyut]]></alias>
+        </child>
+        <child>
+          <id>1126020165980270</id>
+          <name><![CDATA[Помощь в оформлении допуска СРО]]></name>
+          <alias><![CDATA[pomoshh_v_oformlenii_dopuska_sro]]></alias>
+        </child>
+        <child>
+          <id>1126020165928148</id>
+          <name><![CDATA[Финансовый консалтинг]]></name>
+          <alias><![CDATA[finansovyjj_konsalting]]></alias>
+        </child>
+        <child>
+          <id>1126020165951924</id>
+          <name><![CDATA[Энергоаудит]]></name>
+          <alias><![CDATA[ehnergoaudit]]></alias>
+        </child>
+        <child>
+          <id>1126020165927854</id>
+          <name><![CDATA[Организация выставок]]></name>
+          <alias><![CDATA[organizaciya_vystavok]]></alias>
+        </child>
+        <child>
+          <id>1126020165944117</id>
+          <name><![CDATA[Негосударственные пенсионные фонды]]></name>
+          <alias><![CDATA[negosudarstvennye_pensionnye_fondy]]></alias>
+        </child>
+        <child>
+          <id>1126020165936703</id>
+          <name><![CDATA[Автокредитование]]></name>
+          <alias><![CDATA[avtokreditovanie]]></alias>
+        </child>
+        <child>
+          <id>1126020165932347</id>
+          <name><![CDATA[Кредитные потребительские кооперативы граждан]]></name>
+          <alias><![CDATA[kreditnye_potrebitelskie_kooperativy_grazhdan]]></alias>
+        </child>
+        <child>
+          <id>1126020165943234</id>
+          <name><![CDATA[Ипотека / Жилищное кредитование]]></name>
+          <alias><![CDATA[ipoteka_zhilishhnoe_kreditovanie]]></alias>
+        </child>
+      </children>
+    </rubric>
+  </result>
+</root>

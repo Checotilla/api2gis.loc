@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <api_version>1.3</api_version>
+  <response_code>200</response_code>
+  <result total="84">
+    <city>
+      <id>69</id>
+      <name><![CDATA[Абакан]]></name>
+      <code><![CDATA[abakan]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[9711311898279938]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Australia/Perth]]></timezone>
+      <actual_extent><![CDATA[POLYGON((91.1443354808024 53.9015992237795,91.826689329138 53.9015992237795,91.826689329138 53.5690755803025,91.1443354808024 53.5690755803025,91.1443354808024 53.9015992237795))]]></actual_extent>
+      <centroid><![CDATA[POINT(91.414216434377224 53.71583526209681)]]></centroid>
+      <firmscount><![CDATA[6429]]></firmscount>
+      <filialscount><![CDATA[8089]]></filialscount>
+      <rubricscount><![CDATA[811]]></rubricscount>
+      <geoscount><![CDATA[25979]]></geoscount>
+      <road_extent><![CDATA[POLYGON((91.14801009294 53.9014520629569,91.8265869396161 53.9014520629569,91.8265869396161 53.5691516138614,91.14801009294 53.5691516138614,91.14801009294 53.9014520629569))]]></road_extent>
+      <country_code><![CDATA[ru]]></country_code>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Абакана]]></genitive>
+        <prepositional><![CDATA[Абакане]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[78]]></transport_routes_count>
+      <timezone_as_offset>480</timezone_as_offset>
+    </city>
+    <city>
+      <id>67</id>
+      <name><![CDATA[Алматы]]></name>
+      <code><![CDATA[almaty]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[9429836921569282]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Asia/Almaty]]></timezone>
+      <actual_extent><![CDATA[POLYGON((76.7159906086165 43.4691063161784,77.1084003112355 43.4691063161784,77.1084003112355 43.1080512730024,76.7159906086165 43.1080512730024,76.7159906086165 43.4691063161784))]]></actual_extent>
+      <centroid><![CDATA[POINT(76.9319071910667 43.285309920000373)]]></centroid>
+      <road_extent><![CDATA[POLYGON((76.7161496056052 43.4685940984584,77.1063409296593 43.4685940984584,77.1063409296593 43.1084544318067,76.7161496056052 43.1084544318067,76.7161496056052 43.4685940984584))]]></road_extent>
+      <firmscount><![CDATA[27644]]></firmscount>
+      <filialscount><![CDATA[33763]]></filialscount>
+      <rubricscount><![CDATA[883]]></rubricscount>
+      <geoscount><![CDATA[194734]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[kz]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Алматы]]></genitive>
+        <prepositional><![CDATA[Алматы]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[105]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>49</id>
+      <name><![CDATA[Архангельск]]></name>
+      <code><![CDATA[arkhangelsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[6896562131173378]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((39.4581178651341 64.829966403236,41.3211748574 64.829966403236,41.3211748574 64.2843047076855,39.4581178651341 64.2843047076855,39.4581178651341 64.829966403236))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <centroid><![CDATA[POINT(40.551675624779094 64.574105261631317)]]></centroid>
+      <firmscount><![CDATA[8551]]></firmscount>
+      <filialscount><![CDATA[12660]]></filialscount>
+      <rubricscount><![CDATA[818]]></rubricscount>
+      <geoscount><![CDATA[30788]]></geoscount>
+      <road_extent><![CDATA[POLYGON((39.4613545702714 64.8230717778472,41.2953679701806 64.8230717778472,41.2953679701806 64.2898286916549,39.4613545702714 64.2898286916549,39.4613545702714 64.8230717778472))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Архангельска]]></genitive>
+        <prepositional><![CDATA[Архангельске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[67]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>8</id>
+      <name><![CDATA[Астрахань]]></name>
+      <code><![CDATA[astrakhan]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[1126325108604930]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((47.8630461016742 46.5114180775335,48.1858117752579 46.5114180775335,48.1858117752579 46.2412594867321,47.8630461016742 46.2412594867321,47.8630461016742 46.5114180775335))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((47.8702191701579 46.5090054193268,48.181627586101 46.5090054193268,48.181627586101 46.2419612415843,47.8702191701579 46.2419612415843,47.8702191701579 46.5090054193268))]]></road_extent>
+      <centroid><![CDATA[POINT(48.026554058131111 46.344228711897387)]]></centroid>
+      <firmscount><![CDATA[9645]]></firmscount>
+      <filialscount><![CDATA[12540]]></filialscount>
+      <rubricscount><![CDATA[866]]></rubricscount>
+      <geoscount><![CDATA[33200]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Астрахани]]></genitive>
+        <prepositional><![CDATA[Астрахани]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[115]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>4</id>
+      <name><![CDATA[Барнаул]]></name>
+      <code><![CDATA[barnaul]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[563375155183618]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((83.445791543646 53.4866943787094,84.0879338153482 53.4866943787094,84.0879338153482 53.1585977639815,83.445791543646 53.1585977639815,83.445791543646 53.4866943787094))]]></actual_extent>
+      <timezone><![CDATA[Indian/Christmas]]></timezone>
+      <road_extent><![CDATA[POLYGON((83.4464810046471 53.4838982746809,84.0845193356933 53.4838982746809,84.0845193356933 53.1624765081974,83.4464810046471 53.1624765081974,83.4464810046471 53.4838982746809))]]></road_extent>
+      <centroid><![CDATA[POINT(83.778384722052152 53.347218391524216)]]></centroid>
+      <firmscount><![CDATA[19021]]></firmscount>
+      <filialscount><![CDATA[26301]]></filialscount>
+      <rubricscount><![CDATA[902]]></rubricscount>
+      <geoscount><![CDATA[78170]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Барнаула]]></genitive>
+        <prepositional><![CDATA[Барнауле]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[133]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>46</id>
+      <name><![CDATA[Белгород]]></name>
+      <code><![CDATA[belgorod]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[6474349666107394]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((36.4192775775134 50.7012709431762,36.7297789370099 50.7012709431762,36.7297789370099 50.4896544448627,36.4192775775134 50.4896544448627,36.4192775775134 50.7012709431762))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <centroid><![CDATA[POINT(36.564761852627974 50.605669040430257)]]></centroid>
+      <road_extent><![CDATA[POLYGON((36.4218933566873 50.7006670904486,36.7293334683673 50.7006670904486,36.7293334683673 50.4901048881075,36.4218933566873 50.4901048881075,36.4218933566873 50.7006670904486))]]></road_extent>
+      <firmscount><![CDATA[8513]]></firmscount>
+      <filialscount><![CDATA[10926]]></filialscount>
+      <rubricscount><![CDATA[852]]></rubricscount>
+      <geoscount><![CDATA[22129]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Белгорода]]></genitive>
+        <prepositional><![CDATA[Белгороде]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[74]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>20</id>
+      <name><![CDATA[Бийск]]></name>
+      <code><![CDATA[biysk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[2815174968868866]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((84.568894420535 52.6467046304258,85.4924852879421 52.6467046304258,85.4924852879421 51.8999054951212,84.568894420535 51.8999054951212,84.568894420535 52.6467046304258))]]></actual_extent>
+      <timezone><![CDATA[Indian/Christmas]]></timezone>
+      <road_extent><![CDATA[POLYGON((84.5852447692456 52.6464538939707,85.4829200506813 52.6464538939707,85.4829200506813 51.9121199839715,84.5852447692456 51.9121199839715,84.5852447692456 52.6464538939707))]]></road_extent>
+      <centroid><![CDATA[POINT(85.173448644001908 52.513031893232146)]]></centroid>
+      <firmscount><![CDATA[6414]]></firmscount>
+      <filialscount><![CDATA[8566]]></filialscount>
+      <rubricscount><![CDATA[755]]></rubricscount>
+      <geoscount><![CDATA[38239]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Бийска]]></genitive>
+        <prepositional><![CDATA[Бийске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[60]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>52</id>
+      <name><![CDATA[Благовещенск]]></name>
+      <code><![CDATA[blagoveshensk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[7318774596239362]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((127.345035030866 50.601633844749,127.764412543488 50.601633844749,127.764412543488 50.2234615511951,127.345035030866 50.2234615511951,127.345035030866 50.601633844749))]]></actual_extent>
+      <timezone><![CDATA[Pacific/Saipan]]></timezone>
+      <centroid><![CDATA[POINT(127.53955909316717 50.29166526019074)]]></centroid>
+      <road_extent><![CDATA[POLYGON((127.346059178665 50.6004745302016,127.763715307976 50.6004745302016,127.763715307976 50.2269995515553,127.346059178665 50.2269995515553,127.346059178665 50.6004745302016))]]></road_extent>
+      <firmscount><![CDATA[5889]]></firmscount>
+      <filialscount><![CDATA[7810]]></filialscount>
+      <rubricscount><![CDATA[825]]></rubricscount>
+      <geoscount><![CDATA[21549]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Благовещенска]]></genitive>
+        <prepositional><![CDATA[Благовещенске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[47]]></transport_routes_count>
+      <timezone_as_offset>600</timezone_as_offset>
+    </city>
+    <city>
+      <id>51</id>
+      <name><![CDATA[Братск]]></name>
+      <code><![CDATA[bratsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[7178037107884034]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((101.316437021011 56.4068095441501,102.052454363083 56.4068095441501,102.052454363083 55.9965499100207,101.316437021011 55.9965499100207,101.316437021011 56.4068095441501))]]></actual_extent>
+      <timezone><![CDATA[Pacific/Palau]]></timezone>
+      <centroid><![CDATA[POINT(101.57285005289826 56.158579407796964)]]></centroid>
+      <firmscount><![CDATA[4656]]></firmscount>
+      <filialscount><![CDATA[6248]]></filialscount>
+      <rubricscount><![CDATA[740]]></rubricscount>
+      <geoscount><![CDATA[16737]]></geoscount>
+      <road_extent><![CDATA[POLYGON((101.320583218796 56.4033891997872,102.045179331244 56.4033891997872,102.045179331244 56.0057274224616,101.320583218796 56.0057274224616,101.320583218796 56.4033891997872))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Братска]]></genitive>
+        <prepositional><![CDATA[Братске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[44]]></transport_routes_count>
+      <timezone_as_offset>540</timezone_as_offset>
+    </city>
+    <city>
+      <id>62</id>
+      <name><![CDATA[Брянск]]></name>
+      <code><![CDATA[bryansk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[8726149479792642]]></geo_id>
+      <language>ru</language>
+      <centroid><![CDATA[POINT(34.376444603106 53.253874823662777)]]></centroid>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((34.1154331071157 53.4315561531109,34.6044250284011 53.4315561531109,34.6044250284011 53.1385223887195,34.1154331071157 53.1385223887195,34.1154331071157 53.4315561531109))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((34.1154883100242 53.4310943090116,34.603381553622 53.4310943090116,34.603381553622 53.1386705670921,34.1154883100242 53.1386705670921,34.1154883100242 53.4310943090116))]]></road_extent>
+      <firmscount><![CDATA[8109]]></firmscount>
+      <filialscount><![CDATA[10830]]></filialscount>
+      <rubricscount><![CDATA[830]]></rubricscount>
+      <geoscount><![CDATA[27413]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Брянска]]></genitive>
+        <prepositional><![CDATA[Брянске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[92]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>77</id>
+      <name><![CDATA[Великий Новгород]]></name>
+      <code><![CDATA[v_novgorod]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[10837211805122562]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((31.1313939658036 58.6836311885553,31.514693692228 58.6836311885553,31.514693692228 58.4604190778863,31.1313939658036 58.4604190778863,31.1313939658036 58.6836311885553))]]></actual_extent>
+      <centroid><![CDATA[POINT(31.253757827427691 58.560877326921926)]]></centroid>
+      <geoscount><![CDATA[12144]]></geoscount>
+      <firmscount><![CDATA[4344]]></firmscount>
+      <filialscount><![CDATA[5784]]></filialscount>
+      <rubricscount><![CDATA[811]]></rubricscount>
+      <road_extent><![CDATA[POLYGON((31.1338153296097 58.6835380362845,31.5113822766847 58.6835380362845,31.5113822766847 58.4605223847796,31.1338153296097 58.4605223847796,31.1338153296097 58.6835380362845))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Великого Новгорода]]></genitive>
+        <prepositional><![CDATA[Великом Новгороде]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[40]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>25</id>
+      <name><![CDATA[Владивосток]]></name>
+      <code><![CDATA[vladivostok]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[3518862410645506]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((131.558590674478 43.4364692277222,132.333776805863 43.4364692277222,132.333776805863 42.8034461962733,131.558590674478 42.8034461962733,131.558590674478 43.4364692277222))]]></actual_extent>
+      <timezone><![CDATA[Asia/Vladivostok]]></timezone>
+      <road_extent><![CDATA[POLYGON((131.567813934294 43.432732806691,132.332888113481 43.432732806691,132.332888113481 42.9026103729961,131.567813934294 42.9026103729961,131.567813934294 43.432732806691))]]></road_extent>
+      <centroid><![CDATA[POINT(131.8875657623162 43.116946723098344)]]></centroid>
+      <firmscount><![CDATA[16364]]></firmscount>
+      <filialscount><![CDATA[20758]]></filialscount>
+      <rubricscount><![CDATA[902]]></rubricscount>
+      <geoscount><![CDATA[35877]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Владивостока]]></genitive>
+        <prepositional><![CDATA[Владивостоке]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[104]]></transport_routes_count>
+      <timezone_as_offset>660</timezone_as_offset>
+    </city>
+    <city>
+      <id>59</id>
+      <name><![CDATA[Владимир]]></name>
+      <code><![CDATA[vladimir]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[8303937014726658]]></geo_id>
+      <language>ru</language>
+      <centroid><![CDATA[POINT(40.550824537216769 56.113982878689342)]]></centroid>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((40.1651931763547 56.4678197756757,40.6951681229221 56.4678197756757,40.6951681229221 56.0282399788355,40.1651931763547 56.0282399788355,40.1651931763547 56.4678197756757))]]></actual_extent>
+      <firmscount><![CDATA[7838]]></firmscount>
+      <filialscount><![CDATA[9881]]></filialscount>
+      <rubricscount><![CDATA[824]]></rubricscount>
+      <geoscount><![CDATA[24712]]></geoscount>
+      <road_extent><![CDATA[POLYGON((40.1656946065179 56.4668455342961,40.6920435021535 56.4668455342961,40.6920435021535 56.0297119018249,40.1656946065179 56.0297119018249,40.1656946065179 56.4668455342961))]]></road_extent>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <transport><![CDATA[true]]></transport>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Владимира]]></genitive>
+        <prepositional><![CDATA[Владимире]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[56]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>33</id>
+      <name><![CDATA[Волгоград]]></name>
+      <code><![CDATA[volgograd]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[4644762317488130]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((43.9705863645171 48.9266703613049,44.9308652223232 48.9266703613049,44.9308652223232 48.3141240444038,43.9705863645171 48.3141240444038,43.9705863645171 48.9266703613049))]]></actual_extent>
+      <timezone><![CDATA[Europe/Volgograd]]></timezone>
+      <road_extent><![CDATA[POLYGON((43.9748455532099 48.9266118595596,44.9307235195392 48.9266118595596,44.9307235195392 48.3149179936759,43.9748455532099 48.3149179936759,43.9748455532099 48.9266118595596))]]></road_extent>
+      <centroid><![CDATA[POINT(44.50425 48.74362)]]></centroid>
+      <firmscount><![CDATA[14956]]></firmscount>
+      <filialscount><![CDATA[23794]]></filialscount>
+      <rubricscount><![CDATA[939]]></rubricscount>
+      <geoscount><![CDATA[63248]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Волгограда]]></genitive>
+        <prepositional><![CDATA[Волгограде]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[252]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>78</id>
+      <name><![CDATA[Вологда]]></name>
+      <code><![CDATA[vologda]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[10977949293477890]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((39.6083029156408 59.337288389142,40.0779393511801 59.337288389142,40.0779393511801 59.1505226712228,39.6083029156408 59.1505226712228,39.6083029156408 59.337288389142))]]></actual_extent>
+      <centroid><![CDATA[POINT(39.877946469895051 59.225172241829426)]]></centroid>
+      <firmscount><![CDATA[6157]]></firmscount>
+      <filialscount><![CDATA[8168]]></filialscount>
+      <rubricscount><![CDATA[819]]></rubricscount>
+      <geoscount><![CDATA[18861]]></geoscount>
+      <road_extent><![CDATA[POLYGON((39.6083163125582 59.3369467263548,40.0721906734438 59.3369467263548,40.0721906734438 59.150675868524,39.6083163125582 59.150675868524,39.6083163125582 59.3369467263548))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Вологды]]></genitive>
+        <prepositional><![CDATA[Вологде]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[56]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>31</id>
+      <name><![CDATA[Воронеж]]></name>
+      <code><![CDATA[voronezh]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[4363287340777474]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((38.9911585992457 51.9109947234458,39.6130839296287 51.9109947234458,39.6130839296287 51.4755906563113,38.9911585992457 51.4755906563113,38.9911585992457 51.9109947234458))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((38.9911663207948 51.9109359360707,39.6125974507244 51.9109359360707,39.6125974507244 51.4758551146827,38.9911663207948 51.4758551146827,38.9911663207948 51.9109359360707))]]></road_extent>
+      <centroid><![CDATA[POINT(39.200594 51.66073)]]></centroid>
+      <firmscount><![CDATA[11582]]></firmscount>
+      <filialscount><![CDATA[17070]]></filialscount>
+      <rubricscount><![CDATA[828]]></rubricscount>
+      <geoscount><![CDATA[40560]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Воронежа]]></genitive>
+        <prepositional><![CDATA[Воронеже]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[128]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>27</id>
+      <name><![CDATA[Горно-Алтайск]]></name>
+      <code><![CDATA[gornoaltaysk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[3800337387356162]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((85.4846103707099 52.1564900586413,86.4583690514453 52.1564900586413,86.4583690514453 51.2492150790215,85.4846103707099 51.2492150790215,85.4846103707099 52.1564900586413))]]></actual_extent>
+      <timezone><![CDATA[Indian/Christmas]]></timezone>
+      <road_extent><![CDATA[POLYGON((85.4891370093839 52.1550271141598,86.4512548041888 52.1550271141598,86.4512548041888 51.2508760763793,85.4891370093839 51.2508760763793,85.4891370093839 52.1550271141598))]]></road_extent>
+      <centroid><![CDATA[POINT(85.915197910949232 51.944683187366245)]]></centroid>
+      <firmscount><![CDATA[3184]]></firmscount>
+      <filialscount><![CDATA[3814]]></filialscount>
+      <rubricscount><![CDATA[645]]></rubricscount>
+      <geoscount><![CDATA[25298]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[true]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Горно-Алтайска]]></genitive>
+        <prepositional><![CDATA[Горно-Алтайске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[41]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>79</id>
+      <name><![CDATA[Донецк]]></name>
+      <code><![CDATA[donetsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[11118686781833218]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Mayotte]]></timezone>
+      <actual_extent><![CDATA[POLYGON((37.5105114759006 48.1899247415993,38.2461880378159 48.1899247415993,38.2461880378159 47.7957685848065,37.5105114759006 47.7957685848065,37.5105114759006 48.1899247415993))]]></actual_extent>
+      <centroid><![CDATA[POINT(37.805296119863655 48.00238640441335)]]></centroid>
+      <firmscount><![CDATA[13797]]></firmscount>
+      <filialscount><![CDATA[17758]]></filialscount>
+      <rubricscount><![CDATA[904]]></rubricscount>
+      <geoscount><![CDATA[230098]]></geoscount>
+      <road_extent><![CDATA[POLYGON((37.5122557622736 48.1898276705344,38.2461707437402 48.1898276705344,38.2461707437402 47.795823347602,37.5122557622736 47.795823347602,37.5122557622736 48.1898276705344))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <country_code><![CDATA[ua]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Донецка]]></genitive>
+        <prepositional><![CDATA[Донецке]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[237]]></transport_routes_count>
+      <timezone_as_offset>180</timezone_as_offset>
+    </city>
+    <city>
+      <id>9</id>
+      <name><![CDATA[Екатеринбург]]></name>
+      <code><![CDATA[ekaterinburg]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[1267062596960258]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <actual_extent><![CDATA[POLYGON((60.2323966028444 57.0360972950617,60.9432235374996 57.0360972950617,60.9432235374996 56.5987021513683,60.2323966028444 56.5987021513683,60.2323966028444 57.0360972950617))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((60.2450409641845 57.0354895758162,60.9390898356403 57.0354895758162,60.9390898356403 56.5997686191055,60.2450409641845 56.5997686191055,60.2450409641845 57.0354895758162))]]></road_extent>
+      <centroid><![CDATA[POINT(60.595244940381747 56.83680082024555)]]></centroid>
+      <firmscount><![CDATA[39033]]></firmscount>
+      <filialscount><![CDATA[53233]]></filialscount>
+      <rubricscount><![CDATA[974]]></rubricscount>
+      <geoscount><![CDATA[56559]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[true]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Екатеринбурга]]></genitive>
+        <prepositional><![CDATA[Екатеринбурге]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[208]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>65</id>
+      <name><![CDATA[Иваново]]></name>
+      <code><![CDATA[ivanovo]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[9148361944858626]]></geo_id>
+      <language>ru</language>
+      <centroid><![CDATA[POINT(40.933262238434182 57.009284115417621)]]></centroid>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((40.7975852145327 57.0895563685234,41.1894046521273 57.0895563685234,41.1894046521273 56.8913133125287,40.7975852145327 56.8913133125287,40.7975852145327 57.0895563685234))]]></actual_extent>
+      <firmscount><![CDATA[7214]]></firmscount>
+      <filialscount><![CDATA[9372]]></filialscount>
+      <rubricscount><![CDATA[800]]></rubricscount>
+      <geoscount><![CDATA[25432]]></geoscount>
+      <road_extent><![CDATA[POLYGON((40.8021613602845 57.0892432587129,41.189185742736 57.0892432587129,41.189185742736 56.8921043075798,40.8021613602845 56.8921043075798,40.8021613602845 57.0892432587129))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Иванова]]></genitive>
+        <prepositional><![CDATA[Иванове]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[101]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>41</id>
+      <name><![CDATA[Ижевск]]></name>
+      <code><![CDATA[izhevsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[5770662224330754]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((52.931947454527 57.0578890076638,53.4956246141919 57.0578890076638,53.4956246141919 56.6675426922706,52.931947454527 56.6675426922706,52.931947454527 57.0578890076638))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((52.9333838015691 57.0541318711756,53.4918604697 57.0541318711756,53.4918604697 56.6675982240639,52.9333838015691 56.6675982240639,52.9333838015691 57.0541318711756))]]></road_extent>
+      <centroid><![CDATA[POINT(53.19583019621647 56.851500704585817)]]></centroid>
+      <firmscount><![CDATA[11317]]></firmscount>
+      <filialscount><![CDATA[17209]]></filialscount>
+      <rubricscount><![CDATA[839]]></rubricscount>
+      <geoscount><![CDATA[29117]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Ижевска]]></genitive>
+        <prepositional><![CDATA[Ижевске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[78]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>11</id>
+      <name><![CDATA[Иркутск]]></name>
+      <code><![CDATA[irkutsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[1548537573670914]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((103.618852658405 52.6495505924526,104.970806765846 52.6495505924526,104.970806765846 51.71044322791,103.618852658405 51.71044322791,103.618852658405 52.6495505924526))]]></actual_extent>
+      <timezone><![CDATA[Asia/Irkutsk]]></timezone>
+      <road_extent><![CDATA[POLYGON((103.621446672981 52.6493793425356,104.970595406845 52.6493793425356,104.970595406845 51.710797550105,103.621446672981 51.710797550105,103.621446672981 52.6493793425356))]]></road_extent>
+      <centroid><![CDATA[POINT(104.2912766618259 52.281059714610315)]]></centroid>
+      <firmscount><![CDATA[20865]]></firmscount>
+      <filialscount><![CDATA[29043]]></filialscount>
+      <rubricscount><![CDATA[877]]></rubricscount>
+      <geoscount><![CDATA[98522]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Иркутска]]></genitive>
+        <prepositional><![CDATA[Иркутске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[172]]></transport_routes_count>
+      <timezone_as_offset>540</timezone_as_offset>
+    </city>
+    <city>
+      <id>70</id>
+      <name><![CDATA[Йошкар-Ола]]></name>
+      <code><![CDATA[yoshkarola]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[9852049386635266]]></geo_id>
+      <language>ru</language>
+      <centroid><![CDATA[POINT(47.965221422301511 56.648022902252166)]]></centroid>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((47.5724319612788 56.7614824692299,48.1532971666374 56.7614824692299,48.1532971666374 56.507529087234,47.5724319612788 56.507529087234,47.5724319612788 56.7614824692299))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((47.5789904262097 56.7601040369975,48.1519479425361 56.7601040369975,48.1519479425361 56.5097894226119,47.5789904262097 56.5097894226119,47.5789904262097 56.7601040369975))]]></road_extent>
+      <firmscount><![CDATA[5474]]></firmscount>
+      <filialscount><![CDATA[6914]]></filialscount>
+      <rubricscount><![CDATA[808]]></rubricscount>
+      <geoscount><![CDATA[16082]]></geoscount>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Йошкар-Олы]]></genitive>
+        <prepositional><![CDATA[Йошкар-Оле]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[46]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>21</id>
+      <name><![CDATA[Казань]]></name>
+      <code><![CDATA[kazan]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[2955912457224194]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((48.2911801325349 55.9985322454191,49.5354766550953 55.9985322454191,49.5354766550953 55.566624053452,48.2911801325349 55.566624053452,48.2911801325349 55.9985322454191))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((48.2919032104972 55.998410606378,49.5349200429811 55.998410606378,49.5349200429811 55.5672635363919,48.2919032104972 55.5672635363919,48.2919032104972 55.998410606378))]]></road_extent>
+      <centroid><![CDATA[POINT(49.204469100846929 55.926915903355713)]]></centroid>
+      <firmscount><![CDATA[27802]]></firmscount>
+      <filialscount><![CDATA[37658]]></filialscount>
+      <rubricscount><![CDATA[963]]></rubricscount>
+      <geoscount><![CDATA[65529]]></geoscount>
+      <eta><![CDATA[false]]></eta>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[true]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Казани]]></genitive>
+        <prepositional><![CDATA[Казани]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[115]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>40</id>
+      <name><![CDATA[Калининград]]></name>
+      <code><![CDATA[kaliningrad]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[5629924735975426]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((19.8463019015575 54.8039593174747,20.6635158804632 54.8039593174747,20.6635158804632 54.5341371340899,19.8463019015575 54.5341371340899,19.8463019015575 54.8039593174747))]]></actual_extent>
+      <timezone><![CDATA[Europe/Kaliningrad]]></timezone>
+      <centroid><![CDATA[POINT(20.473149412069183 54.719682808556513)]]></centroid>
+      <road_extent><![CDATA[POLYGON((19.8580009338781 54.8038784835686,20.6633038828726 54.8038784835686,20.6633038828726 54.5352345898126,19.8580009338781 54.5352345898126,19.8580009338781 54.8038784835686))]]></road_extent>
+      <firmscount><![CDATA[12837]]></firmscount>
+      <filialscount><![CDATA[16338]]></filialscount>
+      <rubricscount><![CDATA[834]]></rubricscount>
+      <geoscount><![CDATA[37655]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Калининграда]]></genitive>
+        <prepositional><![CDATA[Калининграде]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[85]]></transport_routes_count>
+      <timezone_as_offset>180</timezone_as_offset>
+    </city>
+    <city>
+      <id>61</id>
+      <name><![CDATA[Калуга]]></name>
+      <code><![CDATA[kaluga]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[8585411991437314]]></geo_id>
+      <language>ru</language>
+      <centroid><![CDATA[POINT(36.252947602788829 54.551789127737706)]]></centroid>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((35.8948119939691 54.7685233492904,36.4822327003993 54.7685233492904,36.4822327003993 54.3210239210904,35.8948119939691 54.3210239210904,35.8948119939691 54.7685233492904))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((35.8961267443541 54.7681220021136,36.4770265936924 54.7681220021136,36.4770265936924 54.324564888859,35.8961267443541 54.324564888859,35.8961267443541 54.7681220021136))]]></road_extent>
+      <firmscount><![CDATA[6758]]></firmscount>
+      <filialscount><![CDATA[8600]]></filialscount>
+      <rubricscount><![CDATA[806]]></rubricscount>
+      <geoscount><![CDATA[24121]]></geoscount>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Калуги]]></genitive>
+        <prepositional><![CDATA[Калуге]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[77]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>5</id>
+      <name><![CDATA[Кемерово]]></name>
+      <code><![CDATA[kemerovo]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[704112643538946]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((85.9450122055261 55.534060936619,86.2636635393156 55.534060936619,86.2636635393156 55.2625138534828,85.9450122055261 55.2625138534828,85.9450122055261 55.534060936619))]]></actual_extent>
+      <timezone><![CDATA[Indian/Christmas]]></timezone>
+      <road_extent><![CDATA[POLYGON((85.9461464249864 55.5334394189699,86.2633091157679 55.5334394189699,86.2633091157679 55.2630308318823,85.9461464249864 55.2630308318823,85.9461464249864 55.5334394189699))]]></road_extent>
+      <centroid><![CDATA[POINT(86.0748548642073 55.37391902121341)]]></centroid>
+      <firmscount><![CDATA[12468]]></firmscount>
+      <filialscount><![CDATA[19283]]></filialscount>
+      <rubricscount><![CDATA[922]]></rubricscount>
+      <geoscount><![CDATA[47154]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Кемерова]]></genitive>
+        <prepositional><![CDATA[Кемерове]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[169]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>58</id>
+      <name><![CDATA[Киров]]></name>
+      <code><![CDATA[kirov]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[8163199526371330]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((49.0367663770153 58.7970043549467,49.9477913088461 58.7970043549467,49.9477913088461 58.4004858814638,49.0367663770153 58.4004858814638,49.0367663770153 58.7970043549467))]]></actual_extent>
+      <centroid><![CDATA[POINT(49.455540188689987 58.5238533828473)]]></centroid>
+      <firmscount><![CDATA[10399]]></firmscount>
+      <filialscount><![CDATA[13843]]></filialscount>
+      <rubricscount><![CDATA[844]]></rubricscount>
+      <geoscount><![CDATA[32880]]></geoscount>
+      <road_extent><![CDATA[POLYGON((49.0426435777894 58.7961712063572,49.9476199488925 58.7961712063572,49.9476199488925 58.4005258279271,49.0426435777894 58.4005258279271,49.0426435777894 58.7961712063572))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Кирова]]></genitive>
+        <prepositional><![CDATA[Кирове]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[66]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>34</id>
+      <name><![CDATA[Кострома]]></name>
+      <code><![CDATA[kostroma]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[4785499805843458]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((40.7214314528393 57.9243829592332,41.1518646210719 57.9243829592332,41.1518646210719 57.6757320796169,40.7214314528393 57.6757320796169,40.7214314528393 57.9243829592332))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((40.7219815298226 57.9211405451501,41.1502160313636 57.9211405451501,41.1502160313636 57.6761145557029,40.7219815298226 57.6761145557029,40.7219815298226 57.9211405451501))]]></road_extent>
+      <centroid><![CDATA[POINT(40.975954999938288 57.765965628785473)]]></centroid>
+      <firmscount><![CDATA[5278]]></firmscount>
+      <filialscount><![CDATA[6874]]></filialscount>
+      <rubricscount><![CDATA[786]]></rubricscount>
+      <geoscount><![CDATA[20471]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Костромы]]></genitive>
+        <prepositional><![CDATA[Костроме]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[60]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>23</id>
+      <name><![CDATA[Краснодар]]></name>
+      <code><![CDATA[krasnodar]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[3237387433934850]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((38.6500825329286 45.2653815716135,39.378568391423 45.2653815716135,39.378568391423 44.9435556842374,38.6500825329286 44.9435556842374,38.6500825329286 45.2653815716135))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((38.6505736300249 45.2659175723441,39.3777510223947 45.2659175723441,39.3777510223947 44.9441054545173,38.6505736300249 44.9441054545173,38.6505736300249 45.2659175723441))]]></road_extent>
+      <centroid><![CDATA[POINT(38.9701182235771 45.024674679947381)]]></centroid>
+      <firmscount><![CDATA[18164]]></firmscount>
+      <filialscount><![CDATA[24578]]></filialscount>
+      <rubricscount><![CDATA[906]]></rubricscount>
+      <geoscount><![CDATA[107118]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Краснодара]]></genitive>
+        <prepositional><![CDATA[Краснодаре]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[172]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>7</id>
+      <name><![CDATA[Красноярск]]></name>
+      <code><![CDATA[krasnoyarsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[985587620249602]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((92.1268459376017 56.3082630472407,93.5992902138613 56.3082630472407,93.5992902138613 55.8114064527312,92.1268459376017 55.8114064527312,92.1268459376017 56.3082630472407))]]></actual_extent>
+      <timezone><![CDATA[Asia/Krasnoyarsk]]></timezone>
+      <road_extent><![CDATA[POLYGON((92.1284381172432 56.3097119062426,93.5991356038134 56.3097119062426,93.5991356038134 55.8133880057337,92.1284381172432 55.8133880057337,92.1284381172432 56.3097119062426))]]></road_extent>
+      <centroid><![CDATA[POINT(92.880028830734787 56.0052408328128)]]></centroid>
+      <firmscount><![CDATA[30898]]></firmscount>
+      <filialscount><![CDATA[41763]]></filialscount>
+      <rubricscount><![CDATA[974]]></rubricscount>
+      <geoscount><![CDATA[71116]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[true]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Красноярска]]></genitive>
+        <prepositional><![CDATA[Красноярске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[99]]></transport_routes_count>
+      <timezone_as_offset>480</timezone_as_offset>
+    </city>
+    <city>
+      <id>10</id>
+      <name><![CDATA[Курган]]></name>
+      <code><![CDATA[kurgan]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[1407800085315586]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((65.1546618560043 55.5302726292226,65.4828564344487 55.5302726292226,65.4828564344487 55.3686573686872,65.1546618560043 55.3686573686872,65.1546618560043 55.5302726292226))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((65.1577199793542 55.5291970697762,65.4805986957181 55.5291970697762,65.4805986957181 55.3699533866208,65.1577199793542 55.3699533866208,65.1577199793542 55.5291970697762))]]></road_extent>
+      <centroid><![CDATA[POINT(65.343463343317239 55.438666160615632)]]></centroid>
+      <firmscount><![CDATA[6467]]></firmscount>
+      <filialscount><![CDATA[8918]]></filialscount>
+      <rubricscount><![CDATA[823]]></rubricscount>
+      <geoscount><![CDATA[28236]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Кургана]]></genitive>
+        <prepositional><![CDATA[Кургане]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[81]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>73</id>
+      <name><![CDATA[Курск]]></name>
+      <code><![CDATA[kursk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[10274261851701250]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((35.8893687648263 51.8427867523533,36.4353464048192 51.8427867523533,36.4353464048192 51.5567990218178,35.8893687648263 51.5567990218178,35.8893687648263 51.8427867523533))]]></actual_extent>
+      <centroid><![CDATA[POINT(36.11965965823476 51.718649739699927)]]></centroid>
+      <road_extent><![CDATA[POLYGON((35.8904700370904 51.8426422428189,36.4317151635103 51.8426422428189,36.4317151635103 51.5573056267906,35.8904700370904 51.5573056267906,35.8904700370904 51.8426422428189))]]></road_extent>
+      <firmscount><![CDATA[7705]]></firmscount>
+      <filialscount><![CDATA[10651]]></filialscount>
+      <rubricscount><![CDATA[819]]></rubricscount>
+      <geoscount><![CDATA[36337]]></geoscount>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Курска]]></genitive>
+        <prepositional><![CDATA[Курске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[117]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>86</id>
+      <name><![CDATA[Ленинск-Кузнецкий]]></name>
+      <code><![CDATA[lenkuz]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[12103849200320514]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Christmas]]></timezone>
+      <actual_extent><![CDATA[POLYGON((85.7501030293026 54.7742516715452,86.5029026824457 54.7742516715452,86.5029026824457 54.1794040540713,85.7501030293026 54.1794040540713,85.7501030293026 54.7742516715452))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((85.7508112894664 54.7731339706448,86.50214088201 54.7731339706448,86.50214088201 54.1810901232303,85.7508112894664 54.1810901232303,85.7508112894664 54.7731339706448))]]></road_extent>
+      <centroid><![CDATA[POINT(86.196793294077565 54.66296854904958)]]></centroid>
+      <firmscount><![CDATA[3433]]></firmscount>
+      <filialscount><![CDATA[5020]]></filialscount>
+      <rubricscount><![CDATA[621]]></rubricscount>
+      <geoscount><![CDATA[78576]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <is_3d><![CDATA[true]]></is_3d>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Ленинск-Кузнецкого]]></genitive>
+        <prepositional><![CDATA[Ленинск-Кузнецком]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[33]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>56</id>
+      <name><![CDATA[Липецк]]></name>
+      <code><![CDATA[lipetsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[7881724549660674]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((39.3744800921161 52.7198786830929,39.8233601265717 52.7198786830929,39.8233601265717 52.4905469440511,39.3744800921161 52.4905469440511,39.3744800921161 52.7198786830929))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((39.3749912480329 52.719859251003,39.8228673790106 52.719859251003,39.8228673790106 52.4911115401211,39.3749912480329 52.4911115401211,39.3749912480329 52.719859251003))]]></road_extent>
+      <centroid><![CDATA[POINT(39.596008600171764 52.589173775964326)]]></centroid>
+      <firmscount><![CDATA[8550]]></firmscount>
+      <filialscount><![CDATA[11232]]></filialscount>
+      <rubricscount><![CDATA[861]]></rubricscount>
+      <geoscount><![CDATA[47477]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Липецка]]></genitive>
+        <prepositional><![CDATA[Липецке]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[117]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>26</id>
+      <name><![CDATA[Магнитогорск]]></name>
+      <code><![CDATA[magnitogorsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[3659599899000834]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((58.6977872264325 53.5939743254826,59.3652265332659 53.5939743254826,59.3652265332659 53.232255804803,58.6977872264325 53.232255804803,58.6977872264325 53.5939743254826))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((58.6979965931734 53.5938448598393,59.3617476843321 53.5938448598393,59.3617476843321 53.2355559618951,58.6979965931734 53.2355559618951,58.6979965931734 53.5938448598393))]]></road_extent>
+      <centroid><![CDATA[POINT(59.056360843867068 53.405775474499016)]]></centroid>
+      <firmscount><![CDATA[9842]]></firmscount>
+      <filialscount><![CDATA[13714]]></filialscount>
+      <rubricscount><![CDATA[857]]></rubricscount>
+      <geoscount><![CDATA[24582]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Магнитогорска]]></genitive>
+        <prepositional><![CDATA[Магнитогорске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[99]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>87</id>
+      <name><![CDATA[Миасс]]></name>
+      <code><![CDATA[miass]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[12244586688675842]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <actual_extent><![CDATA[POLYGON((59.5219849349792 55.2802177424849,60.2583981024067 55.2802177424849,60.2583981024067 54.8881931036358,59.5219849349792 54.8881931036358,59.5219849349792 55.2802177424849))]]></actual_extent>
+      <centroid><![CDATA[POINT(60.105109398505384 55.036838265314834)]]></centroid>
+      <firmscount><![CDATA[3779]]></firmscount>
+      <filialscount><![CDATA[4926]]></filialscount>
+      <rubricscount><![CDATA[754]]></rubricscount>
+      <geoscount><![CDATA[20185]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <is_3d><![CDATA[true]]></is_3d>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Миасс]]></genitive>
+        <prepositional><![CDATA[Миассе]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[40]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>32</id>
+      <name><![CDATA[Москва]]></name>
+      <code><![CDATA[moscow]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[4504024829132802]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Europe/Moscow]]></timezone>
+      <actual_extent><![CDATA[POLYGON((36.7589630172697 56.1094646431598,38.2250238753343 56.1094646431598,38.2250238753343 55.1040131823858,36.7589630172697 55.1040131823858,36.7589630172697 56.1094646431598))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((36.7610601084616 56.1092075504625,38.2248810366407 56.1092075504625,38.2248810366407 55.104029118012,36.7610601084616 55.104029118012,36.7610601084616 56.1092075504625))]]></road_extent>
+      <centroid><![CDATA[POINT(37.62017 55.753466)]]></centroid>
+      <firmscount><![CDATA[182131]]></firmscount>
+      <filialscount><![CDATA[266584]]></filialscount>
+      <rubricscount><![CDATA[1174]]></rubricscount>
+      <geoscount><![CDATA[530458]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[true]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Москвы]]></genitive>
+        <prepositional><![CDATA[Москве]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[1923]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>29</id>
+      <name><![CDATA[Набережные Челны]]></name>
+      <code><![CDATA[nabchelny]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[4081812364066818]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((51.7114250627923 55.8651827851689,52.6281801090742 55.8651827851689,52.6281801090742 55.5366754261869,51.7114250627923 55.5366754261869,51.7114250627923 55.8651827851689))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((51.7118956397313 55.8651574676424,52.6252182584624 55.8651574676424,52.6252182584624 55.538413667068,51.7118956397313 55.538413667068,51.7118956397313 55.8651574676424))]]></road_extent>
+      <centroid><![CDATA[POINT(52.457281400254004 55.726757492885447)]]></centroid>
+      <firmscount><![CDATA[15226]]></firmscount>
+      <filialscount><![CDATA[20600]]></filialscount>
+      <rubricscount><![CDATA[870]]></rubricscount>
+      <geoscount><![CDATA[33877]]></geoscount>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Набережных Челнов]]></genitive>
+        <prepositional><![CDATA[Набережных Челнах]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[80]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>82</id>
+      <name><![CDATA[Находка]]></name>
+      <code><![CDATA[nahodka]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[11540899246899202]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Pacific/Pohnpei]]></timezone>
+      <actual_extent><![CDATA[POLYGON((132.750811364162 42.9073313394081,133.039450970134 42.9073313394081,133.039450970134 42.7221231267481,132.750811364162 42.7221231267481,132.750811364162 42.9073313394081))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((132.765631858922 42.9073312473053,133.037760199061 42.9073312473053,133.037760199061 42.7358119418914,132.765631858922 42.7358119418914,132.765631858922 42.9073312473053))]]></road_extent>
+      <centroid><![CDATA[POINT(132.86403642878369 42.811415559121983)]]></centroid>
+      <firmscount><![CDATA[1434]]></firmscount>
+      <filialscount><![CDATA[1662]]></filialscount>
+      <rubricscount><![CDATA[492]]></rubricscount>
+      <geoscount><![CDATA[12151]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <is_3d><![CDATA[true]]></is_3d>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Находка]]></genitive>
+        <prepositional><![CDATA[Находке]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[15]]></transport_routes_count>
+      <timezone_as_offset>660</timezone_as_offset>
+    </city>
+    <city>
+      <id>12</id>
+      <name><![CDATA[Нижневартовск]]></name>
+      <code><![CDATA[nizhnevartovsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[1689275062026242]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((75.9222574760157 61.1909353239084,77.0285826551402 61.1909353239084,77.0285826551402 60.8511815164376,75.9222574760157 60.8511815164376,75.9222574760157 61.1909353239084))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((75.9293385382484 61.1903743290496,77.0121056219984 61.1903743290496,77.0121056219984 60.8527828841417,75.9293385382484 60.8527828841417,75.9293385382484 61.1903743290496))]]></road_extent>
+      <centroid><![CDATA[POINT(76.658350290484663 60.923762134811263)]]></centroid>
+      <firmscount><![CDATA[5973]]></firmscount>
+      <filialscount><![CDATA[7368]]></filialscount>
+      <rubricscount><![CDATA[667]]></rubricscount>
+      <geoscount><![CDATA[9914]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Нижневартовска]]></genitive>
+        <prepositional><![CDATA[Нижневартовске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[40]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>19</id>
+      <name><![CDATA[Нижний Новгород]]></name>
+      <code><![CDATA[n_novgorod]]></code>
+      <alias><![CDATA[nnovgorod]]></alias>
+      <geo_id><![CDATA[2674437480513538]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((43.2970731728989 56.4774114874299,44.2548108996246 56.4774114874299,44.2548108996246 56.0722356564038,43.2970731728989 56.0722356564038,43.2970731728989 56.4774114874299))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((43.2988455812242 56.4772414555502,44.2540807434781 56.4772414555502,44.2540807434781 56.0741173802844,43.2988455812242 56.0741173802844,43.2988455812242 56.4772414555502))]]></road_extent>
+      <centroid><![CDATA[POINT(43.961174756962464 56.290989404973963)]]></centroid>
+      <firmscount><![CDATA[33292]]></firmscount>
+      <filialscount><![CDATA[47146]]></filialscount>
+      <rubricscount><![CDATA[960]]></rubricscount>
+      <geoscount><![CDATA[73705]]></geoscount>
+      <eta><![CDATA[false]]></eta>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Нижнего Новгорода]]></genitive>
+        <prepositional><![CDATA[Нижнем Новгороде]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[275]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>45</id>
+      <name><![CDATA[Нижний Тагил]]></name>
+      <code><![CDATA[ntagil]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[6333612177752066]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((59.7631849329553 58.091706774704,60.3478866084889 58.091706774704,60.3478866084889 57.7492987817313,59.7631849329553 57.7492987817313,59.7631849329553 58.091706774704))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((59.7737785583006 58.0916866695895,60.3392979752301 58.0916866695895,60.3392979752301 57.7497941950151,59.7737785583006 57.7497941950151,59.7737785583006 58.0916866695895))]]></road_extent>
+      <centroid><![CDATA[POINT(59.986490757984647 57.9422860431821)]]></centroid>
+      <firmscount><![CDATA[6307]]></firmscount>
+      <filialscount><![CDATA[8888]]></filialscount>
+      <rubricscount><![CDATA[794]]></rubricscount>
+      <geoscount><![CDATA[19665]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Нижнего Тагила]]></genitive>
+        <prepositional><![CDATA[Нижнем Тагиле]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[70]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>6</id>
+      <name><![CDATA[Новокузнецк]]></name>
+      <code><![CDATA[novokuznetsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[844850131894274]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((86.5106241240682 54.1214728229079,87.4636562190994 54.1214728229079,87.4636562190994 53.4975545258678,86.5106241240682 53.4975545258678,86.5106241240682 54.1214728229079))]]></actual_extent>
+      <timezone><![CDATA[Asia/Novokuznetsk]]></timezone>
+      <road_extent><![CDATA[POLYGON((86.5120896884039 54.1223656989999,87.4627006035407 54.1223656989999,87.4627006035407 53.4982098645175,86.5120896884039 53.4982098645175,86.5120896884039 54.1223656989999))]]></road_extent>
+      <centroid><![CDATA[POINT(87.3066150086831 53.7981562792488)]]></centroid>
+      <firmscount><![CDATA[15691]]></firmscount>
+      <filialscount><![CDATA[23099]]></filialscount>
+      <rubricscount><![CDATA[910]]></rubricscount>
+      <geoscount><![CDATA[68621]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Новокузнецка]]></genitive>
+        <prepositional><![CDATA[Новокузнецке]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[227]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>74</id>
+      <name><![CDATA[Новороссийск]]></name>
+      <code><![CDATA[novorossiysk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[10414999340056578]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((36.9363062350806 45.22280442473,38.6732772529791 45.22280442473,38.6732772529791 44.3059631725153,36.9363062350806 44.3059631725153,36.9363062350806 45.22280442473))]]></actual_extent>
+      <centroid><![CDATA[POINT(37.777122201302475 44.718121997407614)]]></centroid>
+      <firmscount><![CDATA[7056]]></firmscount>
+      <filialscount><![CDATA[9296]]></filialscount>
+      <rubricscount><![CDATA[799]]></rubricscount>
+      <geoscount><![CDATA[10506]]></geoscount>
+      <road_extent><![CDATA[POLYGON((36.9365151282371 45.2227275347715,38.6731612426589 45.2227275347715,38.6731612426589 44.323457931677,36.9365151282371 44.323457931677,36.9365151282371 45.2227275347715))]]></road_extent>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Новороссийска]]></genitive>
+        <prepositional><![CDATA[Новороссийске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[111]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>1</id>
+      <name><![CDATA[Новосибирск]]></name>
+      <code><![CDATA[novosibirsk]]></code>
+      <alias><![CDATA[novosibirsk]]></alias>
+      <geo_id><![CDATA[141162690117634]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Asia/Novosibirsk]]></timezone>
+      <actual_extent><![CDATA[POLYGON((82.5066233234198 55.249037769223,83.3965344871157 55.249037769223,83.3965344871157 54.5530320570113,82.5066233234198 54.5530320570113,82.5066233234198 55.249037769223))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((82.5098186904153 55.2482523910718,83.3965167149373 55.2482523910718,83.3965167149373 54.553494545566,82.5098186904153 54.553494545566,82.5098186904153 55.2482523910718))]]></road_extent>
+      <centroid><![CDATA[POINT(82.921475 55.026472)]]></centroid>
+      <firmscount><![CDATA[46083]]></firmscount>
+      <filialscount><![CDATA[65559]]></filialscount>
+      <rubricscount><![CDATA[983]]></rubricscount>
+      <geoscount><![CDATA[147415]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <traffic><![CDATA[true]]></traffic>
+      <flamp><![CDATA[true]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Новосибирска]]></genitive>
+        <prepositional><![CDATA[Новосибирске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[285]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>76</id>
+      <name><![CDATA[Норильск]]></name>
+      <code><![CDATA[norilsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[10696474316767234]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Australia/Perth]]></timezone>
+      <actual_extent><![CDATA[POLYGON((87.2622339747384 69.5621896598204,88.5071759134767 69.5621896598204,88.5071759134767 69.2428196344497,87.2622339747384 69.2428196344497,87.2622339747384 69.5621896598204))]]></actual_extent>
+      <centroid><![CDATA[POINT(88.194764233307311 69.352490274549652)]]></centroid>
+      <firmscount><![CDATA[2696]]></firmscount>
+      <filialscount><![CDATA[3484]]></filialscount>
+      <rubricscount><![CDATA[597]]></rubricscount>
+      <geoscount><![CDATA[6579]]></geoscount>
+      <road_extent><![CDATA[POLYGON((87.263789059133 69.5575419438787,88.5015920830677 69.5575419438787,88.5015920830677 69.2449451740807,87.263789059133 69.2449451740807,87.263789059133 69.5575419438787))]]></road_extent>
+      <grammatical_cases>
+        <genitive><![CDATA[Норильска]]></genitive>
+        <prepositional><![CDATA[Норильске]]></prepositional>
+      </grammatical_cases>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <transport_routes_count><![CDATA[40]]></transport_routes_count>
+      <timezone_as_offset>480</timezone_as_offset>
+    </city>
+    <city>
+      <id>14</id>
+      <name><![CDATA[Одесса]]></name>
+      <code><![CDATA[odessa]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[1970750038736898]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((30.5121680854324 46.6567177668446,30.9112859220699 46.6567177668446,30.9112859220699 46.2534222975053,30.5121680854324 46.2534222975053,30.5121680854324 46.6567177668446))]]></actual_extent>
+      <timezone><![CDATA[Europe/Zurich]]></timezone>
+      <road_extent><![CDATA[POLYGON((30.5127858900737 46.6561553246788,30.8993398111356 46.6561553246788,30.8993398111356 46.2554239310725,30.5127858900737 46.2554239310725,30.5127858900737 46.6561553246788))]]></road_extent>
+      <centroid><![CDATA[POINT(30.724923899032376 46.461812785994212)]]></centroid>
+      <firmscount><![CDATA[18794]]></firmscount>
+      <filialscount><![CDATA[26044]]></filialscount>
+      <rubricscount><![CDATA[907]]></rubricscount>
+      <geoscount><![CDATA[53402]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ua]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Одессы]]></genitive>
+        <prepositional><![CDATA[Одессе]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[175]]></transport_routes_count>
+      <timezone_as_offset>120</timezone_as_offset>
+    </city>
+    <city>
+      <id>2</id>
+      <name><![CDATA[Омск]]></name>
+      <code><![CDATA[omsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[281900178472962]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((72.883518056689 55.4176310710521,73.7716648331788 55.4176310710521,73.7716648331788 54.7851241556674,72.883518056689 54.7851241556674,72.883518056689 55.4176310710521))]]></actual_extent>
+      <timezone><![CDATA[Asia/Omsk]]></timezone>
+      <road_extent><![CDATA[POLYGON((72.8849720876258 55.4161502262504,73.770015294854 55.4161502262504,73.770015294854 54.7854159098293,72.8849720876258 54.7854159098293,72.8849720876258 55.4161502262504))]]></road_extent>
+      <centroid><![CDATA[POINT(73.393009 54.962357)]]></centroid>
+      <firmscount><![CDATA[24241]]></firmscount>
+      <filialscount><![CDATA[35581]]></filialscount>
+      <rubricscount><![CDATA[949]]></rubricscount>
+      <geoscount><![CDATA[100904]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Омска]]></genitive>
+        <prepositional><![CDATA[Омске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[264]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>48</id>
+      <name><![CDATA[Оренбург]]></name>
+      <code><![CDATA[orenburg]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[6755824642818050]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((54.9204112356902 51.9359752023275,55.4962313537867 51.9359752023275,55.4962313537867 51.6634793808206,54.9204112356902 51.6634793808206,54.9204112356902 51.9359752023275))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((54.9207352839709 51.932791397421,55.4946435979754 51.932791397421,55.4946435979754 51.6641490614842,54.9207352839709 51.6641490614842,54.9207352839709 51.932791397421))]]></road_extent>
+      <centroid><![CDATA[POINT(55.100095226546635 51.767801942728674)]]></centroid>
+      <firmscount><![CDATA[9550]]></firmscount>
+      <filialscount><![CDATA[12662]]></filialscount>
+      <rubricscount><![CDATA[872]]></rubricscount>
+      <geoscount><![CDATA[31674]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Оренбурга]]></genitive>
+        <prepositional><![CDATA[Оренбурге]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[63]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>71</id>
+      <name><![CDATA[Орёл]]></name>
+      <code><![CDATA[orel]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[9992786874990594]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((35.8541701972106 53.1037386640493,36.3152979186558 53.1037386640493,36.3152979186558 52.8389951504268,35.8541701972106 52.8389951504268,35.8541701972106 53.1037386640493))]]></actual_extent>
+      <firmscount><![CDATA[4434]]></firmscount>
+      <filialscount><![CDATA[5760]]></filialscount>
+      <rubricscount><![CDATA[750]]></rubricscount>
+      <geoscount><![CDATA[21139]]></geoscount>
+      <centroid><![CDATA[POINT(36.093095114336712 52.938558828625538)]]></centroid>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Орла]]></genitive>
+        <prepositional><![CDATA[Орле]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[88]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>42</id>
+      <name><![CDATA[Пенза]]></name>
+      <code><![CDATA[penza]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[5911399712686082]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((44.7954767845065 53.3490815670803,45.3588094778041 53.3490815670803,45.3588094778041 53.0655659161754,44.7954767845065 53.0655659161754,44.7954767845065 53.3490815670803))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <centroid><![CDATA[POINT(45.029042379314276 53.201026924528833)]]></centroid>
+      <road_extent><![CDATA[POLYGON((44.7957809573657 53.3492443115873,45.3587599763084 53.3492443115873,45.3587599763084 53.0656060491165,44.7957809573657 53.0656060491165,44.7957809573657 53.3492443115873))]]></road_extent>
+      <firmscount><![CDATA[10783]]></firmscount>
+      <filialscount><![CDATA[14472]]></filialscount>
+      <rubricscount><![CDATA[878]]></rubricscount>
+      <geoscount><![CDATA[35277]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Пензы]]></genitive>
+        <prepositional><![CDATA[Пензе]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[83]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>16</id>
+      <name><![CDATA[Пермь]]></name>
+      <code><![CDATA[perm]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[2252225015447554]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((55.6104748809282 58.2439106356996,56.6620402087532 58.2439106356996,56.6620402087532 57.6859949491016,55.6104748809282 57.6859949491016,55.6104748809282 58.2439106356996))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((55.616538631483 58.2437256059399,56.6619220151995 58.2437256059399,56.6619220151995 57.6902640608097,55.616538631483 57.6902640608097,55.616538631483 58.2437256059399))]]></road_extent>
+      <centroid><![CDATA[POINT(56.238733642818822 58.011272744469188)]]></centroid>
+      <firmscount><![CDATA[28208]]></firmscount>
+      <filialscount><![CDATA[39862]]></filialscount>
+      <rubricscount><![CDATA[955]]></rubricscount>
+      <geoscount><![CDATA[63381]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Перми]]></genitive>
+        <prepositional><![CDATA[Перми]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[159]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>80</id>
+      <name><![CDATA[Петрозаводск]]></name>
+      <code><![CDATA[petrozavodsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[11259424270188546]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((34.093363842709 61.9594766105241,34.7088502132655 61.9594766105241,34.7088502132655 61.6914725136005,34.093363842709 61.6914725136005,34.093363842709 61.9594766105241))]]></actual_extent>
+      <firmscount><![CDATA[4835]]></firmscount>
+      <filialscount><![CDATA[6331]]></filialscount>
+      <rubricscount><![CDATA[780]]></rubricscount>
+      <geoscount><![CDATA[17092]]></geoscount>
+      <road_extent><![CDATA[POLYGON((34.0975782795396 61.9594664070282,34.5860198090988 61.9594664070282,34.5860198090988 61.6933281420597,34.0975782795396 61.6933281420597,34.0975782795396 61.9594664070282))]]></road_extent>
+      <centroid><![CDATA[POINT(34.418349982910016 61.780603180142947)]]></centroid>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Петрозаводска]]></genitive>
+        <prepositional><![CDATA[Петрозаводске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[31]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>24</id>
+      <name><![CDATA[Ростов-на-Дону]]></name>
+      <code><![CDATA[rostov]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[3378124922290178]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((39.3566267164155 47.3681525231047,39.9248376699902 47.3681525231047,39.9248376699902 47.0533140895731,39.3566267164155 47.0533140895731,39.3566267164155 47.3681525231047))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((39.356809904458 47.3681152212742,39.9236815580496 47.3681152212742,39.9236815580496 47.0540052197345,39.356809904458 47.0540052197345,39.356809904458 47.3681152212742))]]></road_extent>
+      <centroid><![CDATA[POINT(39.743251183763071 47.248118452357431)]]></centroid>
+      <firmscount><![CDATA[17599]]></firmscount>
+      <filialscount><![CDATA[25528]]></filialscount>
+      <rubricscount><![CDATA[926]]></rubricscount>
+      <geoscount><![CDATA[144712]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Ростова-на-Дону]]></genitive>
+        <prepositional><![CDATA[Ростове-На-Дону]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[207]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>44</id>
+      <name><![CDATA[Рязань]]></name>
+      <code><![CDATA[ryazan]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[6192874689396738]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((39.4328766898999 54.8820829158336,39.992107259768 54.8820829158336,39.992107259768 54.4873429848056,39.4328766898999 54.4873429848056,39.4328766898999 54.8820829158336))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((39.4332174676135 54.8819570840522,39.9920615669069 54.8819570840522,39.9920615669069 54.4874705961655,39.4332174676135 54.4874705961655,39.4332174676135 54.8819570840522))]]></road_extent>
+      <centroid><![CDATA[POINT(39.707747558756331 54.61695726597673)]]></centroid>
+      <firmscount><![CDATA[13247]]></firmscount>
+      <filialscount><![CDATA[17862]]></filialscount>
+      <rubricscount><![CDATA[853]]></rubricscount>
+      <geoscount><![CDATA[41019]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Рязани]]></genitive>
+        <prepositional><![CDATA[Рязани]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[138]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>18</id>
+      <name><![CDATA[Самара]]></name>
+      <code><![CDATA[samara]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[2533699992158210]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((49.7777262785619 53.7133860270841,50.5244714120615 53.7133860270841,50.5244714120615 53.0390499995792,49.7777262785619 53.0390499995792,49.7777262785619 53.7133860270841))]]></actual_extent>
+      <timezone><![CDATA[Europe/Samara]]></timezone>
+      <road_extent><![CDATA[POLYGON((49.7780620056859 53.7133282062183,50.5220851212038 53.7133282062183,50.5220851212038 53.0391211198216,49.7780620056859 53.0391211198216,49.7780620056859 53.7133282062183))]]></road_extent>
+      <centroid><![CDATA[POINT(50.176595422867862 53.255735565508388)]]></centroid>
+      <firmscount><![CDATA[26957]]></firmscount>
+      <filialscount><![CDATA[38006]]></filialscount>
+      <rubricscount><![CDATA[950]]></rubricscount>
+      <geoscount><![CDATA[55668]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Самары]]></genitive>
+        <prepositional><![CDATA[Самаре]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[245]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>38</id>
+      <name><![CDATA[Санкт-Петербург]]></name>
+      <code><![CDATA[spb]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[5348449759264770]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((29.410887756725 60.2925612927829,31.027970564171 60.2925612927829,31.027970564171 59.5352624772159,29.410887756725 59.5352624772159,29.410887756725 60.2925612927829))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((29.4126551919926 60.2904379283617,31.0274085846559 60.2904379283617,31.0274085846559 59.5370252363983,29.4126551919926 59.5370252363983,29.4126551919926 60.2904379283617))]]></road_extent>
+      <centroid><![CDATA[POINT(30.283631 59.937577)]]></centroid>
+      <firmscount><![CDATA[89530]]></firmscount>
+      <filialscount><![CDATA[127406]]></filialscount>
+      <rubricscount><![CDATA[1079]]></rubricscount>
+      <geoscount><![CDATA[175490]]></geoscount>
+      <traffic><![CDATA[true]]></traffic>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Санкт-Петербурга]]></genitive>
+        <prepositional><![CDATA[Санкт-Петербурге]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[937]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>85</id>
+      <name><![CDATA[Саранск]]></name>
+      <code><![CDATA[saransk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[11963111711965186]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((44.8670169698616 54.3019028733515,45.5117203775483 54.3019028733515,45.5117203775483 53.9846323603945,44.8670169698616 53.9846323603945,44.8670169698616 54.3019028733515))]]></actual_extent>
+      <centroid><![CDATA[POINT(45.170741624975264 54.19774866183797)]]></centroid>
+      <firmscount><![CDATA[3234]]></firmscount>
+      <filialscount><![CDATA[4143]]></filialscount>
+      <rubricscount><![CDATA[719]]></rubricscount>
+      <geoscount><![CDATA[28905]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <is_3d><![CDATA[true]]></is_3d>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Саранска]]></genitive>
+        <prepositional><![CDATA[Саранске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[41]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>43</id>
+      <name><![CDATA[Саратов]]></name>
+      <code><![CDATA[saratov]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[6052137201041410]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((45.7306106846332 51.6998087344978,46.3147731603713 51.6998087344978,46.3147731603713 51.3531626713,45.7306106846332 51.3531626713,45.7306106846332 51.6998087344978))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((45.73184307668 51.6995557206472,46.3114852124837 51.6995557206472,46.3114852124837 51.3535547169499,45.73184307668 51.3535547169499,45.73184307668 51.6995557206472))]]></road_extent>
+      <centroid><![CDATA[POINT(45.915570838696617 51.526576938788281)]]></centroid>
+      <firmscount><![CDATA[17024]]></firmscount>
+      <filialscount><![CDATA[23804]]></filialscount>
+      <rubricscount><![CDATA[882]]></rubricscount>
+      <geoscount><![CDATA[57458]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Саратова]]></genitive>
+        <prepositional><![CDATA[Саратове]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[193]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>63</id>
+      <name><![CDATA[Смоленск]]></name>
+      <code><![CDATA[smolensk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[8866886968147970]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((31.755001504537 54.8893106581675,32.268672709278 54.8893106581675,32.268672709278 54.6878754215539,31.755001504537 54.6878754215539,31.755001504537 54.8893106581675))]]></actual_extent>
+      <centroid><![CDATA[POINT(32.028129149162048 54.79640382764768)]]></centroid>
+      <firmscount><![CDATA[5780]]></firmscount>
+      <filialscount><![CDATA[7540]]></filialscount>
+      <rubricscount><![CDATA[820]]></rubricscount>
+      <geoscount><![CDATA[21865]]></geoscount>
+      <road_extent><![CDATA[POLYGON((31.7558165618723 54.889124135041,32.2683570049588 54.889124135041,32.2683570049588 54.6881645568449,31.7558165618723 54.6881645568449,31.7558165618723 54.889124135041))]]></road_extent>
+      <country_code><![CDATA[ru]]></country_code>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Смоленска]]></genitive>
+        <prepositional><![CDATA[Смоленске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[61]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>30</id>
+      <name><![CDATA[Сочи]]></name>
+      <code><![CDATA[sochi]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[4222549852422146]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((38.9364797786113 44.3548123256112,40.4885113521202 44.3548123256112,40.4885113521202 43.3632496178243,38.9364797786113 43.3632496178243,38.9364797786113 44.3548123256112))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <centroid><![CDATA[POINT(40.042514422868408 43.599618313617619)]]></centroid>
+      <road_extent><![CDATA[POLYGON((38.9365518110034 44.3548645519607,40.4611053750752 44.3548645519607,40.4611053750752 43.3673041734732,38.9365518110034 43.3673041734732,38.9365518110034 44.3548645519607))]]></road_extent>
+      <firmscount><![CDATA[10869]]></firmscount>
+      <filialscount><![CDATA[13823]]></filialscount>
+      <rubricscount><![CDATA[866]]></rubricscount>
+      <geoscount><![CDATA[83071]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Сочи]]></genitive>
+        <prepositional><![CDATA[Сочи]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[75]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>57</id>
+      <name><![CDATA[Ставрополь]]></name>
+      <code><![CDATA[stavropol]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[8022462038016002]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((41.6581173932345 45.2695582221529,42.3241147976975 45.2695582221529,42.3241147976975 44.8929300058697,41.6581173932345 44.8929300058697,41.6581173932345 45.2695582221529))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((41.663953084055 45.2669477698607,42.3177342766675 45.2669477698607,42.3177342766675 44.8938182539224,41.663953084055 44.8938182539224,41.663953084055 45.2669477698607))]]></road_extent>
+      <centroid><![CDATA[POINT(41.91659324361158 45.0466037507845)]]></centroid>
+      <firmscount><![CDATA[10564]]></firmscount>
+      <filialscount><![CDATA[13111]]></filialscount>
+      <rubricscount><![CDATA[846]]></rubricscount>
+      <geoscount><![CDATA[73109]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Ставрополя]]></genitive>
+        <prepositional><![CDATA[Ставрополе]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[95]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>60</id>
+      <name><![CDATA[Старый Оскол]]></name>
+      <code><![CDATA[staroskol]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[8444674503081986]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((37.7448617880573 51.3779382416146,37.9821663673034 51.3779382416146,37.9821663673034 51.2468620449607,37.7448617880573 51.2468620449607,37.7448617880573 51.3779382416146))]]></actual_extent>
+      <centroid><![CDATA[POINT(37.8546093426175 51.309330327380408)]]></centroid>
+      <geoscount><![CDATA[10961]]></geoscount>
+      <firmscount><![CDATA[3081]]></firmscount>
+      <filialscount><![CDATA[3880]]></filialscount>
+      <rubricscount><![CDATA[683]]></rubricscount>
+      <road_extent><![CDATA[POLYGON((37.7452966041397 51.3774865072226,37.9820270742995 51.3774865072226,37.9820270742995 51.2469084303671,37.7452966041397 51.2469084303671,37.7452966041397 51.3774865072226))]]></road_extent>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <transport><![CDATA[true]]></transport>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Старого Оскола]]></genitive>
+        <prepositional><![CDATA[Старом Осколе]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[55]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>54</id>
+      <name><![CDATA[Стерлитамак]]></name>
+      <code><![CDATA[sterlitamak]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[7600249572950018]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((55.8056723040713 53.7369874227043,56.1328304013248 53.7369874227043,56.1328304013248 53.3028757439775,55.8056723040713 53.3028757439775,55.8056723040713 53.7369874227043))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <centroid><![CDATA[POINT(55.965278762439226 53.650816019532009)]]></centroid>
+      <road_extent><![CDATA[POLYGON((55.8067174554909 53.7366890461823,56.1326228008192 53.7366890461823,56.1326228008192 53.303916825539,55.8067174554909 53.303916825539,55.8067174554909 53.7366890461823))]]></road_extent>
+      <firmscount><![CDATA[7394]]></firmscount>
+      <filialscount><![CDATA[9732]]></filialscount>
+      <rubricscount><![CDATA[772]]></rubricscount>
+      <geoscount><![CDATA[39717]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Стерлитамака]]></genitive>
+        <prepositional><![CDATA[Стерлитамаке]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[101]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>39</id>
+      <name><![CDATA[Сургут]]></name>
+      <code><![CDATA[surgut]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[5489187247620098]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((72.3817595885874 61.408288116163,73.7971635369636 61.408288116163,73.7971635369636 60.9771607347465,72.3817595885874 60.9771607347465,72.3817595885874 61.408288116163))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((72.3857788101712 61.4082216841708,73.7957252989194 61.4082216841708,73.7957252989194 60.980475301218,72.3857788101712 60.980475301218,72.3857788101712 61.4082216841708))]]></road_extent>
+      <centroid><![CDATA[POINT(73.467042356210925 61.322920191540405)]]></centroid>
+      <firmscount><![CDATA[8459]]></firmscount>
+      <filialscount><![CDATA[10896]]></filialscount>
+      <rubricscount><![CDATA[848]]></rubricscount>
+      <geoscount><![CDATA[17856]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Сургута]]></genitive>
+        <prepositional><![CDATA[Сургуте]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[62]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>72</id>
+      <name><![CDATA[Сыктывкар]]></name>
+      <code><![CDATA[syktyvkar]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[10133524363345922]]></geo_id>
+      <language>ru</language>
+      <centroid><![CDATA[POINT(50.832017189134412 61.674013461354171)]]></centroid>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((50.4315252222466 61.9227104218883,51.2750804067923 61.9227104218883,51.2750804067923 61.5703415869885,50.4315252222466 61.5703415869885,50.4315252222466 61.9227104218883))]]></actual_extent>
+      <firmscount><![CDATA[5993]]></firmscount>
+      <filialscount><![CDATA[7928]]></filialscount>
+      <rubricscount><![CDATA[782]]></rubricscount>
+      <geoscount><![CDATA[19132]]></geoscount>
+      <road_extent><![CDATA[POLYGON((50.4338748253169 61.9229847380234,51.2736435561122 61.9229847380234,51.2736435561122 61.570875833705,50.4338748253169 61.570875833705,50.4338748253169 61.9229847380234))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Сыктывкара]]></genitive>
+        <prepositional><![CDATA[Сыктывкаре]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[32]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>81</id>
+      <name><![CDATA[Тамбов]]></name>
+      <code><![CDATA[tambov]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[11400161758543874]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <actual_extent><![CDATA[POLYGON((41.2688277629305 52.8265633899279,41.6015800103696 52.8265633899279,41.6015800103696 52.5613159039571,41.2688277629305 52.5613159039571,41.2688277629305 52.8265633899279))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((41.271691834994 52.8260136047439,41.6000770740518 52.8260136047439,41.6000770740518 52.5624324367009,41.271691834994 52.5624324367009,41.271691834994 52.8260136047439))]]></road_extent>
+      <centroid><![CDATA[POINT(41.451221769143039 52.72572518602523)]]></centroid>
+      <firmscount><![CDATA[4823]]></firmscount>
+      <filialscount><![CDATA[6045]]></filialscount>
+      <rubricscount><![CDATA[744]]></rubricscount>
+      <geoscount><![CDATA[40286]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <is_3d><![CDATA[true]]></is_3d>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Тамбова]]></genitive>
+        <prepositional><![CDATA[Тамбове]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[77]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>47</id>
+      <name><![CDATA[Тверь]]></name>
+      <code><![CDATA[tver]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[6615087154462722]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((35.5310822632707 57.0175458226224,36.3143004975127 57.0175458226224,36.3143004975127 56.6655940070652,35.5310822632707 56.6655940070652,35.5310822632707 57.0175458226224))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((35.5339750965588 57.0145433960693,36.3137618231717 57.0145433960693,36.3137618231717 56.6689112598165,35.5339750965588 56.6689112598165,35.5339750965588 57.0145433960693))]]></road_extent>
+      <centroid><![CDATA[POINT(35.89071460904556 56.844620825318664)]]></centroid>
+      <firmscount><![CDATA[7328]]></firmscount>
+      <filialscount><![CDATA[9405]]></filialscount>
+      <rubricscount><![CDATA[843]]></rubricscount>
+      <geoscount><![CDATA[25502]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Твери]]></genitive>
+        <prepositional><![CDATA[Твери]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[59]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>22</id>
+      <name><![CDATA[Тольятти]]></name>
+      <code><![CDATA[togliatti]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[3096649945579522]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((48.9618270525066 53.7081249887268,49.7967348039349 53.7081249887268,49.7967348039349 53.0282107862855,48.9618270525066 53.0282107862855,48.9618270525066 53.7081249887268))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((48.9721547229807 53.7080024462064,49.7965839416202 53.7080024462064,49.7965839416202 53.0294672700011,48.9721547229807 53.0294672700011,48.9721547229807 53.7080024462064))]]></road_extent>
+      <centroid><![CDATA[POINT(49.729335056700542 53.586505510992282)]]></centroid>
+      <firmscount><![CDATA[14904]]></firmscount>
+      <filialscount><![CDATA[20791]]></filialscount>
+      <rubricscount><![CDATA[896]]></rubricscount>
+      <geoscount><![CDATA[25979]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Тольятти]]></genitive>
+        <prepositional><![CDATA[Тольятти]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[157]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>3</id>
+      <name><![CDATA[Томск]]></name>
+      <code><![CDATA[tomsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[422637666828290]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((84.7686556875534 56.595694351039,85.2465320170589 56.595694351039,85.2465320170589 56.3480256948222,84.7686556875534 56.3480256948222,84.7686556875534 56.595694351039))]]></actual_extent>
+      <timezone><![CDATA[Indian/Christmas]]></timezone>
+      <road_extent><![CDATA[POLYGON((84.7704991612936 56.5945787715184,85.2455810492603 56.5945787715184,85.2455810492603 56.3493887042779,84.7704991612936 56.3493887042779,84.7704991612936 56.5945787715184))]]></road_extent>
+      <centroid><![CDATA[POINT(84.899324380973454 56.482008575511585)]]></centroid>
+      <firmscount><![CDATA[11574]]></firmscount>
+      <filialscount><![CDATA[15477]]></filialscount>
+      <rubricscount><![CDATA[867]]></rubricscount>
+      <geoscount><![CDATA[25329]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Томска]]></genitive>
+        <prepositional><![CDATA[Томске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[59]]></transport_routes_count>
+      <timezone_as_offset>420</timezone_as_offset>
+    </city>
+    <city>
+      <id>36</id>
+      <name><![CDATA[Тула]]></name>
+      <code><![CDATA[tula]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[5066974782554114]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((37.4140448375009 54.3185426467232,38.4215849166292 54.3185426467232,38.4215849166292 53.8995391613665,37.4140448375009 53.8995391613665,37.4140448375009 54.3185426467232))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((37.4141378003196 54.3181929372033,38.4212829891007 54.3181929372033,38.4212829891007 53.8998559961604,37.4141378003196 53.8998559961604,37.4141378003196 54.3181929372033))]]></road_extent>
+      <centroid><![CDATA[POINT(37.573004064131837 54.154020079976895)]]></centroid>
+      <firmscount><![CDATA[14035]]></firmscount>
+      <filialscount><![CDATA[18597]]></filialscount>
+      <rubricscount><![CDATA[830]]></rubricscount>
+      <geoscount><![CDATA[37929]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Тулы]]></genitive>
+        <prepositional><![CDATA[Туле]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[84]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>13</id>
+      <name><![CDATA[Тюмень]]></name>
+      <code><![CDATA[tyumen]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[1830012550381570]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((65.213221269303 57.26989015109,66.6908512966203 57.26989015109,66.6908512966203 56.397677717337,65.213221269303 56.397677717337,65.213221269303 57.26989015109))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((65.2142258234493 57.2695393933619,66.6895563018302 57.2695393933619,66.6895563018302 56.3989926846971,65.2142258234493 56.3989926846971,65.2142258234493 57.2695393933619))]]></road_extent>
+      <centroid><![CDATA[POINT(65.5499696457059 57.144450623684655)]]></centroid>
+      <firmscount><![CDATA[19288]]></firmscount>
+      <filialscount><![CDATA[27041]]></filialscount>
+      <rubricscount><![CDATA[910]]></rubricscount>
+      <geoscount><![CDATA[98196]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Тюмени]]></genitive>
+        <prepositional><![CDATA[Тюмени]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[130]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>37</id>
+      <name><![CDATA[Улан-Удэ]]></name>
+      <code><![CDATA[ulanude]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[5207712270909442]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((107.358424044587 52.0564826224552,107.990789312552 52.0564826224552,107.990789312552 51.6913513059764,107.358424044587 51.6913513059764,107.358424044587 52.0564826224552))]]></actual_extent>
+      <timezone><![CDATA[Pacific/Palau]]></timezone>
+      <road_extent><![CDATA[POLYGON((107.361274261002 52.0541844917936,107.983030176432 52.0541844917936,107.983030176432 51.6930067980462,107.361274261002 51.6930067980462,107.361274261002 52.0541844917936))]]></road_extent>
+      <centroid><![CDATA[POINT(107.70457263590737 51.804291216681321)]]></centroid>
+      <firmscount><![CDATA[7554]]></firmscount>
+      <filialscount><![CDATA[10209]]></filialscount>
+      <rubricscount><![CDATA[827]]></rubricscount>
+      <geoscount><![CDATA[27100]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Улан-Удэ]]></genitive>
+        <prepositional><![CDATA[Улан-Удэ]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[59]]></transport_routes_count>
+      <timezone_as_offset>540</timezone_as_offset>
+    </city>
+    <city>
+      <id>55</id>
+      <name><![CDATA[Ульяновск]]></name>
+      <code><![CDATA[ulyanovsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[7740987061305346]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((48.0311106659387 54.4707244363832,48.7744246493397 54.4707244363832,48.7744246493397 54.1049833223472,48.0311106659387 54.1049833223472,48.0311106659387 54.4707244363832))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((48.0361899052988 54.4620594144513,48.7670620672531 54.4620594144513,48.7670620672531 54.1080304042816,48.0361899052988 54.1080304042816,48.0361899052988 54.4620594144513))]]></road_extent>
+      <centroid><![CDATA[POINT(48.36538783112367 54.290735792596628)]]></centroid>
+      <firmscount><![CDATA[9306]]></firmscount>
+      <filialscount><![CDATA[13004]]></filialscount>
+      <rubricscount><![CDATA[836]]></rubricscount>
+      <geoscount><![CDATA[212989]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Ульяновска]]></genitive>
+        <prepositional><![CDATA[Ульяновске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[110]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>83</id>
+      <name><![CDATA[Уссурийск]]></name>
+      <code><![CDATA[ussuriysk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[11681636735254530]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Pacific/Pohnpei]]></timezone>
+      <actual_extent><![CDATA[POLYGON((131.749240834979 43.9718774762456,132.142052299271 43.9718774762456,132.142052299271 43.7080787964851,131.749240834979 43.7080787964851,131.749240834979 43.9718774762456))]]></actual_extent>
+      <road_extent><![CDATA[POLYGON((131.750016594457 43.9710854348874,132.140895784509 43.9710854348874,132.140895784509 43.7094761383526,131.750016594457 43.7094761383526,131.750016594457 43.9710854348874))]]></road_extent>
+      <centroid><![CDATA[POINT(132.00443541245556 43.797411896337479)]]></centroid>
+      <firmscount><![CDATA[1770]]></firmscount>
+      <filialscount><![CDATA[1986]]></filialscount>
+      <rubricscount><![CDATA[598]]></rubricscount>
+      <geoscount><![CDATA[23835]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <is_3d><![CDATA[true]]></is_3d>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Уссурийск]]></genitive>
+        <prepositional><![CDATA[Уссурийске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[44]]></transport_routes_count>
+      <timezone_as_offset>660</timezone_as_offset>
+    </city>
+    <city>
+      <id>17</id>
+      <name><![CDATA[Уфа]]></name>
+      <code><![CDATA[ufa]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[2392962503802882]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((55.715089903398 54.9572845119541,56.3124162040462 54.9572845119541,56.3124162040462 54.4785240916387,55.715089903398 54.4785240916387,55.715089903398 54.9572845119541))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((55.7163730715119 54.95657917415,56.3108956312947 54.95657917415,56.3108956312947 54.4797704584251,55.7163730715119 54.4797704584251,55.7163730715119 54.95657917415))]]></road_extent>
+      <centroid><![CDATA[POINT(55.9891025503193 54.704456527692045)]]></centroid>
+      <firmscount><![CDATA[21136]]></firmscount>
+      <filialscount><![CDATA[29830]]></filialscount>
+      <rubricscount><![CDATA[934]]></rubricscount>
+      <geoscount><![CDATA[39522]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Уфы]]></genitive>
+        <prepositional><![CDATA[Уфе]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[179]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>35</id>
+      <name><![CDATA[Хабаровск]]></name>
+      <code><![CDATA[khabarovsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[4926237294198786]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((134.873582147119 48.6071037196206,135.259035742696 48.6071037196206,135.259035742696 48.288577932731,134.873582147119 48.288577932731,134.873582147119 48.6071037196206))]]></actual_extent>
+      <timezone><![CDATA[Pacific/Pohnpei]]></timezone>
+      <road_extent><![CDATA[POLYGON((134.873766581292 48.6071609540262,135.259001767554 48.6071609540262,135.259001767554 48.2886409618819,134.873766581292 48.2886409618819,134.873766581292 48.6071609540262))]]></road_extent>
+      <centroid><![CDATA[POINT(135.07201770648052 48.48022527761843)]]></centroid>
+      <firmscount><![CDATA[10617]]></firmscount>
+      <filialscount><![CDATA[14076]]></filialscount>
+      <rubricscount><![CDATA[862]]></rubricscount>
+      <geoscount><![CDATA[41019]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Хабаровска]]></genitive>
+        <prepositional><![CDATA[Хабаровске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[86]]></transport_routes_count>
+      <timezone_as_offset>660</timezone_as_offset>
+    </city>
+    <city>
+      <id>53</id>
+      <name><![CDATA[Чебоксары]]></name>
+      <code><![CDATA[cheboksary]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[7459512084594690]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((46.9895856527478 56.342026157718,47.6057602510651 56.342026157718,47.6057602510651 55.9808449646861,46.9895856527478 55.9808449646861,46.9895856527478 56.342026157718))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <centroid><![CDATA[POINT(47.222806987494252 56.139052139170147)]]></centroid>
+      <firmscount><![CDATA[9741]]></firmscount>
+      <filialscount><![CDATA[13158]]></filialscount>
+      <rubricscount><![CDATA[822]]></rubricscount>
+      <geoscount><![CDATA[23201]]></geoscount>
+      <road_extent><![CDATA[POLYGON((46.9912323488645 56.341020537044,47.5953820832355 56.341020537044,47.5953820832355 55.981597827846,46.9912323488645 55.981597827846,46.9912323488645 56.341020537044))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Чебоксар]]></genitive>
+        <prepositional><![CDATA[Чебоксарах]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[101]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+    <city>
+      <id>15</id>
+      <name><![CDATA[Челябинск]]></name>
+      <code><![CDATA[chelyabinsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[2111487527092226]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((61.1854857899909 55.3198263279035,61.7445803307041 55.3198263279035,61.7445803307041 54.9904624310221,61.1854857899909 54.9904624310221,61.1854857899909 55.3198263279035))]]></actual_extent>
+      <timezone><![CDATA[Indian/Chagos]]></timezone>
+      <road_extent><![CDATA[POLYGON((61.1858198153393 55.3187257467909,61.7436807128246 55.3187257467909,61.7436807128246 54.993029668379,61.1858198153393 54.993029668379,61.1858198153393 55.3187257467909))]]></road_extent>
+      <centroid><![CDATA[POINT(61.412323319167093 55.1516966119992)]]></centroid>
+      <firmscount><![CDATA[23751]]></firmscount>
+      <filialscount><![CDATA[35424]]></filialscount>
+      <rubricscount><![CDATA[932]]></rubricscount>
+      <geoscount><![CDATA[49271]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Челябинска]]></genitive>
+        <prepositional><![CDATA[Челябинске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[224]]></transport_routes_count>
+      <timezone_as_offset>360</timezone_as_offset>
+    </city>
+    <city>
+      <id>64</id>
+      <name><![CDATA[Чита]]></name>
+      <code><![CDATA[chita]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[9007624456503298]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Pacific/Saipan]]></timezone>
+      <actual_extent><![CDATA[POLYGON((113.102112402006 52.1861143497386,113.639183600866 52.1861143497386,113.639183600866 51.9265020524875,113.102112402006 51.9265020524875,113.102112402006 52.1861143497386))]]></actual_extent>
+      <centroid><![CDATA[POINT(113.5079592836349 52.038731325115926)]]></centroid>
+      <firmscount><![CDATA[6285]]></firmscount>
+      <filialscount><![CDATA[8157]]></filialscount>
+      <rubricscount><![CDATA[790]]></rubricscount>
+      <geoscount><![CDATA[22489]]></geoscount>
+      <road_extent><![CDATA[POLYGON((113.102308199248 52.1811614879701,113.637344052457 52.1811614879701,113.637344052457 51.9266615002309,113.102308199248 51.9266615002309,113.102308199248 52.1811614879701))]]></road_extent>
+      <max_zoomlevel><![CDATA[18]]></max_zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Читы]]></genitive>
+        <prepositional><![CDATA[Чите]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[50]]></transport_routes_count>
+      <timezone_as_offset>600</timezone_as_offset>
+    </city>
+    <city>
+      <id>88</id>
+      <name><![CDATA[Южно-Сахалинск]]></name>
+      <code><![CDATA[yuzhnosakhalinsk]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[12385324177031170]]></geo_id>
+      <language>ru</language>
+      <timezone><![CDATA[Pacific/Pohnpei]]></timezone>
+      <actual_extent><![CDATA[POLYGON((142.447679651114 47.5156338136541,142.971757647491 47.5156338136541,142.971757647491 46.5832086203485,142.447679651114 46.5832086203485,142.447679651114 47.5156338136541))]]></actual_extent>
+      <centroid><![CDATA[POINT(142.74433311947004 46.911617176779345)]]></centroid>
+      <firmscount><![CDATA[2509]]></firmscount>
+      <filialscount><![CDATA[3105]]></filialscount>
+      <rubricscount><![CDATA[660]]></rubricscount>
+      <geoscount><![CDATA[21909]]></geoscount>
+      <dailyImport><![CDATA[true]]></dailyImport>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <starting_3d_zoom><![CDATA[17]]></starting_3d_zoom>
+      <is_3d><![CDATA[true]]></is_3d>
+      <country_code><![CDATA[ru]]></country_code>
+      <grammatical_cases>
+        <genitive><![CDATA[Южно-Сахалинска]]></genitive>
+        <prepositional><![CDATA[Южно-Сахалинске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[31]]></transport_routes_count>
+      <timezone_as_offset>660</timezone_as_offset>
+    </city>
+    <city>
+      <id>50</id>
+      <name><![CDATA[Якутск]]></name>
+      <code><![CDATA[yakutsk]]></code>
+      <alias><![CDATA[Yakutsk]]></alias>
+      <geo_id><![CDATA[7037299619528706]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((129.525801926374 62.1878305569161,129.99230258239 62.1878305569161,129.99230258239 61.8005014397561,129.525801926374 61.8005014397561,129.525801926374 62.1878305569161))]]></actual_extent>
+      <timezone><![CDATA[Asia/Yakutsk]]></timezone>
+      <centroid><![CDATA[POINT(129.689295579487 62.020296425763057)]]></centroid>
+      <firmscount><![CDATA[6694]]></firmscount>
+      <filialscount><![CDATA[8591]]></filialscount>
+      <rubricscount><![CDATA[814]]></rubricscount>
+      <geoscount><![CDATA[25051]]></geoscount>
+      <road_extent><![CDATA[POLYGON((129.526041195705 62.1865553522742,129.98725272061 62.1865553522742,129.98725272061 61.8011434206754,129.526041195705 61.8011434206754,129.526041195705 62.1865553522742))]]></road_extent>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Якутска]]></genitive>
+        <prepositional><![CDATA[Якутске]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[27]]></transport_routes_count>
+      <timezone_as_offset>600</timezone_as_offset>
+    </city>
+    <city>
+      <id>28</id>
+      <name><![CDATA[Ярославль]]></name>
+      <code><![CDATA[yaroslavl]]></code>
+      <alias><![CDATA[]]></alias>
+      <geo_id><![CDATA[3941074875711490]]></geo_id>
+      <language>ru</language>
+      <actual_extent><![CDATA[POLYGON((39.7178413595536 57.7761985701891,40.0128826721599 57.7761985701891,40.0128826721599 57.5193090554516,39.7178413595536 57.5193090554516,39.7178413595536 57.7761985701891))]]></actual_extent>
+      <timezone><![CDATA[Indian/Reunion]]></timezone>
+      <road_extent><![CDATA[POLYGON((39.718297108362 57.776163416291,40.0127036002559 57.776163416291,40.0127036002559 57.5196234217747,39.718297108362 57.5196234217747,39.718297108362 57.776163416291))]]></road_extent>
+      <centroid><![CDATA[POINT(39.868433024725284 57.625490563649151)]]></centroid>
+      <firmscount><![CDATA[9364]]></firmscount>
+      <filialscount><![CDATA[12575]]></filialscount>
+      <rubricscount><![CDATA[839]]></rubricscount>
+      <geoscount><![CDATA[39247]]></geoscount>
+      <transport><![CDATA[true]]></transport>
+      <flamp><![CDATA[false]]></flamp>
+      <zoomlevel><![CDATA[11]]></zoomlevel>
+      <country_code><![CDATA[ru]]></country_code>
+      <min_zoomlevel><![CDATA[9]]></min_zoomlevel>
+      <max_zoomlevel><![CDATA[17]]></max_zoomlevel>
+      <grammatical_cases>
+        <genitive><![CDATA[Ярославля]]></genitive>
+        <prepositional><![CDATA[Ярославле]]></prepositional>
+      </grammatical_cases>
+      <transport_routes_count><![CDATA[100]]></transport_routes_count>
+      <timezone_as_offset>240</timezone_as_offset>
+    </city>
+  </result>
+</root>

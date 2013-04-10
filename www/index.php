@@ -42,17 +42,8 @@
             <tr class="main">
                 <td>
 <?php
-
-    include_once("api2gis/api2gis.php");
-    
-    $api2gis = new Api2gis('ruhlhy8961');
-    $result = $api2gis->LoadProjectsList();
-    echo $result;
-
+    include_once("main.php");
 ?>
-				
-				
-				
 
 
                 </td>
